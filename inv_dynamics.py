@@ -7,7 +7,7 @@ from numpy.linalg.linalg import norm
 
 g = np.array([0,0,9.8]) #acceleration due to gravity
 accep_p= np.array([1,2,3])  #acceleration of end-effector
-vel_p= np.array([1,2,3])    #velocity of end-effector
+vel_p= np.array([10,20,30])    #velocity of end-effector
 
 p=[3,4,5]
 
@@ -27,26 +27,26 @@ alpha=[0,120,240] #angles between legs from top view w.r.t global_frame
 Tio=np.array([[[np.cos(alpha[i]*np.pi/180),np.sin(alpha[i]*np.pi/180),0],[-np.sin(alpha[i]*np.pi/180),np.cos(alpha[i]*np.pi/180),0],\
     [0,0,1]] for i in range(3)])
 b= [[3,2,5],[3,2,5],[3,2,5],[3,2,5],[3,2,5],[3,2,5]]
-a= [[2,5,0],[2,5,0],[2,5,0]]
+a= [[3,0,0],[2,5,0],[2,5,0]]
 ri_i= -np.linalg.norm(a[0])+np.linalg.norm(b[0])+np.array([np.dot(Tio[i],p) for i in range(3)])
 
 phi3i= [np.arccos((-p[0]*np.sin(alpha[i]*np.pi/180)+p[1]*np.cos(alpha[i]*np.pi/180))/(np.linalg.norm(L_2[i]))) for i in range(3)]   #in radians
 print(phi3i)
 
-phi2i= [np.arccos((np.linalg.norm(ri_i[i])**2 - np.linalg.norm(L_1[i])**2- np.linalg.norm(L_2[i])**2)/(2*np.linalg.norm(L_2[i])*np.linalg.norm(L_1[i])*np.sin(phi3i[i])))\
+phi2i= [np.arccos((np.linalg.norm(ri_i[i])**2 - np.linalg.norm(L_1[i])**2- np.linalg.norm(L_2[i])**2)/(small+ 2*np.linalg.norm(L_2[i])*np.linalg.norm(L_1[i])*np.sin(phi3i[i])))\
     for i in range(3)]  #in radians
 print("phi2i",phi2i)
 phi1i= [np.arctan(-(-np.linalg.norm(L_1[i])*ri_i[i,2] -np.linalg.norm(L_2[i])*np.sin(phi3i[i])*np.cos(phi2i[i])*ri_i[i,2]) + np.linalg.norm(L_2[i])*np.sin(phi3i[i])*np.sin(phi2i[i])\
-    *ri_i[i,0])/(np.linalg.norm(L_1[i])*ri_i[i,0]+np.linalg.norm(L_2[i])*np.sin(phi3i[i])*np.sin(phi2i[i])*ri_i[i,2]+np.linalg.norm(L_2[i])*np.sin(phi3i[i])*np.cos(phi2i[i])*ri_i[i,0]) for i in range(3)] #in radians
+    *ri_i[i,0])/(small+ np.linalg.norm(L_1[i])*ri_i[i,0]+np.linalg.norm(L_2[i])*np.sin(phi3i[i])*np.sin(phi2i[i])*ri_i[i,2]+np.linalg.norm(L_2[i])*np.sin(phi3i[i])*np.cos(phi2i[i])*ri_i[i,0]) for i in range(3)] #in radians
 print("phi1i",phi1i)
 
 phi=np.array([phi1i,phi2i,phi3i])
 
 #phi=np.array([[2,5,6],[2,5,6],[2,5,6]]) #angles of links as per diagream [[p11,p12,p12]]
 
-m2= [3,3,3] #mass of distal links
-m1= [3,3,3] #masses of proximal links
-mp= 3 #mass of end-effector and load
+m2= [0.375,0.375,0.375] #mass of distal links in kg
+m1= [0.65,0.65,0.65] #masses of proximal links in kg
+mp= 2.5 #mass of end-effector and load in kg
 
 #dimesions in end-effector
 b= [[3,2,5],[3,2,5],[3,2,5],[3,2,5],[3,2,5],[3,2,5]] #center of end effector to center of rod-end bearing sphere
