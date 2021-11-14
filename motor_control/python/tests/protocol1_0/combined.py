@@ -32,7 +32,7 @@
 # Be aware that:
 # This example configures two different control tables (especially, if it uses Dynamixel and Dynamixel PRO). It may modify critical Dynamixel parameter on the control table, if Dynamixels have wrong ID.
 #
-import time
+from time import sleep
 import os
 
 if os.name == 'nt':
@@ -57,7 +57,7 @@ from dynamixel_sdk import *                    # Uses Dynamixel SDK library
 ADDR_MX_TORQUE_ENABLE       = 24               # Control table address is different in Dynamixel model
 ADDR_MX_GOAL_POSITION       = 30
 ADDR_MX_PRESENT_POSITION    = 36
-
+ADDR_Moving_speed = 32
 '''# Control table address for Dynamixel PRO
 ADDR_PRO_TORQUE_ENABLE      = 64
 ADDR_PRO_GOAL_POSITION      = 116
@@ -77,20 +77,24 @@ DEVICENAME                  = '/dev/ttyUSB0'    # Check which port is being used
 
 TORQUE_ENABLE               = 1                 # Value for enabling the torque
 TORQUE_DISABLE              = 0                 # Value for disabling the torque
-DXL1_MINIMUM_POSITION_VALUE = 10           # Dynamixel will rotate between this value
+DXL1_MINIMUM_POSITION_VALUE = 50           # Dynamixel will rotate between this value
 DXL1_MAXIMUM_POSITION_VALUE = 1000            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
-DXL2_MINIMUM_POSITION_VALUE = 10 
+DXL2_MINIMUM_POSITION_VALUE = 50
 DXL2_MAXIMUM_POSITION_VALUE = 1000
-DXL3_MINIMUM_POSITION_VALUE = 10 
+DXL3_MINIMUM_POSITION_VALUE = 50
 DXL3_MAXIMUM_POSITION_VALUE = 1000
-DXL1_MOVING_STATUS_THRESHOLD = 10                # Dynamixel MX moving status threshold
+DXL1_MOVING_STATUS_THRESHOLD = 20                # Dynamixel MX moving status threshold
 DXL2_MOVING_STATUS_THRESHOLD = 20                # Dynamixel PRO moving status threshold
-DXL3_MOVING_STATUS_THRESHOLD = 20  
+DXL3_MOVING_STATUS_THRESHOLD = 20 
 
 index = 0
 dxl1_goal_position = [DXL1_MINIMUM_POSITION_VALUE, DXL1_MAXIMUM_POSITION_VALUE]         # Goal position of Dynamixel MX
 dxl2_goal_position = [DXL2_MINIMUM_POSITION_VALUE, DXL2_MAXIMUM_POSITION_VALUE]         # Goal position of Dynamixel PRO
 dxl3_goal_position = [DXL2_MINIMUM_POSITION_VALUE, DXL2_MAXIMUM_POSITION_VALUE] 
+
+dxl1_speed= 300
+dxl2_speed= 300
+dxl3_speed= 300
 
 # Initialize PortHandler instance
 # Set the port path
@@ -151,10 +155,37 @@ else:
     print("Dynamixel#%d has been successfully connected" % DXL3_ID)
 
 
+''''
+dxl_speed_result, dxl_speed_error = packetHandler1.write4ByteTxRx(portHandler, DXL1_ID, ADDR_Moving_speed, dxl1_speed)
+if dxl_speed_result != COMM_SUCCESS:
+    print("%s" % packetHandler1.getTxRxResult(dxl_speed_result))
+elif dxl_speed_error != 0:
+    print("%s" % packetHandler1.getRxPacketError(dxl_speed_error))
+sleep(0.25)
+
+dxl_speed_result, dxl_speed_error = packetHandler2.write4ByteTxRx(portHandler, DXL2_ID, ADDR_Moving_speed, dxl2_speed)
+if dxl_speed_result != COMM_SUCCESS:
+    print("%s" % packetHandler1.getTxRxResult(dxl_speed_result))
+elif dxl_speed_error != 0:
+    print("%s" % packetHandler1.getRxPacketError(dxl_speed_error))
+
+sleep(0.25)
+
+dxl_speed_result, dxl_speed_error = packetHandler3.write4ByteTxRx(portHandler, DXL3_ID, ADDR_Moving_speed, dxl3_speed)
+if dxl_speed_result != COMM_SUCCESS:
+    print("%s" % packetHandler1.getTxRxResult(dxl_speed_result))
+elif dxl_speed_error != 0:
+    print("%s" % packetHandler1.getRxPacketError(dxl_speed_error))
+
+sleep(0.25)
+'''
+
 while 1:
     print("Press any key to continue! (or press ESC to quit!)")
     if getch() == chr(0x1b):
         break
+
+   
 
     # Write Dynamixel#1 goal position
     dxl_comm_result, dxl_error = packetHandler1.write4ByteTxRx(portHandler, DXL1_ID, ADDR_MX_GOAL_POSITION, dxl1_goal_position[index])
