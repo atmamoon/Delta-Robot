@@ -25,11 +25,12 @@
 #
 # Available Dynamixel model on this example : All models using Protocol 1.0
 # This example is tested with a Dynamixel AX-12A, and an USB2DYNAMIXEL in Windows PC
-# Be sure that Dynamixel AX properties are already set as %% ID : 1 / Baudnum : 1 (Baudrate : 1000000)
+# Be sure that Dynamixel AX properties are already set as %% ID : 1 / Baudnum : 1 (Baudrate : 2000000)
 #
 
 import os
 from time import sleep
+import numpy as np
 
 if os.name == 'nt':
     import msvcrt
@@ -74,8 +75,18 @@ DEVICENAME                  = "/dev/ttyUSB0"    # Check which port is being used
 
 TORQUE_ENABLE               = 1                 # Value for enabling the torque
 TORQUE_DISABLE              = 0                 # Value for disabling the torque
-DXL_MINIMUM_POSITION_VALUE  = 600           # Dynamixel will rotate between this value
-DXL_MAXIMUM_POSITION_VALUE  = 700            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
+#DXL_MINIMUM_POSITION_VALUE  = 600           # Dynamixel will rotate between this value
+#DXL_MAXIMUM_POSITION_VALUE  = 700            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
+
+DXL_MINIMUM_POSITION_VALUE_1  = 512
+DXL_MAXIMUM_POSITION_VALUE_1  = 700
+
+DXL_MINIMUM_POSITION_VALUE_2  = 512
+DXL_MAXIMUM_POSITION_VALUE_2  = 700
+
+DXL_MINIMUM_POSITION_VALUE_3  = 512
+DXL_MAXIMUM_POSITION_VALUE_3  = 700
+
 DXL_MINIMUM_SPEED_VALUE  = 50           # Dynamixel will rotate between this value
 DXL_MAXIMUM_SPEED_VALUE  = 100            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
 DXL_MOVING_STATUS_THRESHOLD = 20                # Dynamixel moving status threshold
@@ -83,7 +94,9 @@ DXL_MOVING_STATUS_THRESHOLD = 20                # Dynamixel moving status thresh
 speed=100
 
 index = 0
-dxl_goal_position = [DXL_MINIMUM_POSITION_VALUE, DXL_MAXIMUM_POSITION_VALUE]         # Goal position
+dxl_goal_position_1 = [DXL_MINIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_1]         # Goal position_1
+dxl_goal_position_2 = [DXL_MINIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_2]         # Goal position_2
+dxl_goal_position_3 = [DXL_MINIMUM_POSITION_VALUE_3, DXL_MAXIMUM_POSITION_VALUE_3]         # Goal position_3
 
 # Initialize PortHandler instance
 # Set the port path
@@ -98,6 +111,67 @@ packetHandler = PacketHandler(PROTOCOL_VERSION)
 
 # Initialize GroupSyncWrite instance
 groupSyncWrite = GroupSyncWrite(portHandler, packetHandler, ADDR_AX_GOAL_POSITION, LEN_AX_GOAL_POSITION)
+
+
+
+#lengths are in meters
+
+
+L=0.160      #upper legs length
+l=0.307     #lower legs parallelogram length
+h=0.036      #lower legs parallelogram width
+wb=0.130     #planar distance from {0} to near base side
+sb=6*wb/np.sqrt(3)    #base equilateral triangle side
+ub=2*wb     #planar distance from {0} to a base vertex
+
+up=0.03764      #planar distance from {P} to a platform vertex
+sp=up*np.sqrt(3)      #platform equilateral triangle side
+wp=up/2      #planar distance from {P} to near platform side
+
+a=wb-up
+b=sp/2 - wb* (np.sqrt(3)/2)
+c=wp - wb/2
+
+
+
+def InvKin():
+    '''x,y,z=map(float,input("enter end-effector coordinates x y z\
+        : ").split())'''
+    z=0.9
+    x,y=[0,0]
+    coordinates=list(map(float,input("enter coordinates: ").split()))
+    
+    if len(coordinates)==3:
+        x,y,z=coordinates
+    else:
+        x,y=coordinates
+    E=[2*L*(y+a), -L*((x+b)*np.sqrt(3)+y+c), L*((x-b)*np.sqrt(3)-y-c)]
+    F=[2*z*L, 2*z*L, 2*z*L]
+    G=[x**2+y**2+z**2+a**2+L**2+2*y*a-l**2, x**2+y**2+z**2+b**2+c**2+L**2+2*(x*b+y*c)-l**2,\
+        x**2+y**2+z**2+b**2+c**2+L**2+2*(y*c-x*b)-l**2]
+
+    theta=[]
+    offset=0 #12.78434867110548
+    for i in range(3):
+        
+        t_val=np.roots([G[i]-E[i], 2*F[i], G[i]+E[i]])
+        t=np.array([2*np.arctan(i)*180/np.pi for i in t_val if np.isreal(i)==True ])
+        if len(t)!=0:
+            t_indx=np.argmin(np.absolute(t))
+            theta.append(t[t_indx]+offset)
+
+    if len(theta)==0:
+        #rospy.loginfo("no solutions found!")
+        if __name__=="__main__":
+            print("no solutions found!")
+    else:
+        #rospy.loginfo(f"\n\nThe three angles of the servos\
+        #from their horizontal position are {theta}")
+        if __name__=="__main__":
+            print(f"\n\nThe three angles of the servos\
+            from their horizontal position are {theta}")
+            DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3 = list((120-np.array(theta))*1024/300)
+
 
 # Open port
 if portHandler.openPort():
@@ -175,30 +249,33 @@ elif dxl__error != 0:
 # syncwrite test start
 while 1:
     print("Press any key to continue! (or press ESC to quit!)")
+    InvKin()
     if getch() == chr(0x1b):
         break
 
     # Allocate goal position value into byte array
     # param_goal_position = [DXL_LOBYTE(DXL_LOWORD(dxl_goal_position[index])), DXL_HIBYTE(DXL_LOWORD(dxl_goal_position[index])), DXL_LOBYTE(DXL_HIWORD(dxl_goal_position[index])), DXL_HIBYTE(DXL_HIWORD(dxl_goal_position[index]))]
     # because AX12's goal posiion is only 2 bytes. only needed to split them once.
-    param_goal_position = [DXL_LOBYTE(dxl_goal_position[index]), DXL_HIBYTE(dxl_goal_position[index])]
+    param_goal_position_1 = [DXL_LOBYTE(dxl_goal_position_1[index]), DXL_HIBYTE(dxl_goal_position_1[index])]
+    param_goal_position_2 = [DXL_LOBYTE(dxl_goal_position_2[index]), DXL_HIBYTE(dxl_goal_position_2[index])]
+    param_goal_position_3 = [DXL_LOBYTE(dxl_goal_position_3[index]), DXL_HIBYTE(dxl_goal_position_3[index])]
 
     # Add Dynamixel#1 goal position value to the Syncwrite parameter storage
-    dxl_addparam_result = groupSyncWrite.addParam(DXL1_ID, param_goal_position)
+    dxl_addparam_result_1 = groupSyncWrite.addParam(DXL1_ID, param_goal_position_1)
 
-    if dxl_addparam_result != True:
+    if dxl_addparam_result_1 != True:
         print("[ID:%03d] groupSyncWrite addparam failed" % DXL1_ID)
         quit()
 
     # Add Dynamixel#2 goal position value to the Syncwrite parameter storage
-    dxl_addparam_result = groupSyncWrite.addParam(DXL2_ID, param_goal_position)
-    if dxl_addparam_result != True:
+    dxl_addparam_result_2 = groupSyncWrite.addParam(DXL2_ID, param_goal_position_2)
+    if dxl_addparam_result_2 != True:
         print("[ID:%03d] groupSyncWrite addparam failed" % DXL2_ID)
         quit()
 
      # Add Dynamixel#2 goal position value to the Syncwrite parameter storage
-    dxl_addparam_result = groupSyncWrite.addParam(DXL3_ID, param_goal_position)
-    if dxl_addparam_result != True:
+    dxl_addparam_result_3 = groupSyncWrite.addParam(DXL3_ID, param_goal_position_3)
+    if dxl_addparam_result_3 != True:
         print("[ID:%03d] groupSyncWrite addparam failed" % DXL3_ID)
         quit()
 
@@ -232,9 +309,9 @@ while 1:
         elif dxl_error != 0:
             print("%s" % packetHandler.getRxPacketError(dxl_error))
 
-        print("[ID:%03d] GoalPos:%03d  PresPos:%03d\t[ID:%03d] GoalPos:%03d  PresPos:%03d\t[ID:%03d] GoalPos:%03d  PresPos:%03d" % (DXL1_ID, dxl_goal_position[index], dxl1_present_position, DXL2_ID, dxl_goal_position[index], dxl2_present_position,DXL3_ID,dxl_goal_position[index], dxl3_present_position))
+        print("[ID:%03d] GoalPos:%03d  PresPos:%03d\t[ID:%03d] GoalPos:%03d  PresPos:%03d\t[ID:%03d] GoalPos:%03d  PresPos:%03d" % (DXL1_ID, dxl_goal_position_1[index], dxl1_present_position, DXL2_ID, dxl_goal_position_2[index], dxl2_present_position,DXL3_ID,dxl_goal_position_3[index], dxl3_present_position))
 
-        if not ((abs(dxl_goal_position[index] - dxl1_present_position) > DXL_MOVING_STATUS_THRESHOLD) and (abs(dxl_goal_position[index] - dxl2_present_position) > DXL_MOVING_STATUS_THRESHOLD)and (abs(dxl_goal_position[index] - dxl3_present_position) > DXL_MOVING_STATUS_THRESHOLD)):
+        if not ((abs(dxl_goal_position_1[index] - dxl1_present_position) > DXL_MOVING_STATUS_THRESHOLD) and (abs(dxl_goal_position_2[index] - dxl2_present_position) > DXL_MOVING_STATUS_THRESHOLD)and (abs(dxl_goal_position_3[index] - dxl3_present_position) > DXL_MOVING_STATUS_THRESHOLD)):
             break
 
     # Change goal position
