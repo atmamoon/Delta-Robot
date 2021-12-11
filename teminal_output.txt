@@ -1,0 +1,1009 @@
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [44.26485106529585, 44.26485106529585, 44.26485106529585]
+target2 700
+[ID:001] GoalPos:600  PresPos:748       [ID:002] GoalPos:600  PresPos:778       [ID:000] GoalPos:600  PresPos:752
+[ID:001] GoalPos:600  PresPos:748       [ID:002] GoalPos:600  PresPos:777       [ID:000] GoalPos:600  PresPos:750
+[ID:001] GoalPos:600  PresPos:738       [ID:002] GoalPos:600  PresPos:766       [ID:000] GoalPos:600  PresPos:735
+[ID:001] GoalPos:600  PresPos:726       [ID:002] GoalPos:600  PresPos:750       [ID:000] GoalPos:600  PresPos:721
+[ID:001] GoalPos:600  PresPos:718       [ID:002] GoalPos:600  PresPos:743       [ID:000] GoalPos:600  PresPos:713
+[ID:001] GoalPos:600  PresPos:709       [ID:002] GoalPos:600  PresPos:735       [ID:000] GoalPos:600  PresPos:704
+[ID:001] GoalPos:600  PresPos:698       [ID:002] GoalPos:600  PresPos:724       [ID:000] GoalPos:600  PresPos:695
+[ID:001] GoalPos:600  PresPos:687       [ID:002] GoalPos:600  PresPos:714       [ID:000] GoalPos:600  PresPos:685
+[ID:001] GoalPos:600  PresPos:679       [ID:002] GoalPos:600  PresPos:704       [ID:000] GoalPos:600  PresPos:675
+[ID:001] GoalPos:600  PresPos:669       [ID:002] GoalPos:600  PresPos:694       [ID:000] GoalPos:600  PresPos:665
+[ID:001] GoalPos:600  PresPos:660       [ID:002] GoalPos:600  PresPos:686       [ID:000] GoalPos:600  PresPos:655
+[ID:001] GoalPos:600  PresPos:650       [ID:002] GoalPos:600  PresPos:676       [ID:000] GoalPos:600  PresPos:645
+[ID:001] GoalPos:600  PresPos:641       [ID:002] GoalPos:600  PresPos:667       [ID:000] GoalPos:600  PresPos:636
+[ID:001] GoalPos:600  PresPos:632       [ID:002] GoalPos:600  PresPos:657       [ID:000] GoalPos:600  PresPos:627
+[ID:001] GoalPos:600  PresPos:623       [ID:002] GoalPos:600  PresPos:647       [ID:000] GoalPos:600  PresPos:617
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 17s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [44.26485106529585, 44.26485106529585, 44.26485106529585]
+from func 258.5093083637901
+target2 700
+[ID:001] GoalPos:600  PresPos:718       [ID:002] GoalPos:600  PresPos:741       [ID:000] GoalPos:600  PresPos:724
+[ID:001] GoalPos:600  PresPos:718       [ID:002] GoalPos:600  PresPos:741       [ID:000] GoalPos:600  PresPos:722
+[ID:001] GoalPos:600  PresPos:712       [ID:002] GoalPos:600  PresPos:732       [ID:000] GoalPos:600  PresPos:710
+[ID:001] GoalPos:600  PresPos:698       [ID:002] GoalPos:600  PresPos:717       [ID:000] GoalPos:600  PresPos:696
+[ID:001] GoalPos:600  PresPos:688       [ID:002] GoalPos:600  PresPos:707       [ID:000] GoalPos:600  PresPos:686
+[ID:001] GoalPos:600  PresPos:681       [ID:002] GoalPos:600  PresPos:700       [ID:000] GoalPos:600  PresPos:677
+[ID:001] GoalPos:600  PresPos:672       [ID:002] GoalPos:600  PresPos:691       [ID:000] GoalPos:600  PresPos:668
+[ID:001] GoalPos:600  PresPos:661       [ID:002] GoalPos:600  PresPos:680       [ID:000] GoalPos:600  PresPos:659
+[ID:001] GoalPos:600  PresPos:651       [ID:002] GoalPos:600  PresPos:669       [ID:000] GoalPos:600  PresPos:649
+[ID:001] GoalPos:600  PresPos:643       [ID:002] GoalPos:600  PresPos:660       [ID:000] GoalPos:600  PresPos:639
+[ID:001] GoalPos:600  PresPos:633       [ID:002] GoalPos:600  PresPos:651       [ID:000] GoalPos:600  PresPos:629
+[ID:001] GoalPos:600  PresPos:624       [ID:002] GoalPos:600  PresPos:642       [ID:000] GoalPos:600  PresPos:619
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 1m9s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [44.26485106529585, 44.26485106529585, 44.26485106529585]
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 256, in <module>
+    InvKin()
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 174, in InvKin
+    DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3 = list(int((150+np.array(theta))*1023/300))
+TypeError: only size-1 arrays can be converted to Python scalars
+~ via  v10.19.0 via 🐍 v3.8.10 took 5s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [44.26485106529585, 44.26485106529585, 44.26485106529585]
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 256, in <module>
+    InvKin()
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 174, in InvKin
+    DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3 = list(np.array((150+np.array(theta))*1023/300),int)
+TypeError: list expected at most 1 argument, got 2
+~ via  v10.19.0 via 🐍 v3.8.10 took 5s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [44.26485106529585, 44.26485106529585, 44.26485106529585]
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 256, in <module>
+    InvKin()
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 174, in InvKin
+    DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3 = list(np.array((150+np.array(theta))*1023/300),dtype=int)
+TypeError: list() takes no keyword arguments
+~ via  v10.19.0 via 🐍 v3.8.10 took 6s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [44.26485106529585, 44.26485106529585, 44.26485106529585]
+from func 662 662 662
+target2 700
+[ID:001] GoalPos:600  PresPos:718       [ID:002] GoalPos:600  PresPos:738       [ID:000] GoalPos:600  PresPos:724
+[ID:001] GoalPos:600  PresPos:718       [ID:002] GoalPos:600  PresPos:738       [ID:000] GoalPos:600  PresPos:722
+[ID:001] GoalPos:600  PresPos:712       [ID:002] GoalPos:600  PresPos:728       [ID:000] GoalPos:600  PresPos:712
+[ID:001] GoalPos:600  PresPos:699       [ID:002] GoalPos:600  PresPos:716       [ID:000] GoalPos:600  PresPos:699
+[ID:001] GoalPos:600  PresPos:688       [ID:002] GoalPos:600  PresPos:706       [ID:000] GoalPos:600  PresPos:686
+[ID:001] GoalPos:600  PresPos:681       [ID:002] GoalPos:600  PresPos:698       [ID:000] GoalPos:600  PresPos:677
+[ID:001] GoalPos:600  PresPos:672       [ID:002] GoalPos:600  PresPos:688       [ID:000] GoalPos:600  PresPos:670
+[ID:001] GoalPos:600  PresPos:662       [ID:002] GoalPos:600  PresPos:678       [ID:000] GoalPos:600  PresPos:661
+[ID:001] GoalPos:600  PresPos:651       [ID:002] GoalPos:600  PresPos:668       [ID:000] GoalPos:600  PresPos:650
+[ID:001] GoalPos:600  PresPos:643       [ID:002] GoalPos:600  PresPos:657       [ID:000] GoalPos:600  PresPos:639
+[ID:001] GoalPos:600  PresPos:634       [ID:002] GoalPos:600  PresPos:648       [ID:000] GoalPos:600  PresPos:629
+[ID:001] GoalPos:600  PresPos:625       [ID:002] GoalPos:600  PresPos:639       [ID:000] GoalPos:600  PresPos:620
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 16s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [44.26485106529585, 44.26485106529585, 44.26485106529585]
+from func 662 662 662
+target2 662
+[ID:001] GoalPos:600  PresPos:718       [ID:002] GoalPos:600  PresPos:738       [ID:000] GoalPos:600  PresPos:724
+[ID:001] GoalPos:600  PresPos:718       [ID:002] GoalPos:600  PresPos:738       [ID:000] GoalPos:600  PresPos:722
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:600  PresPos:711       [ID:002] GoalPos:600  PresPos:728       [ID:000] GoalPos:600  PresPos:000
+[ID:001] GoalPos:600  PresPos:695       [ID:002] GoalPos:600  PresPos:711       [ID:000] GoalPos:600  PresPos:693
+[ID:001] GoalPos:600  PresPos:686       [ID:002] GoalPos:600  PresPos:702       [ID:000] GoalPos:600  PresPos:683
+[ID:001] GoalPos:600  PresPos:679       [ID:002] GoalPos:600  PresPos:693       [ID:000] GoalPos:600  PresPos:674
+[ID:001] GoalPos:600  PresPos:669       [ID:002] GoalPos:600  PresPos:684       [ID:000] GoalPos:600  PresPos:666
+[ID:001] GoalPos:600  PresPos:659       [ID:002] GoalPos:600  PresPos:674       [ID:000] GoalPos:600  PresPos:656
+[ID:001] GoalPos:600  PresPos:648       [ID:002] GoalPos:600  PresPos:663       [ID:000] GoalPos:600  PresPos:646
+[ID:001] GoalPos:600  PresPos:639       [ID:002] GoalPos:600  PresPos:653       [ID:000] GoalPos:600  PresPos:636
+[ID:001] GoalPos:600  PresPos:631       [ID:002] GoalPos:600  PresPos:644       [ID:000] GoalPos:600  PresPos:627
+[ID:001] GoalPos:600  PresPos:621       [ID:002] GoalPos:600  PresPos:636       [ID:000] GoalPos:600  PresPos:617
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.3
+
+
+The three angles of the servos            from their horizontal position are [64.14817574777128, 64.14817574777126, 64.14817574777126]
+from func 730 730 730
+target2 730
+[ID:001] GoalPos:700  PresPos:606       [ID:002] GoalPos:700  PresPos:606       [ID:000] GoalPos:700  PresPos:605
+[ID:001] GoalPos:700  PresPos:606       [ID:002] GoalPos:700  PresPos:607       [ID:000] GoalPos:700  PresPos:608
+[ID:001] GoalPos:700  PresPos:609       [ID:002] GoalPos:700  PresPos:613       [ID:000] GoalPos:700  PresPos:618
+[ID:001] GoalPos:700  PresPos:621       [ID:002] GoalPos:700  PresPos:626       [ID:000] GoalPos:700  PresPos:631
+[ID:001] GoalPos:700  PresPos:636       [ID:002] GoalPos:700  PresPos:640       [ID:000] GoalPos:700  PresPos:644
+[ID:001] GoalPos:700  PresPos:647       [ID:002] GoalPos:700  PresPos:650       [ID:000] GoalPos:700  PresPos:653
+[ID:001] GoalPos:700  PresPos:649       [ID:002] GoalPos:700  PresPos:656       [ID:000] GoalPos:700  PresPos:659
+[ID:001] GoalPos:700  PresPos:660       [ID:002] GoalPos:700  PresPos:663       [ID:000] GoalPos:700  PresPos:670
+[ID:001] GoalPos:700  PresPos:674       [ID:002] GoalPos:700  PresPos:680       [ID:000] GoalPos:700  PresPos:684
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.5 0.2
+no solutions found!
+target2 730
+[ID:001] GoalPos:600  PresPos:701       [ID:002] GoalPos:600  PresPos:703       [ID:000] GoalPos:600  PresPos:702
+[ID:001] GoalPos:600  PresPos:701       [ID:002] GoalPos:600  PresPos:700       [ID:000] GoalPos:600  PresPos:698
+[ID:001] GoalPos:600  PresPos:694       [ID:002] GoalPos:600  PresPos:691       [ID:000] GoalPos:600  PresPos:686
+[ID:001] GoalPos:600  PresPos:681       [ID:002] GoalPos:600  PresPos:679       [ID:000] GoalPos:600  PresPos:673
+[ID:001] GoalPos:600  PresPos:670       [ID:002] GoalPos:600  PresPos:668       [ID:000] GoalPos:600  PresPos:664
+[ID:001] GoalPos:600  PresPos:662       [ID:002] GoalPos:600  PresPos:659       [ID:000] GoalPos:600  PresPos:655
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 302, in <module>
+    dxl2_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL2_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 376, in read2ByteTxRx
+IndexError: list index out of range
+~ via  v10.19.0 via 🐍 v3.8.10 took 46s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: ing/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 257, in <module>
+    InvKin()
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 142, in InvKin
+    coordinates=list(map(float,input("enter coordinates: ").split()))
+ValueError: could not convert string to float: 'ing/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"'
+~ via  v10.19.0 via 🐍 v3.8.10
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [62.097556283037456, 37.07686724610614, 37.07686724610614]
+from func 723 637 637
+target2 637
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:600  PresPos:753       [ID:002] GoalPos:600  PresPos:000       [ID:000] GoalPos:600  PresPos:784
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:600  PresPos:752       [ID:002] GoalPos:600  PresPos:000       [ID:000] GoalPos:600  PresPos:772
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:600  PresPos:737       [ID:002] GoalPos:600  PresPos:000       [ID:000] GoalPos:600  PresPos:752
+[ID:001] GoalPos:600  PresPos:721       [ID:002] GoalPos:600  PresPos:809       [ID:000] GoalPos:600  PresPos:743
+[ID:001] GoalPos:600  PresPos:713       [ID:002] GoalPos:600  PresPos:806       [ID:000] GoalPos:600  PresPos:737
+[ID:001] GoalPos:600  PresPos:705       [ID:002] GoalPos:600  PresPos:799       [ID:000] GoalPos:600  PresPos:728
+[ID:001] GoalPos:600  PresPos:695       [ID:002] GoalPos:600  PresPos:800       [ID:000] GoalPos:600  PresPos:719
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:600  PresPos:000       [ID:002] GoalPos:600  PresPos:805       [ID:000] GoalPos:600  PresPos:703
+[ID:001] GoalPos:600  PresPos:672       [ID:002] GoalPos:600  PresPos:808       [ID:000] GoalPos:600  PresPos:692
+[ID:001] GoalPos:600  PresPos:661       [ID:002] GoalPos:600  PresPos:803       [ID:000] GoalPos:600  PresPos:683
+[ID:001] GoalPos:600  PresPos:652       [ID:002] GoalPos:600  PresPos:800       [ID:000] GoalPos:600  PresPos:674
+[ID:001] GoalPos:600  PresPos:645       [ID:002] GoalPos:600  PresPos:802       [ID:000] GoalPos:600  PresPos:667
+[ID:001] GoalPos:600  PresPos:636       [ID:002] GoalPos:600  PresPos:803       [ID:000] GoalPos:600  PresPos:657
+[ID:001] GoalPos:600  PresPos:626       [ID:002] GoalPos:600  PresPos:802       [ID:000] GoalPos:600  PresPos:646
+[ID:001] GoalPos:600  PresPos:618       [ID:002] GoalPos:600  PresPos:802       [ID:000] GoalPos:600  PresPos:636
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.25
+
+
+The three angles of the servos            from their horizontal position are [52.9212108368563, 52.92121083685627, 52.92121083685627]
+from func 691 691 691
+target2 691
+[ID:001] GoalPos:700  PresPos:608       [ID:002] GoalPos:700  PresPos:801       [ID:000] GoalPos:700  PresPos:608
+[ID:001] GoalPos:700  PresPos:608       [ID:002] GoalPos:700  PresPos:799       [ID:000] GoalPos:700  PresPos:608
+[ID:001] GoalPos:700  PresPos:610       [ID:002] GoalPos:700  PresPos:792       [ID:000] GoalPos:700  PresPos:617
+[ID:001] GoalPos:700  PresPos:620       [ID:002] GoalPos:700  PresPos:781       [ID:000] GoalPos:700  PresPos:632
+[ID:001] GoalPos:700  PresPos:635       [ID:002] GoalPos:700  PresPos:770       [ID:000] GoalPos:700  PresPos:644
+[ID:001] GoalPos:700  PresPos:647       [ID:002] GoalPos:700  PresPos:755       [ID:000] GoalPos:700  PresPos:653
+[ID:001] GoalPos:700  PresPos:652       [ID:002] GoalPos:700  PresPos:746       [ID:000] GoalPos:700  PresPos:662
+[ID:001] GoalPos:700  PresPos:661       [ID:002] GoalPos:700  PresPos:740       [ID:000] GoalPos:700  PresPos:672
+[ID:001] GoalPos:700  PresPos:674       [ID:002] GoalPos:700  PresPos:737       [ID:000] GoalPos:700  PresPos:683
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.05 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [46.435160497884155, 29.64021905215088, 60.23417032585933]
+from func 669 612 716
+target2 612
+[ID:001] GoalPos:600  PresPos:703       [ID:002] GoalPos:600  PresPos:702       [ID:000] GoalPos:600  PresPos:702
+[ID:001] GoalPos:600  PresPos:703       [ID:002] GoalPos:600  PresPos:700       [ID:000] GoalPos:600  PresPos:699
+[ID:001] GoalPos:600  PresPos:695       [ID:002] GoalPos:600  PresPos:692       [ID:000] GoalPos:600  PresPos:686
+[ID:001] GoalPos:600  PresPos:682       [ID:002] GoalPos:600  PresPos:679       [ID:000] GoalPos:600  PresPos:673
+[ID:001] GoalPos:600  PresPos:671       [ID:002] GoalPos:600  PresPos:668       [ID:000] GoalPos:600  PresPos:663
+[ID:001] GoalPos:600  PresPos:663       [ID:002] GoalPos:600  PresPos:660       [ID:000] GoalPos:600  PresPos:654
+[ID:001] GoalPos:600  PresPos:655       [ID:002] GoalPos:600  PresPos:651       [ID:000] GoalPos:600  PresPos:646
+[ID:001] GoalPos:600  PresPos:645       [ID:002] GoalPos:600  PresPos:641       [ID:000] GoalPos:600  PresPos:636
+[ID:001] GoalPos:600  PresPos:635       [ID:002] GoalPos:600  PresPos:631       [ID:000] GoalPos:600  PresPos:627
+[ID:001] GoalPos:600  PresPos:626       [ID:002] GoalPos:600  PresPos:621       [ID:000] GoalPos:600  PresPos:617
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.05 0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [64.15675404752582, 21.128961180474374, 54.80095835637958]
+from func 730 583 698
+target2 583
+[ID:001] GoalPos:700  PresPos:606       [ID:002] GoalPos:700  PresPos:608       [ID:000] GoalPos:700  PresPos:605
+[ID:001] GoalPos:700  PresPos:606       [ID:002] GoalPos:700  PresPos:608       [ID:000] GoalPos:700  PresPos:608
+[ID:001] GoalPos:700  PresPos:610       [ID:002] GoalPos:700  PresPos:612       [ID:000] GoalPos:700  PresPos:618
+[ID:001] GoalPos:700  PresPos:620       [ID:002] GoalPos:700  PresPos:624       [ID:000] GoalPos:700  PresPos:630
+[ID:001] GoalPos:700  PresPos:636       [ID:002] GoalPos:700  PresPos:640       [ID:000] GoalPos:700  PresPos:644
+[ID:001] GoalPos:700  PresPos:648       [ID:002] GoalPos:700  PresPos:651       [ID:000] GoalPos:700  PresPos:654
+[ID:001] GoalPos:700  PresPos:650       [ID:002] GoalPos:700  PresPos:657       [ID:000] GoalPos:700  PresPos:661
+[ID:001] GoalPos:700  PresPos:659       [ID:002] GoalPos:700  PresPos:664       [ID:000] GoalPos:700  PresPos:670
+[ID:001] GoalPos:700  PresPos:673       [ID:002] GoalPos:700  PresPos:679       [ID:000] GoalPos:700  PresPos:683
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.05 0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [64.15675404752582, 21.128961180474374, 54.80095835637958]
+from func 730 583 698
+target2 583
+[ID:001] GoalPos:600  PresPos:703       [ID:002] GoalPos:600  PresPos:703       [ID:000] GoalPos:600  PresPos:701
+[ID:001] GoalPos:600  PresPos:701       [ID:002] GoalPos:600  PresPos:702       [ID:000] GoalPos:600  PresPos:699
+[ID:001] GoalPos:600  PresPos:696       [ID:002] GoalPos:600  PresPos:692       [ID:000] GoalPos:600  PresPos:689
+[ID:001] GoalPos:600  PresPos:683       [ID:002] GoalPos:600  PresPos:681       [ID:000] GoalPos:600  PresPos:676
+[ID:001] GoalPos:600  PresPos:672       [ID:002] GoalPos:600  PresPos:669       [ID:000] GoalPos:600  PresPos:665
+[ID:001] GoalPos:600  PresPos:663       [ID:002] GoalPos:600  PresPos:660       [ID:000] GoalPos:600  PresPos:655
+[ID:001] GoalPos:600  PresPos:656       [ID:002] GoalPos:600  PresPos:652       [ID:000] GoalPos:600  PresPos:646
+[ID:001] GoalPos:600  PresPos:646       [ID:002] GoalPos:600  PresPos:643       [ID:000] GoalPos:600  PresPos:637
+[ID:001] GoalPos:600  PresPos:636       [ID:002] GoalPos:600  PresPos:633       [ID:000] GoalPos:600  PresPos:628
+[ID:001] GoalPos:600  PresPos:626       [ID:002] GoalPos:600  PresPos:622       [ID:000] GoalPos:600  PresPos:618
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.05 0 0.25
+
+
+The three angles of the servos            from their horizontal position are [54.93902284558379, 40.8947209489445, 66.86003855146545]
+from func 698 650 739
+target2 650
+[ID:001] GoalPos:700  PresPos:606       [ID:002] GoalPos:700  PresPos:608       [ID:000] GoalPos:700  PresPos:605
+[ID:001] GoalPos:700  PresPos:606       [ID:002] GoalPos:700  PresPos:608       [ID:000] GoalPos:700  PresPos:609
+[ID:001] GoalPos:700  PresPos:610       [ID:002] GoalPos:700  PresPos:614       [ID:000] GoalPos:700  PresPos:619
+[ID:001] GoalPos:700  PresPos:622       [ID:002] GoalPos:700  PresPos:627       [ID:000] GoalPos:700  PresPos:632
+[ID:001] GoalPos:700  PresPos:638       [ID:002] GoalPos:700  PresPos:642       [ID:000] GoalPos:700  PresPos:646
+[ID:001] GoalPos:700  PresPos:649       [ID:002] GoalPos:700  PresPos:652       [ID:000] GoalPos:700  PresPos:655
+[ID:001] GoalPos:700  PresPos:650       [ID:002] GoalPos:700  PresPos:657       [ID:000] GoalPos:700  PresPos:661
+[ID:001] GoalPos:700  PresPos:661       [ID:002] GoalPos:700  PresPos:666       [ID:000] GoalPos:700  PresPos:672
+[ID:001] GoalPos:700  PresPos:675       [ID:002] GoalPos:700  PresPos:681       [ID:000] GoalPos:700  PresPos:684
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 4m32s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.5 0.2
+no solutions found!
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:700  PresPos:000       [ID:002] GoalPos:700  PresPos:742       [ID:000] GoalPos:700  PresPos:727
+[ID:001] GoalPos:700  PresPos:718       [ID:002] GoalPos:700  PresPos:741       [ID:000] GoalPos:700  PresPos:725
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 27s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [62.097556283037456, 37.07686724610614, 37.07686724610614]
+from func 723 637 637
+target2 637
+[ID:001] GoalPos:700  PresPos:722       [ID:002] GoalPos:700  PresPos:740       [ID:000] GoalPos:700  PresPos:724
+[ID:001] GoalPos:700  PresPos:722       [ID:002] GoalPos:700  PresPos:740       [ID:000] GoalPos:700  PresPos:721
+[ID:001] GoalPos:700  PresPos:717       [ID:002] GoalPos:700  PresPos:731       [ID:000] GoalPos:700  PresPos:710
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 10s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [62.097556283037456, 37.07686724610614, 37.07686724610614]
+from func 723 637 637
+target2 637
+[ID:001] GoalPos:700  PresPos:722       [ID:002] GoalPos:700  PresPos:745       [ID:000] GoalPos:700  PresPos:727
+[ID:001] GoalPos:700  PresPos:722       [ID:002] GoalPos:700  PresPos:746       [ID:000] GoalPos:700  PresPos:727
+[ID:001] GoalPos:700  PresPos:718       [ID:002] GoalPos:700  PresPos:736       [ID:000] GoalPos:700  PresPos:716
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 17s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Traceback (most recent call last):
+  File "/usr/local/lib/python3.8/dist-packages/pyserial-3.5-py3.8.egg/serial/serialposix.py", line 322, in open
+    self.fd = os.open(self.portstr, os.O_RDWR | os.O_NOCTTY | os.O_NONBLOCK)
+FileNotFoundError: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 179, in <module>
+    if portHandler.openPort():
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 44, in openPort
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 68, in setBaudRate
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 114, in setupPort
+  File "/usr/local/lib/python3.8/dist-packages/pyserial-3.5-py3.8.egg/serial/serialutil.py", line 244, in __init__
+    self.open()
+  File "/usr/local/lib/python3.8/dist-packages/pyserial-3.5-py3.8.egg/serial/serialposix.py", line 325, in open
+    raise SerialException(msg.errno, "could not open port {}: {}".format(self._port, msg))
+serial.serialutil.SerialException: [Errno 2] could not open port /dev/ttyUSB0: [Errno 2] No such file or directory: '/dev/ttyUSB0'
+~ via  v10.19.0 via 🐍 v3.8.10
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [62.097556283037456, 37.07686724610614, 37.07686724610614]
+from func 723 637 637
+target2 637
+[ID:001] GoalPos:700  PresPos:722       [ID:002] GoalPos:700  PresPos:740       [ID:000] GoalPos:700  PresPos:724
+[ID:001] GoalPos:700  PresPos:722       [ID:002] GoalPos:700  PresPos:740       [ID:000] GoalPos:700  PresPos:722
+[ID:001] GoalPos:700  PresPos:717       [ID:002] GoalPos:700  PresPos:729       [ID:000] GoalPos:700  PresPos:710
+Press any key to continue! (or press ESC to quit!)
+enter coordinates:  0 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [44.26485106529585, 44.26485106529585, 44.26485106529585]
+from func 662 662 662
+target2 662
+[ID:001] GoalPos:700  PresPos:703       [ID:002] GoalPos:700  PresPos:702       [ID:000] GoalPos:700  PresPos:701
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 23s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [62.097556283037456, 37.07686724610614, 37.07686724610614]
+from func 723 637 637
+target2 637
+[ID:001] GoalPos:723  PresPos:724       [ID:002] GoalPos:637  PresPos:741       [ID:000] GoalPos:637  PresPos:727
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.25
+
+
+The three angles of the servos            from their horizontal position are [52.9212108368563, 52.92121083685627, 52.92121083685627]
+from func 691 691 691
+target2 691
+[ID:001] GoalPos:691  PresPos:723       [ID:002] GoalPos:691  PresPos:642       [ID:000] GoalPos:691  PresPos:640
+[ID:001] GoalPos:691  PresPos:723       [ID:002] GoalPos:691  PresPos:642       [ID:000] GoalPos:691  PresPos:645
+[ID:001] GoalPos:691  PresPos:718       [ID:002] GoalPos:691  PresPos:642       [ID:000] GoalPos:691  PresPos:655
+[ID:001] GoalPos:691  PresPos:706       [ID:002] GoalPos:691  PresPos:641       [ID:000] GoalPos:691  PresPos:671
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.05 0.02 0.15
+
+
+The three angles of the servos            from their horizontal position are [48.96329839316722, 13.508818092132772, 53.867756499232364]
+from func 678 557 695
+target2 557
+[ID:001] GoalPos:678  PresPos:692       [ID:002] GoalPos:557  PresPos:642       [ID:000] GoalPos:695  PresPos:693
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.25
+
+
+The three angles of the servos            from their horizontal position are [52.9212108368563, 52.92121083685627, 52.92121083685627]
+from func 691 691 691
+target2 691
+[ID:001] GoalPos:691  PresPos:681       [ID:002] GoalPos:691  PresPos:566       [ID:000] GoalPos:691  PresPos:698
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 1m14s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.05 0.15
+
+
+The three angles of the servos            from their horizontal position are [59.05391685920889, 28.42009977810018, 28.42009977810018]
+from func 712 608 608
+target2 608
+[ID:001] GoalPos:712  PresPos:718       [ID:002] GoalPos:608  PresPos:742       [ID:000] GoalPos:608  PresPos:727
+[ID:001] GoalPos:712  PresPos:718       [ID:002] GoalPos:608  PresPos:742       [ID:000] GoalPos:608  PresPos:727
+[ID:001] GoalPos:712  PresPos:716       [ID:002] GoalPos:608  PresPos:736       [ID:000] GoalPos:608  PresPos:717
+[ID:001] GoalPos:712  PresPos:712       [ID:002] GoalPos:608  PresPos:722       [ID:000] GoalPos:608  PresPos:703
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.05 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [46.435160497884155, 29.64021905215088, 60.23417032585933]
+from func 669 612 716
+target2 612
+[ID:001] GoalPos:669  PresPos:713       [ID:002] GoalPos:612  PresPos:614       [ID:000] GoalPos:716  PresPos:612
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 -0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [26.811222821445526, 54.77806614490317, 54.77806614490317]
+from func 602 698 698
+target2 698
+[ID:001] GoalPos:602  PresPos:671       [ID:002] GoalPos:698  PresPos:614       [ID:000] GoalPos:698  PresPos:718
+[ID:001] GoalPos:602  PresPos:670       [ID:002] GoalPos:698  PresPos:617       [ID:000] GoalPos:698  PresPos:713
+[ID:001] GoalPos:602  PresPos:667       [ID:002] GoalPos:698  PresPos:627       [ID:000] GoalPos:698  PresPos:704
+[ID:001] GoalPos:602  PresPos:655       [ID:002] GoalPos:698  PresPos:642       [ID:000] GoalPos:698  PresPos:694
+[ID:001] GoalPos:602  PresPos:643       [ID:002] GoalPos:698  PresPos:653       [ID:000] GoalPos:698  PresPos:693
+[ID:001] GoalPos:602  PresPos:632       [ID:002] GoalPos:698  PresPos:661       [ID:000] GoalPos:698  PresPos:698
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.08 0 0.2
+
+
+The three angles of the servos            from their horizontal position are [49.88887248596656, 21.98152843398548, 70.20663729667118]
+from func 681 586 750
+target2 586
+[ID:001] GoalPos:681  PresPos:607       [ID:002] GoalPos:586  PresPos:700       [ID:000] GoalPos:750  PresPos:700
+[ID:001] GoalPos:681  PresPos:607       [ID:002] GoalPos:586  PresPos:699       [ID:000] GoalPos:750  PresPos:702
+[ID:001] GoalPos:681  PresPos:612       [ID:002] GoalPos:586  PresPos:692       [ID:000] GoalPos:750  PresPos:712
+[ID:001] GoalPos:681  PresPos:625       [ID:002] GoalPos:586  PresPos:681       [ID:000] GoalPos:750  PresPos:728
+[ID:001] GoalPos:681  PresPos:639       [ID:002] GoalPos:586  PresPos:669       [ID:000] GoalPos:750  PresPos:744
+[ID:001] GoalPos:681  PresPos:648       [ID:002] GoalPos:586  PresPos:656       [ID:000] GoalPos:750  PresPos:749
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.08 0.05 0.15
+
+
+The three angles of the servos            from their horizontal position are [64.89865796456392, -3.73182166509751, 63.15831258731083]
+from func 732 498 726
+target2 498
+[ID:001] GoalPos:732  PresPos:683       [ID:002] GoalPos:498  PresPos:593       [ID:000] GoalPos:726  PresPos:750
+[ID:001] GoalPos:732  PresPos:684       [ID:002] GoalPos:498  PresPos:593       [ID:000] GoalPos:726  PresPos:750
+[ID:001] GoalPos:732  PresPos:689       [ID:002] GoalPos:498  PresPos:589       [ID:000] GoalPos:726  PresPos:751
+[ID:001] GoalPos:732  PresPos:701       [ID:002] GoalPos:498  PresPos:578       [ID:000] GoalPos:726  PresPos:752
+[ID:001] GoalPos:732  PresPos:712       [ID:002] GoalPos:498  PresPos:563       [ID:000] GoalPos:726  PresPos:752
+[ID:001] GoalPos:732  PresPos:723       [ID:002] GoalPos:498  PresPos:551       [ID:000] GoalPos:726  PresPos:750
+[ID:001] GoalPos:732  PresPos:730       [ID:002] GoalPos:498  PresPos:544       [ID:000] GoalPos:726  PresPos:749
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0 0.15
+
+
+The three angles of the servos            from their horizontal position are [37.737659896712124, 37.73765989671212, 37.73765989671212]
+from func 640 640 640
+target2 640
+[ID:001] GoalPos:640  PresPos:732       [ID:002] GoalPos:640  PresPos:512       [ID:000] GoalPos:640  PresPos:750
+[ID:001] GoalPos:640  PresPos:732       [ID:002] GoalPos:640  PresPos:512       [ID:000] GoalPos:640  PresPos:745
+[ID:001] GoalPos:640  PresPos:723       [ID:002] GoalPos:640  PresPos:515       [ID:000] GoalPos:640  PresPos:735
+[ID:001] GoalPos:640  PresPos:712       [ID:002] GoalPos:640  PresPos:527       [ID:000] GoalPos:640  PresPos:722
+[ID:001] GoalPos:640  PresPos:700       [ID:002] GoalPos:640  PresPos:539       [ID:000] GoalPos:640  PresPos:710
+[ID:001] GoalPos:640  PresPos:692       [ID:002] GoalPos:640  PresPos:549       [ID:000] GoalPos:640  PresPos:702
+[ID:001] GoalPos:640  PresPos:685       [ID:002] GoalPos:640  PresPos:557       [ID:000] GoalPos:640  PresPos:692
+[ID:001] GoalPos:640  PresPos:676       [ID:002] GoalPos:640  PresPos:566       [ID:000] GoalPos:640  PresPos:683
+[ID:001] GoalPos:640  PresPos:664       [ID:002] GoalPos:640  PresPos:576       [ID:000] GoalPos:640  PresPos:673
+[ID:001] GoalPos:640  PresPos:654       [ID:002] GoalPos:640  PresPos:586       [ID:000] GoalPos:640  PresPos:664
+[ID:001] GoalPos:640  PresPos:645       [ID:002] GoalPos:640  PresPos:595       [ID:000] GoalPos:640  PresPos:654
+[ID:001] GoalPos:640  PresPos:643       [ID:002] GoalPos:640  PresPos:605       [ID:000] GoalPos:640  PresPos:645
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:616       [ID:000] GoalPos:640  PresPos:643
+[ID:001] GoalPos:640  PresPos:645       [ID:002] GoalPos:640  PresPos:626       [ID:000] GoalPos:640  PresPos:643
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:636       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:643       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:644       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:645       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:645
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:647       [ID:000] GoalPos:640  PresPos:643
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:643       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:000       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:644       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:000       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:643
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:643
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:644       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:643
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:643
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+[ID:001] GoalPos:640  PresPos:644       [ID:002] GoalPos:640  PresPos:646       [ID:000] GoalPos:640  PresPos:644
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 310, in <module>
+    dxl3_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL3_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 376, in read2ByteTxRx
+IndexError: list index out of range
+~ via  v10.19.0 via 🐍 v3.8.10 took 6m27s
+  ✗! usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+bash: usr/bin/env: No such file or directory
+~ via  v10.19.0 via 🐍 v3.8.10
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.08 0 0.1
+
+
+The three angles of the servos            from their horizontal position are [42.60109855503444, -10.11928218579094, 70.31203369694045]
+from func 656 476 751
+target2 476
+[ID:001] GoalPos:656  PresPos:759       [ID:002] GoalPos:476  PresPos:809       [ID:000] GoalPos:751  PresPos:789
+[ID:001] GoalPos:656  PresPos:759       [ID:002] GoalPos:476  PresPos:808       [ID:000] GoalPos:751  PresPos:788
+[ID:001] GoalPos:656  PresPos:752       [ID:002] GoalPos:476  PresPos:796       [ID:000] GoalPos:751  PresPos:774
+[ID:001] GoalPos:656  PresPos:739       [ID:002] GoalPos:476  PresPos:782       [ID:000] GoalPos:751  PresPos:758
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0.08 0.05 0.15
+
+
+The three angles of the servos            from their horizontal position are [64.89865796456392, -3.73182166509751, 63.15831258731083]
+from func 732 498 726
+target2 498
+[ID:001] GoalPos:732  PresPos:660       [ID:002] GoalPos:498  PresPos:488       [ID:000] GoalPos:726  PresPos:749
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 1m17s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: .05 0.05 0.2
+
+
+The three angles of the servos            from their horizontal position are [64.15675404752582, 21.128961180474374, 54.80095835637958]
+from func 730 583 698
+target2 583
+[ID:001] GoalPos:730  PresPos:737       [ID:002] GoalPos:583  PresPos:741       [ID:000] GoalPos:698  PresPos:738
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 14s
+Korag-> 0 0.08 0.15
+0: command not found
+~ via  v10.19.0 via 🐍 v3.8.10
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+Press any key to continue! (or press ESC to quit!)
+enter coordinates: 0 0.08 0.2
+
+
+The three angles of the servos            from their horizontal position are [72.68405674612832, 34.569035428233335, 34.569035428233335]
+from func 759 629 629
+target2 629
+[ID:001] GoalPos:759  PresPos:737       [ID:002] GoalPos:629  PresPos:743       [ID:000] GoalPos:629  PresPos:733
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:759  PresPos:738       [ID:002] GoalPos:629  PresPos:743       [ID:000] GoalPos:629  PresPos:000
+[ID:001] GoalPos:759  PresPos:749       [ID:002] GoalPos:629  PresPos:732       [ID:000] GoalPos:629  PresPos:718
+Press any key to continue! (or press ESC to quit!)
+~ via  v10.19.0 via 🐍 v3.8.10 took 15s
+Korag-> 

@@ -78,25 +78,22 @@ TORQUE_DISABLE              = 0                 # Value for disabling the torque
 #DXL_MINIMUM_POSITION_VALUE  = 600           # Dynamixel will rotate between this value
 #DXL_MAXIMUM_POSITION_VALUE  = 700            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
 
-DXL_MINIMUM_POSITION_VALUE_1  = 512
+DXL_MINIMUM_POSITION_VALUE_1  = 600
 DXL_MAXIMUM_POSITION_VALUE_1  = 700
 
-DXL_MINIMUM_POSITION_VALUE_2  = 512
+DXL_MINIMUM_POSITION_VALUE_2  = 600
 DXL_MAXIMUM_POSITION_VALUE_2  = 700
 
-DXL_MINIMUM_POSITION_VALUE_3  = 512
+DXL_MINIMUM_POSITION_VALUE_3  = 600
 DXL_MAXIMUM_POSITION_VALUE_3  = 700
 
 DXL_MINIMUM_SPEED_VALUE  = 50           # Dynamixel will rotate between this value
 DXL_MAXIMUM_SPEED_VALUE  = 100            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
-DXL_MOVING_STATUS_THRESHOLD = 20                # Dynamixel moving status threshold
+DXL_MOVING_STATUS_THRESHOLD = 10                # Dynamixel moving status threshold
 
 speed=100
 
-index = 0
-dxl_goal_position_1 = [DXL_MINIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_1]         # Goal position_1
-dxl_goal_position_2 = [DXL_MINIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_2]         # Goal position_2
-dxl_goal_position_3 = [DXL_MINIMUM_POSITION_VALUE_3, DXL_MAXIMUM_POSITION_VALUE_3]         # Goal position_3
+
 
 # Initialize PortHandler instance
 # Set the port path
@@ -118,7 +115,7 @@ groupSyncWrite = GroupSyncWrite(portHandler, packetHandler, ADDR_AX_GOAL_POSITIO
 
 
 L=0.160      #upper legs length
-l=0.307     #lower legs parallelogram length
+l=0.225     #lower legs parallelogram length
 h=0.036      #lower legs parallelogram width
 wb=0.130     #planar distance from {0} to near base side
 sb=6*wb/np.sqrt(3)    #base equilateral triangle side
@@ -135,14 +132,15 @@ c=wp - wb/2
 
 
 def InvKin():
-    '''x,y,z=map(float,input("enter end-effector coordinates x y z\
-        : ").split())'''
-    z=0.9
+    #x,y,z=map(float,input("enter end-effector coordinates x y z\
+    #    : ").split())
+    z=-0.2
     x,y=[0,0]
-    coordinates=list(map(float,input("enter coordinates: ").split()))
+    coordinates=list(np.array(list(map(float,input("enter coordinates in mm: ").split())))/1000)
     
     if len(coordinates)==3:
         x,y,z=coordinates
+        z=-z
     else:
         x,y=coordinates
     E=[2*L*(y+a), -L*((x+b)*np.sqrt(3)+y+c), L*((x-b)*np.sqrt(3)-y-c)]
@@ -170,8 +168,9 @@ def InvKin():
         if __name__=="__main__":
             print(f"\n\nThe three angles of the servos\
             from their horizontal position are {theta}")
-            DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3 = list((120-np.array(theta))*1024/300)
-
+            global DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3
+            DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3 = list(np.array((150+np.array(theta))*1023/300).astype(int))
+            print("from func",DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3)
 
 # Open port
 if portHandler.openPort():
@@ -249,10 +248,16 @@ elif dxl__error != 0:
 # syncwrite test start
 while 1:
     print("Press any key to continue! (or press ESC to quit!)")
-    InvKin()
+    
     if getch() == chr(0x1b):
         break
+    InvKin()
+    index = 1
+    dxl_goal_position_1 = [DXL_MINIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_1]         # Goal position_1
+    dxl_goal_position_2 = [DXL_MINIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_2]         # Goal position_2
+    dxl_goal_position_3 = [DXL_MINIMUM_POSITION_VALUE_3, DXL_MAXIMUM_POSITION_VALUE_3]         # Goal position_3
 
+    print("target2", DXL_MAXIMUM_POSITION_VALUE_2)
     # Allocate goal position value into byte array
     # param_goal_position = [DXL_LOBYTE(DXL_LOWORD(dxl_goal_position[index])), DXL_HIBYTE(DXL_LOWORD(dxl_goal_position[index])), DXL_LOBYTE(DXL_HIWORD(dxl_goal_position[index])), DXL_HIBYTE(DXL_HIWORD(dxl_goal_position[index]))]
     # because AX12's goal posiion is only 2 bytes. only needed to split them once.
@@ -311,14 +316,16 @@ while 1:
 
         print("[ID:%03d] GoalPos:%03d  PresPos:%03d\t[ID:%03d] GoalPos:%03d  PresPos:%03d\t[ID:%03d] GoalPos:%03d  PresPos:%03d" % (DXL1_ID, dxl_goal_position_1[index], dxl1_present_position, DXL2_ID, dxl_goal_position_2[index], dxl2_present_position,DXL3_ID,dxl_goal_position_3[index], dxl3_present_position))
 
-        if not ((abs(dxl_goal_position_1[index] - dxl1_present_position) > DXL_MOVING_STATUS_THRESHOLD) and (abs(dxl_goal_position_2[index] - dxl2_present_position) > DXL_MOVING_STATUS_THRESHOLD)and (abs(dxl_goal_position_3[index] - dxl3_present_position) > DXL_MOVING_STATUS_THRESHOLD)):
+        if not ((abs(dxl_goal_position_1[index] - dxl1_present_position) > DXL_MOVING_STATUS_THRESHOLD) or (abs(dxl_goal_position_2[index] - dxl2_present_position) > DXL_MOVING_STATUS_THRESHOLD)or (abs(dxl_goal_position_3[index] - dxl3_present_position) > DXL_MOVING_STATUS_THRESHOLD)):
             break
 
     # Change goal position
+    '''
     if index == 0:
         index = 1
     else:
         index = 0
+        '''
 
 
 # Disable Dynamixel#1 Torque
