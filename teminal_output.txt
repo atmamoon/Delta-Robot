@@ -1006,4 +1006,2083 @@ target2 629
 [ID:001] GoalPos:759  PresPos:749       [ID:002] GoalPos:629  PresPos:732       [ID:000] GoalPos:629  PresPos:718
 Press any key to continue! (or press ESC to quit!)
 ~ via  v10.19.0 via 🐍 v3.8.10 took 15s
-Korag-> 
+Korag->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12/12/2021
+
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+
+
+The three angles of the servos            from their horizontal position are [40.30028296348323, 18.685697453374917, 56.90059077036496]
+from func 648 575 705
+target2 575
+[ID:001] GoalPos:648  PresPos:753       [ID:002] GoalPos:575  PresPos:796       [ID:000] GoalPos:705  PresPos:766
+[ID:001] GoalPos:648  PresPos:753       [ID:002] GoalPos:575  PresPos:795       [ID:000] GoalPos:705  PresPos:764
+[ID:001] GoalPos:648  PresPos:745       [ID:002] GoalPos:575  PresPos:781       [ID:000] GoalPos:705  PresPos:750
+[ID:001] GoalPos:648  PresPos:732       [ID:002] GoalPos:575  PresPos:766       [ID:000] GoalPos:705  PresPos:734
+[ID:001] GoalPos:648  PresPos:722       [ID:002] GoalPos:575  PresPos:765       [ID:000] GoalPos:705  PresPos:727
+[ID:001] GoalPos:648  PresPos:715       [ID:002] GoalPos:575  PresPos:755       [ID:000] GoalPos:705  PresPos:718
+[ID:001] GoalPos:648  PresPos:703       [ID:002] GoalPos:575  PresPos:741       [ID:000] GoalPos:705  PresPos:709
+[ID:001] GoalPos:648  PresPos:694       [ID:002] GoalPos:575  PresPos:730       [ID:000] GoalPos:705  PresPos:705
+[ID:001] GoalPos:648  PresPos:685       [ID:002] GoalPos:575  PresPos:723       [ID:000] GoalPos:705  PresPos:705
+[ID:001] GoalPos:648  PresPos:676       [ID:002] GoalPos:575  PresPos:714       [ID:000] GoalPos:705  PresPos:707
+[ID:001] GoalPos:648  PresPos:666       [ID:002] GoalPos:575  PresPos:703       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:656       [ID:002] GoalPos:575  PresPos:692       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:649       [ID:002] GoalPos:575  PresPos:683       [ID:000] GoalPos:705  PresPos:707
+[ID:001] GoalPos:648  PresPos:649       [ID:002] GoalPos:575  PresPos:674       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:664       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:654       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:644       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:636       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:626       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:616       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:606       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:597       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:589       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:581       [ID:000] GoalPos:705  PresPos:708
+
+
+The three angles of the servos            from their horizontal position are [42.195348859387934, 17.56645858421543, 56.12283895695749]
+from func 655 571 702
+target2 571
+[ID:001] GoalPos:655  PresPos:651       [ID:002] GoalPos:571  PresPos:580       [ID:000] GoalPos:702  PresPos:708
+
+
+The three angles of the servos            from their horizontal position are [44.0245390554106, 16.632315398326377, 55.22600861572406]
+from func 661 568 699
+target2 568
+[ID:001] GoalPos:661  PresPos:657       [ID:002] GoalPos:568  PresPos:580       [ID:000] GoalPos:699  PresPos:704
+[ID:001] GoalPos:661  PresPos:658       [ID:002] GoalPos:568  PresPos:579       [ID:000] GoalPos:699  PresPos:703
+[ID:001] GoalPos:661  PresPos:660       [ID:002] GoalPos:568  PresPos:578       [ID:000] GoalPos:699  PresPos:702
+
+
+The three angles of the servos            from their horizontal position are [45.77613734323017, 15.894228351200962, 54.21097387535689]
+from func 667 565 696
+target2 565
+[ID:001] GoalPos:667  PresPos:663       [ID:002] GoalPos:565  PresPos:577       [ID:000] GoalPos:696  PresPos:701
+[ID:001] GoalPos:667  PresPos:663       [ID:002] GoalPos:565  PresPos:577       [ID:000] GoalPos:696  PresPos:700
+[ID:001] GoalPos:667  PresPos:667       [ID:002] GoalPos:565  PresPos:573       [ID:000] GoalPos:696  PresPos:700
+
+
+The three angles of the servos            from their horizontal position are [47.440212105751165, 15.360815832803105, 53.07914752708046]
+from func 673 563 692
+target2 563
+[ID:001] GoalPos:673  PresPos:668       [ID:002] GoalPos:563  PresPos:572       [ID:000] GoalPos:692  PresPos:700
+
+
+The three angles of the servos            from their horizontal position are [49.00852961465469, 15.038277586846128, 51.83263865720016]
+from func 678 562 688
+target2 562
+[ID:001] GoalPos:678  PresPos:675       [ID:002] GoalPos:562  PresPos:572       [ID:000] GoalPos:688  PresPos:695
+
+
+The three angles of the servos            from their horizontal position are [50.474424193607206, 14.93034900022142, 50.47442419360722]
+from func 683 562 683
+target2 562
+[ID:001] GoalPos:683  PresPos:679       [ID:002] GoalPos:562  PresPos:572       [ID:000] GoalPos:683  PresPos:693
+
+
+The three angles of the servos            from their horizontal position are [51.83263865720016, 15.038277586846128, 49.00852961465469]
+from func 688 562 678
+target2 562
+[ID:001] GoalPos:688  PresPos:684       [ID:002] GoalPos:562  PresPos:572       [ID:000] GoalPos:678  PresPos:686
+
+
+The three angles of the servos            from their horizontal position are [53.07914752708045, 15.360815832803093, 47.440212105751165]
+from func 692 563 673
+target2 563
+[ID:001] GoalPos:692  PresPos:689       [ID:002] GoalPos:563  PresPos:572       [ID:000] GoalPos:673  PresPos:683
+
+
+The three angles of the servos            from their horizontal position are [54.21097387535688, 15.894228351200955, 45.776137343230175]
+from func 696 565 667
+target2 565
+[TxRxResult] There is no status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:696  PresPos:000       [ID:002] GoalPos:565  PresPos:000       [ID:000] GoalPos:667  PresPos:676
+[ID:001] GoalPos:696  PresPos:694       [ID:002] GoalPos:565  PresPos:572       [ID:000] GoalPos:667  PresPos:673
+
+
+The three angles of the servos            from their horizontal position are [55.22600861572406, 16.632315398326394, 44.02453905541062]
+from func 699 568 661
+target2 568
+[ID:001] GoalPos:699  PresPos:696       [ID:002] GoalPos:568  PresPos:572       [ID:000] GoalPos:661  PresPos:672
+[ID:001] GoalPos:699  PresPos:697       [ID:002] GoalPos:568  PresPos:572       [ID:000] GoalPos:661  PresPos:670
+
+
+The three angles of the servos            from their horizontal position are [56.122838956957466, 17.56645858421542, 42.195348859387934]
+from func 702 571 655
+target2 571
+[ID:001] GoalPos:702  PresPos:699       [ID:002] GoalPos:571  PresPos:572       [ID:000] GoalPos:655  PresPos:665
+
+
+The three angles of the servos            from their horizontal position are [56.90059077036493, 18.685697453374917, 40.30028296348324]
+from func 705 575 648
+target2 575
+[ID:001] GoalPos:705  PresPos:703       [ID:002] GoalPos:575  PresPos:573       [ID:000] GoalPos:648  PresPos:661
+[ID:001] GoalPos:705  PresPos:703       [ID:002] GoalPos:575  PresPos:576       [ID:000] GoalPos:648  PresPos:657
+
+
+The three angles of the servos            from their horizontal position are [57.558787937627834, 19.976846980405067, 38.35287253896025]
+from func 707 579 642
+target2 579
+[ID:001] GoalPos:707  PresPos:703       [ID:002] GoalPos:579  PresPos:578       [ID:000] GoalPos:642  PresPos:653
+[ID:001] GoalPos:707  PresPos:703       [ID:002] GoalPos:579  PresPos:580       [ID:000] GoalPos:642  PresPos:652
+
+
+The three angles of the servos            from their horizontal position are [58.09723040205937, 21.424665537733897, 36.368426221039314]
+from func 709 584 635
+target2 584
+[ID:001] GoalPos:709  PresPos:707       [ID:002] GoalPos:584  PresPos:582       [ID:000] GoalPos:635  PresPos:647
+[ID:001] GoalPos:709  PresPos:707       [ID:002] GoalPos:584  PresPos:583       [ID:000] GoalPos:635  PresPos:645
+
+
+The three angles of the servos            from their horizontal position are [58.51589165489452, 23.012080394469145, 34.36391646782424]
+from func 711 589 628
+target2 589
+[ID:001] GoalPos:711  PresPos:707       [ID:002] GoalPos:589  PresPos:589       [ID:000] GoalPos:628  PresPos:640
+[ID:001] GoalPos:711  PresPos:708       [ID:002] GoalPos:589  PresPos:590       [ID:000] GoalPos:628  PresPos:639
+[ID:001] GoalPos:711  PresPos:710       [ID:002] GoalPos:589  PresPos:592       [ID:000] GoalPos:628  PresPos:636
+
+
+The three angles of the servos            from their horizontal position are [58.814835723603196, 24.720473439955338, 32.35778631529977]
+from func 712 595 621
+target2 595
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:595  PresPos:592       [ID:000] GoalPos:621  PresPos:634
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:595  PresPos:593       [ID:000] GoalPos:621  PresPos:631
+
+
+The three angles of the servos            from their horizontal position are [58.99415334610743, 26.530024067402575, 30.369679046691374]
+from func 712 601 615
+target2 601
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:601  PresPos:598       [ID:000] GoalPos:615  PresPos:627
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:601  PresPos:599       [ID:000] GoalPos:615  PresPos:626
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:601  PresPos:604       [ID:000] GoalPos:615  PresPos:623
+
+
+The three angles of the servos            from their horizontal position are [59.05391685920889, 28.42009977810018, 28.42009977810018]
+from func 712 608 608
+target2 608
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:608  PresPos:605       [ID:000] GoalPos:608  PresPos:622
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:608  PresPos:607       [ID:000] GoalPos:608  PresPos:620
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:608  PresPos:611       [ID:000] GoalPos:608  PresPos:616
+
+
+The three angles of the servos            from their horizontal position are [58.99415334610743, 30.369679046691374, 26.530024067402575]
+from func 712 615 601
+target2 615
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:615  PresPos:611       [ID:000] GoalPos:601  PresPos:614
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:615  PresPos:612       [ID:000] GoalPos:601  PresPos:611
+
+
+The three angles of the servos            from their horizontal position are [58.814835723603196, 32.35778631529977, 24.720473439955345]
+from func 712 621 595
+target2 621
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:621  PresPos:619       [ID:000] GoalPos:595  PresPos:608
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:621  PresPos:620       [ID:000] GoalPos:595  PresPos:606
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:621  PresPos:623       [ID:000] GoalPos:595  PresPos:605
+
+
+The three angles of the servos            from their horizontal position are [58.51589165489452, 34.36391646782424, 23.012080394469145]
+from func 711 628 589
+target2 628
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:623       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:626       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:711  PresPos:000       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:600
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:632       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:000
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:604
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:711       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+[ID:001] GoalPos:711  PresPos:712       [ID:002] GoalPos:628  PresPos:631       [ID:000] GoalPos:589  PresPos:603
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 394, in <module>
+    dxl3_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL3_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 376, in read2ByteTxRx
+IndexError: list index out of range
+~ via  v10.19.0 via 🐍 v3.8.10 took 27s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+
+
+The three angles of the servos            from their horizontal position are [40.30028296348323, 18.685697453374917, 56.90059077036496]
+from func 648 575 705
+target2 575
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:575  PresPos:000       [ID:000] GoalPos:705  PresPos:000
+^CTraceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 380, in <module>
+    dxl1_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL1_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 375, in read2ByteTxRx
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 345, in readTxRx
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 231, in txRxPacket
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 139, in rxPacket
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 78, in readPort
+  File "/usr/local/lib/python3.8/dist-packages/pyserial-3.5-py3.8.egg/serial/serialposix.py", line 565, in read
+    ready, _, _ = select.select([self.fd, self.pipe_abort_read_r], [], [], timeout.time_left())
+KeyboardInterrupt
+
+~ via  v10.19.0 via 🐍 v3.8.10 took 6s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+
+
+The three angles of the servos            from their horizontal position are [40.30028296348323, 18.685697453374917, 56.90059077036496]
+from func 648 575 705
+target2 575
+[ID:001] GoalPos:648  PresPos:729       [ID:002] GoalPos:575  PresPos:813       [ID:000] GoalPos:705  PresPos:799
+[ID:001] GoalPos:648  PresPos:729       [ID:002] GoalPos:575  PresPos:812       [ID:000] GoalPos:705  PresPos:796
+[ID:001] GoalPos:648  PresPos:726       [ID:002] GoalPos:575  PresPos:801       [ID:000] GoalPos:705  PresPos:784
+[ID:001] GoalPos:648  PresPos:713       [ID:002] GoalPos:575  PresPos:789       [ID:000] GoalPos:705  PresPos:769
+[ID:001] GoalPos:648  PresPos:703       [ID:002] GoalPos:575  PresPos:785       [ID:000] GoalPos:705  PresPos:761
+[ID:001] GoalPos:648  PresPos:692       [ID:002] GoalPos:575  PresPos:773       [ID:000] GoalPos:705  PresPos:753
+[ID:001] GoalPos:648  PresPos:682       [ID:002] GoalPos:575  PresPos:761       [ID:000] GoalPos:705  PresPos:742
+[ID:001] GoalPos:648  PresPos:674       [ID:002] GoalPos:575  PresPos:750       [ID:000] GoalPos:705  PresPos:732
+[ID:001] GoalPos:648  PresPos:667       [ID:002] GoalPos:575  PresPos:741       [ID:000] GoalPos:705  PresPos:722
+[ID:001] GoalPos:648  PresPos:656       [ID:002] GoalPos:575  PresPos:733       [ID:000] GoalPos:705  PresPos:713
+[ID:001] GoalPos:648  PresPos:648       [ID:002] GoalPos:575  PresPos:723       [ID:000] GoalPos:705  PresPos:705
+[ID:001] GoalPos:648  PresPos:649       [ID:002] GoalPos:575  PresPos:714       [ID:000] GoalPos:705  PresPos:704
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:703       [ID:000] GoalPos:705  PresPos:705
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:692       [ID:000] GoalPos:705  PresPos:707
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:683       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:673       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:666       [ID:000] GoalPos:705  PresPos:707
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:656       [ID:000] GoalPos:705  PresPos:707
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:646       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:636       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:626       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:616       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:607       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:597       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:589       [ID:000] GoalPos:705  PresPos:708
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:581       [ID:000] GoalPos:705  PresPos:708
+
+
+The three angles of the servos            from their horizontal position are [44.0245390554106, 16.632315398326377, 55.22600861572406]
+from func 661 568 699
+target2 568
+[ID:001] GoalPos:661  PresPos:650       [ID:002] GoalPos:568  PresPos:580       [ID:000] GoalPos:699  PresPos:707
+[ID:001] GoalPos:661  PresPos:651       [ID:002] GoalPos:568  PresPos:580       [ID:000] GoalPos:699  PresPos:704
+[ID:001] GoalPos:661  PresPos:658       [ID:002] GoalPos:568  PresPos:578       [ID:000] GoalPos:699  PresPos:702
+
+
+The three angles of the servos            from their horizontal position are [47.440212105751165, 15.360815832803105, 53.07914752708046]
+from func 673 563 692
+target2 563
+[ID:001] GoalPos:673  PresPos:664       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:701
+[ID:001] GoalPos:673  PresPos:664       [ID:002] GoalPos:563  PresPos:576       [ID:000] GoalPos:692  PresPos:699
+[ID:001] GoalPos:673  PresPos:670       [ID:002] GoalPos:563  PresPos:572       [ID:000] GoalPos:692  PresPos:695
+
+
+The three angles of the servos            from their horizontal position are [50.474424193607206, 14.93034900022142, 50.47442419360722]
+from func 683 562 683
+target2 562
+[ID:001] GoalPos:683  PresPos:676       [ID:002] GoalPos:562  PresPos:570       [ID:000] GoalPos:683  PresPos:695
+[ID:001] GoalPos:683  PresPos:676       [ID:002] GoalPos:562  PresPos:570       [ID:000] GoalPos:683  PresPos:692
+
+
+The three angles of the servos            from their horizontal position are [53.07914752708045, 15.360815832803093, 47.440212105751165]
+from func 692 563 673
+target2 563
+[ID:001] GoalPos:692  PresPos:685       [ID:002] GoalPos:563  PresPos:570       [ID:000] GoalPos:673  PresPos:685
+[ID:001] GoalPos:692  PresPos:685       [ID:002] GoalPos:563  PresPos:570       [ID:000] GoalPos:673  PresPos:684
+[ID:001] GoalPos:692  PresPos:689       [ID:002] GoalPos:563  PresPos:570       [ID:000] GoalPos:673  PresPos:680
+
+
+The three angles of the servos            from their horizontal position are [55.22600861572406, 16.632315398326394, 44.02453905541062]
+from func 699 568 661
+target2 568
+[ID:001] GoalPos:699  PresPos:693       [ID:002] GoalPos:568  PresPos:570       [ID:000] GoalPos:661  PresPos:676
+[ID:001] GoalPos:699  PresPos:694       [ID:002] GoalPos:568  PresPos:570       [ID:000] GoalPos:661  PresPos:673
+[ID:001] GoalPos:699  PresPos:697       [ID:002] GoalPos:568  PresPos:570       [ID:000] GoalPos:661  PresPos:668
+
+
+The three angles of the servos            from their horizontal position are [56.90059077036493, 18.685697453374917, 40.30028296348324]
+from func 705 575 648
+target2 575
+[ID:001] GoalPos:705  PresPos:700       [ID:002] GoalPos:575  PresPos:571       [ID:000] GoalPos:648  PresPos:664
+[ID:001] GoalPos:705  PresPos:700       [ID:002] GoalPos:575  PresPos:572       [ID:000] GoalPos:648  PresPos:662
+[ID:001] GoalPos:705  PresPos:703       [ID:002] GoalPos:575  PresPos:578       [ID:000] GoalPos:648  PresPos:655
+
+
+The three angles of the servos            from their horizontal position are [58.09723040205937, 21.424665537733897, 36.368426221039314]
+from func 709 584 635
+target2 584
+[ID:001] GoalPos:709  PresPos:705       [ID:002] GoalPos:584  PresPos:578       [ID:000] GoalPos:635  PresPos:653
+[ID:001] GoalPos:709  PresPos:706       [ID:002] GoalPos:584  PresPos:580       [ID:000] GoalPos:635  PresPos:650
+[ID:001] GoalPos:709  PresPos:707       [ID:002] GoalPos:584  PresPos:586       [ID:000] GoalPos:635  PresPos:644
+
+
+The three angles of the servos            from their horizontal position are [58.814835723603196, 24.720473439955338, 32.35778631529977]
+from func 712 595 621
+target2 595
+[ID:001] GoalPos:712  PresPos:709       [ID:002] GoalPos:595  PresPos:589       [ID:000] GoalPos:621  PresPos:639
+[ID:001] GoalPos:712  PresPos:709       [ID:002] GoalPos:595  PresPos:590       [ID:000] GoalPos:621  PresPos:637
+[ID:001] GoalPos:712  PresPos:710       [ID:002] GoalPos:595  PresPos:596       [ID:000] GoalPos:621  PresPos:630
+
+
+The three angles of the servos            from their horizontal position are [59.05391685920889, 28.42009977810018, 28.42009977810018]
+from func 712 608 608
+target2 608
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:608  PresPos:599       [ID:000] GoalPos:608  PresPos:626
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:608  PresPos:599       [ID:000] GoalPos:608  PresPos:623
+[ID:001] GoalPos:712  PresPos:711       [ID:002] GoalPos:608  PresPos:608       [ID:000] GoalPos:608  PresPos:617
+
+
+The three angles of the servos            from their horizontal position are [58.814835723603196, 32.35778631529977, 24.720473439955345]
+from func 712 621 595
+target2 621
+[ID:001] GoalPos:712  PresPos:712       [ID:002] GoalPos:621  PresPos:613       [ID:000] GoalPos:595  PresPos:612
+[ID:001] GoalPos:712  PresPos:712       [ID:002] GoalPos:621  PresPos:614       [ID:000] GoalPos:595  PresPos:611
+[ID:001] GoalPos:712  PresPos:712       [ID:002] GoalPos:621  PresPos:620       [ID:000] GoalPos:595  PresPos:605
+
+
+The three angles of the servos            from their horizontal position are [58.09723040205937, 36.36842622103931, 21.4246655377339]
+from func 709 635 584
+target2 635
+[ID:001] GoalPos:709  PresPos:713       [ID:002] GoalPos:635  PresPos:626       [ID:000] GoalPos:584  PresPos:600
+[ID:001] GoalPos:709  PresPos:712       [ID:002] GoalPos:635  PresPos:627       [ID:000] GoalPos:584  PresPos:599
+[ID:001] GoalPos:709  PresPos:711       [ID:002] GoalPos:635  PresPos:633       [ID:000] GoalPos:584  PresPos:594
+
+
+The three angles of the servos            from their horizontal position are [56.90059077036495, 40.30028296348321, 18.685697453374903]
+from func 705 648 575
+target2 648
+[ID:001] GoalPos:705  PresPos:710       [ID:002] GoalPos:648  PresPos:640       [ID:000] GoalPos:575  PresPos:591
+[ID:001] GoalPos:705  PresPos:709       [ID:002] GoalPos:648  PresPos:640       [ID:000] GoalPos:575  PresPos:589
+[ID:001] GoalPos:705  PresPos:707       [ID:002] GoalPos:648  PresPos:647       [ID:000] GoalPos:575  PresPos:584
+
+
+The three angles of the servos            from their horizontal position are [55.22600861572406, 44.02453905541062, 16.632315398326394]
+from func 699 661 568
+target2 661
+[ID:001] GoalPos:699  PresPos:706       [ID:002] GoalPos:661  PresPos:652       [ID:000] GoalPos:568  PresPos:581
+[ID:001] GoalPos:699  PresPos:706       [ID:002] GoalPos:661  PresPos:652       [ID:000] GoalPos:568  PresPos:579
+[ID:001] GoalPos:699  PresPos:703       [ID:002] GoalPos:661  PresPos:659       [ID:000] GoalPos:568  PresPos:578
+
+
+The three angles of the servos            from their horizontal position are [53.07914752708045, 47.44021210575118, 15.360815832803109]
+from func 692 673 563
+target2 673
+[ID:001] GoalPos:692  PresPos:700       [ID:002] GoalPos:673  PresPos:666       [ID:000] GoalPos:563  PresPos:576
+[ID:001] GoalPos:692  PresPos:700       [ID:002] GoalPos:673  PresPos:666       [ID:000] GoalPos:563  PresPos:573
+
+
+The three angles of the servos            from their horizontal position are [50.474424193607206, 50.47442419360722, 14.93034900022142]
+from func 683 683 562
+target2 683
+[ID:001] GoalPos:683  PresPos:694       [ID:002] GoalPos:683  PresPos:678       [ID:000] GoalPos:562  PresPos:571
+[ID:001] GoalPos:683  PresPos:693       [ID:002] GoalPos:683  PresPos:678       [ID:000] GoalPos:562  PresPos:571
+
+
+The three angles of the servos            from their horizontal position are [47.44021210575117, 53.07914752708046, 15.360815832803109]
+from func 673 692 563
+target2 692
+[ID:001] GoalPos:673  PresPos:685       [ID:002] GoalPos:692  PresPos:687       [ID:000] GoalPos:563  PresPos:571
+[ID:001] GoalPos:673  PresPos:684       [ID:002] GoalPos:692  PresPos:689       [ID:000] GoalPos:563  PresPos:571
+[ID:001] GoalPos:673  PresPos:679       [ID:002] GoalPos:692  PresPos:693       [ID:000] GoalPos:563  PresPos:571
+
+
+The three angles of the servos            from their horizontal position are [44.02453905541059, 55.22600861572406, 16.632315398326377]
+from func 661 699 568
+target2 699
+[ID:001] GoalPos:661  PresPos:675       [ID:002] GoalPos:699  PresPos:694       [ID:000] GoalPos:568  PresPos:571
+[ID:001] GoalPos:661  PresPos:675       [ID:002] GoalPos:699  PresPos:697       [ID:000] GoalPos:568  PresPos:571
+[ID:001] GoalPos:661  PresPos:671       [ID:002] GoalPos:699  PresPos:698       [ID:000] GoalPos:568  PresPos:571
+
+
+The three angles of the servos            from their horizontal position are [40.30028296348323, 56.90059077036496, 18.685697453374917]
+from func 648 705 575
+target2 705
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:705  PresPos:700       [ID:000] GoalPos:575  PresPos:571
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:703       [ID:000] GoalPos:575  PresPos:576
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:708       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:708       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:708       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:000       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:577
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:577
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:648  PresPos:000       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+^[[ID:001] GoalPos:648  PresPos:663     [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:579
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:664       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:705  PresPos:707       [ID:000] GoalPos:575  PresPos:578
+^CTraceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 380, in <module>
+    dxl1_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL1_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 375, in read2ByteTxRx
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 345, in readTxRx
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 231, in txRxPacket
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 139, in rxPacket
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 78, in readPort
+  File "/usr/local/lib/python3.8/dist-packages/pyserial-3.5-py3.8.egg/serial/serialposix.py", line 566, in read
+    if self.pipe_abort_read_r in ready:
+KeyboardInterrupt
+
+~ via  v10.19.0 via 🐍 v3.8.10 took 23s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+
+
+The three angles of the servos            from their horizontal position are [40.30028296348323, 18.685697453374917, 56.90059077036496]
+from func 648 575 705
+target2 575
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:575  PresPos:707       [ID:000] GoalPos:705  PresPos:578
+[ID:001] GoalPos:648  PresPos:663       [ID:002] GoalPos:575  PresPos:707       [ID:000] GoalPos:705  PresPos:583
+[ID:001] GoalPos:648  PresPos:658       [ID:002] GoalPos:575  PresPos:697       [ID:000] GoalPos:705  PresPos:595
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:684       [ID:000] GoalPos:705  PresPos:608
+[ID:001] GoalPos:648  PresPos:648       [ID:002] GoalPos:575  PresPos:672       [ID:000] GoalPos:705  PresPos:620
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:662       [ID:000] GoalPos:705  PresPos:627
+[ID:001] GoalPos:648  PresPos:652       [ID:002] GoalPos:575  PresPos:653       [ID:000] GoalPos:705  PresPos:635
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:646       [ID:000] GoalPos:705  PresPos:645
+[ID:001] GoalPos:648  PresPos:650       [ID:002] GoalPos:575  PresPos:637       [ID:000] GoalPos:705  PresPos:658
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:626       [ID:000] GoalPos:705  PresPos:668
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:616       [ID:000] GoalPos:705  PresPos:676
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:605       [ID:000] GoalPos:705  PresPos:685
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:597       [ID:000] GoalPos:705  PresPos:696
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:589       [ID:000] GoalPos:705  PresPos:707
+[ID:001] GoalPos:648  PresPos:651       [ID:002] GoalPos:575  PresPos:580       [ID:000] GoalPos:705  PresPos:710
+
+
+The three angles of the servos            from their horizontal position are [44.0245390554106, 16.632315398326377, 55.22600861572406]
+from func 661 568 699
+target2 568
+[ID:001] GoalPos:661  PresPos:651       [ID:002] GoalPos:568  PresPos:580       [ID:000] GoalPos:699  PresPos:708
+[ID:001] GoalPos:661  PresPos:651       [ID:002] GoalPos:568  PresPos:580       [ID:000] GoalPos:699  PresPos:705
+[ID:001] GoalPos:661  PresPos:656       [ID:002] GoalPos:568  PresPos:578       [ID:000] GoalPos:699  PresPos:702
+
+
+The three angles of the servos            from their horizontal position are [47.440212105751165, 15.360815832803105, 53.07914752708046]
+from func 673 563 692
+target2 563
+[ID:001] GoalPos:673  PresPos:663       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:702
+[ID:001] GoalPos:673  PresPos:664       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:698
+[ID:001] GoalPos:673  PresPos:669       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:695
+[ID:001] GoalPos:673  PresPos:675       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:679       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:678       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:675       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:675       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:576       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:695
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:678       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:693
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:695
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+[ID:001] GoalPos:673  PresPos:676       [ID:002] GoalPos:563  PresPos:577       [ID:000] GoalPos:692  PresPos:694
+^CTraceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 387, in <module>
+    dxl2_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL2_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 375, in read2ByteTxRx
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 345, in readTxRx
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 231, in txRxPacket
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 191, in rxPacket
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 94, in isPacketTimeout
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 104, in getTimeSinceStart
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 101, in getCurrentTime
+KeyboardInterrupt
+
+~ via  v10.19.0 via 🐍 v3.8.10 took 10s
+  ✗!
+
+
+
+
+
+  The three angles of the servos            from their horizontal position are [52.40522698742823, 59.653656956252, 6.718332177205792]
+  from func 690 714 534
+  target2 714
+  [ID:001] GoalPos:690  PresPos:704       [ID:002] GoalPos:714  PresPos:706       [ID:000] GoalPos:534  PresPos:541
+  [ID:001] GoalPos:690  PresPos:703       [ID:002] GoalPos:714  PresPos:707       [ID:000] GoalPos:534  PresPos:541
+  [ID:001] GoalPos:690  PresPos:699       [ID:002] GoalPos:714  PresPos:710       [ID:000] GoalPos:534  PresPos:541
+  [ID:001] GoalPos:690  PresPos:694       [ID:002] GoalPos:714  PresPos:717       [ID:000] GoalPos:534  PresPos:541
+  [ID:001] GoalPos:690  PresPos:692       [ID:002] GoalPos:714  PresPos:721       [ID:000] GoalPos:534  PresPos:541
+
+
+  The three angles of the servos            from their horizontal position are [47.858017449174795, 62.32397770544305, 8.585324265697968]
+  from func 674 724 540
+  target2 724
+  [ID:001] GoalPos:674  PresPos:692       [ID:002] GoalPos:724  PresPos:718       [ID:000] GoalPos:540  PresPos:541
+
+
+  The three angles of the servos            from their horizontal position are [42.776916738575565, 64.3716249572063, 11.605099879060115]
+  from func 657 731 551
+  target2 731
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:657  PresPos:000       [ID:002] GoalPos:731  PresPos:724       [ID:000] GoalPos:551  PresPos:543
+  [ID:001] GoalPos:657  PresPos:678       [ID:002] GoalPos:731  PresPos:723       [ID:000] GoalPos:551  PresPos:550
+
+
+  The three angles of the servos            from their horizontal position are [37.28805323367663, 65.81573575513217, 15.63598775464256]
+  from func 638 735 564
+  target2 735
+  [ID:001] GoalPos:638  PresPos:678       [ID:002] GoalPos:735  PresPos:728       [ID:000] GoalPos:564  PresPos:556
+  [ID:001] GoalPos:638  PresPos:676       [ID:002] GoalPos:735  PresPos:731       [ID:000] GoalPos:564  PresPos:559
+  [ID:001] GoalPos:638  PresPos:673       [ID:002] GoalPos:735  PresPos:736       [ID:000] GoalPos:564  PresPos:566
+
+
+  The three angles of the servos            from their horizontal position are [31.577297548733128, 66.67406087684974, 20.478147583533037]
+  from func 619 738 581
+  target2 738
+  [ID:001] GoalPos:619  PresPos:643       [ID:002] GoalPos:738  PresPos:736       [ID:000] GoalPos:581  PresPos:569
+
+
+  The three angles of the servos            from their horizontal position are [25.8834892338622, 66.9587422427402, 25.883489233862225]
+  from func 599 739 599
+  target2 739
+  [ID:001] GoalPos:599  PresPos:621       [ID:002] GoalPos:739  PresPos:738       [ID:000] GoalPos:599  PresPos:586
+
+
+  The three angles of the servos            from their horizontal position are [20.478147583533026, 66.67406087684974, 31.577297548733135]
+  from func 581 738 619
+  target2 738
+  [ID:001] GoalPos:581  PresPos:604       [ID:002] GoalPos:738  PresPos:739       [ID:000] GoalPos:619  PresPos:605
+
+
+  The three angles of the servos            from their horizontal position are [15.63598775464255, 65.81573575513217, 37.28805323367663]
+  from func 564 735 638
+  target2 735
+  [ID:001] GoalPos:564  PresPos:586       [ID:002] GoalPos:735  PresPos:735       [ID:000] GoalPos:638  PresPos:625
+
+
+  The three angles of the servos            from their horizontal position are [11.605099879060113, 64.3716249572063, 42.77691673857556]
+  from func 551 731 657
+  target2 731
+  [ID:001] GoalPos:551  PresPos:570       [ID:002] GoalPos:731  PresPos:730       [ID:000] GoalPos:657  PresPos:646
+
+
+  The three angles of the servos            from their horizontal position are [8.585324265697956, 62.32397770544308, 47.858017449174795]
+  from func 540 724 674
+  target2 724
+  [ID:001] GoalPos:540  PresPos:558       [ID:002] GoalPos:724  PresPos:726       [ID:000] GoalPos:674  PresPos:666
+
+
+  The three angles of the servos            from their horizontal position are [6.718332177205776, 59.653656956252, 52.40522698742825]
+  from func 534 714 690
+  target2 714
+  [ID:001] GoalPos:534  PresPos:548       [ID:002] GoalPos:714  PresPos:720       [ID:000] GoalPos:690  PresPos:684
+  [ID:001] GoalPos:534  PresPos:548       [ID:002] GoalPos:714  PresPos:722       [ID:000] GoalPos:690  PresPos:680
+  [ID:001] GoalPos:534  PresPos:545       [ID:002] GoalPos:714  PresPos:722       [ID:000] GoalPos:690  PresPos:682
+  [ID:001] GoalPos:534  PresPos:542       [ID:002] GoalPos:714  PresPos:720       [ID:000] GoalPos:690  PresPos:690
+
+
+  The three angles of the servos            from their horizontal position are [6.086979542777009, 56.34691741445249, 56.346917414452484]
+  from func 532 703 703
+  target2 703
+  [ID:001] GoalPos:532  PresPos:541       [ID:002] GoalPos:703  PresPos:718       [ID:000] GoalPos:703  PresPos:687
+  [ID:001] GoalPos:532  PresPos:541       [ID:002] GoalPos:703  PresPos:716       [ID:000] GoalPos:703  PresPos:696
+  [ID:001] GoalPos:532  PresPos:541       [ID:002] GoalPos:703  PresPos:708       [ID:000] GoalPos:703  PresPos:705
+
+
+  The three angles of the servos            from their horizontal position are [6.718332177205776, 52.40522698742825, 59.653656956252]
+  from func 534 690 714
+  target2 690
+  [ID:001] GoalPos:534  PresPos:541       [ID:002] GoalPos:690  PresPos:706       [ID:000] GoalPos:714  PresPos:704
+  [ID:001] GoalPos:534  PresPos:541       [ID:002] GoalPos:690  PresPos:704       [ID:000] GoalPos:714  PresPos:705
+  [ID:001] GoalPos:534  PresPos:541       [ID:002] GoalPos:690  PresPos:698       [ID:000] GoalPos:714  PresPos:712
+
+
+  The three angles of the servos            from their horizontal position are [8.585324265697945, 47.858017449174824, 62.32397770544306]
+  from func 540 674 724
+  target2 674
+  [ID:001] GoalPos:540  PresPos:541       [ID:002] GoalPos:674  PresPos:694       [ID:000] GoalPos:724  PresPos:712
+
+
+  The three angles of the servos            from their horizontal position are [11.605099879060099, 42.776916738575586, 64.3716249572063]
+  from func 551 657 731
+  target2 657
+  [ID:001] GoalPos:551  PresPos:542       [ID:002] GoalPos:657  PresPos:678       [ID:000] GoalPos:731  PresPos:719
+  [ID:001] GoalPos:551  PresPos:543       [ID:002] GoalPos:657  PresPos:679       [ID:000] GoalPos:731  PresPos:725
+  [ID:001] GoalPos:551  PresPos:550       [ID:002] GoalPos:657  PresPos:672       [ID:000] GoalPos:731  PresPos:729
+
+
+  The three angles of the servos            from their horizontal position are [15.635987754642544, 37.28805323367664, 65.81573575513217]
+  from func 564 638 735
+  target2 638
+  [ID:001] GoalPos:564  PresPos:557       [ID:002] GoalPos:638  PresPos:660       [ID:000] GoalPos:735  PresPos:728
+  [ID:001] GoalPos:564  PresPos:557       [ID:002] GoalPos:638  PresPos:660       [ID:000] GoalPos:735  PresPos:732
+  [ID:001] GoalPos:564  PresPos:559       [ID:002] GoalPos:638  PresPos:653       [ID:000] GoalPos:735  PresPos:733
+
+
+  The three angles of the servos            from their horizontal position are [20.478147583533016, 31.577297548733153, 66.67406087684974]
+  from func 581 619 738
+  target2 619
+  [ID:001] GoalPos:581  PresPos:569       [ID:002] GoalPos:619  PresPos:642       [ID:000] GoalPos:738  PresPos:733
+  [ID:001] GoalPos:581  PresPos:569       [ID:002] GoalPos:619  PresPos:642       [ID:000] GoalPos:738  PresPos:736
+
+
+  The three angles of the servos            from their horizontal position are [25.883489233862196, 25.883489233862242, 66.9587422427402]
+  from func 599 599 739
+  target2 599
+  [ID:001] GoalPos:599  PresPos:585       [ID:002] GoalPos:599  PresPos:623       [ID:000] GoalPos:739  PresPos:737
+
+
+  The three angles of the servos            from their horizontal position are [31.577297548733128, 20.478147583533037, 66.67406087684974]
+  from func 619 581 738
+  target2 581
+  [ID:001] GoalPos:619  PresPos:605       [ID:002] GoalPos:581  PresPos:605       [ID:000] GoalPos:738  PresPos:737
+
+
+  The three angles of the servos            from their horizontal position are [37.28805323367659, 15.635987754642576, 65.81573575513217]
+  from func 638 564 735
+  target2 564
+  [ID:001] GoalPos:638  PresPos:623       [ID:002] GoalPos:564  PresPos:585       [ID:000] GoalPos:735  PresPos:736
+  ~ via  v10.19.0 via 🐍 v3.8.10 took 14s
+  Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+  Succeeded to open the port
+  Succeeded to change the baudrate
+  Dynamixel#1 has been successfully connected
+  Dynamixel#2 has been successfully connected
+  Dynamixel#0 has been successfully connected
+
+
+  The three angles of the servos            from their horizontal position are [48.549784857049296, 24.416273246649194, 66.85213009358499]
+  from func 677 594 739
+  target2 594
+  [ID:001] GoalPos:677  PresPos:722       [ID:002] GoalPos:594  PresPos:750       [ID:000] GoalPos:739  PresPos:741
+
+
+  The three angles of the servos            from their horizontal position are [52.70669495651461, 22.152763040873864, 65.0407787131727]
+  from func 691 587 733
+  target2 587
+  [ID:001] GoalPos:691  PresPos:681       [ID:002] GoalPos:587  PresPos:707       [ID:000] GoalPos:733  PresPos:743
+  [ID:001] GoalPos:691  PresPos:679       [ID:002] GoalPos:587  PresPos:698       [ID:000] GoalPos:733  PresPos:738
+  [ID:001] GoalPos:691  PresPos:685       [ID:002] GoalPos:587  PresPos:690       [ID:000] GoalPos:733  PresPos:734
+
+
+  The three angles of the servos            from their horizontal position are [56.50023324246526, 20.75558890087157, 62.703924798733475]
+  from func 704 582 725
+  target2 582
+  [ID:001] GoalPos:704  PresPos:693       [ID:002] GoalPos:582  PresPos:640       [ID:000] GoalPos:725  PresPos:737
+  [ID:001] GoalPos:704  PresPos:693       [ID:002] GoalPos:582  PresPos:630       [ID:000] GoalPos:725  PresPos:730
+  [ID:001] GoalPos:704  PresPos:698       [ID:002] GoalPos:582  PresPos:620       [ID:000] GoalPos:725  PresPos:725
+
+
+  The three angles of the servos            from their horizontal position are [59.84901512232398, 20.28338291175417, 59.84901512232398]
+  from func 715 580 715
+  target2 580
+  [ID:001] GoalPos:715  PresPos:705       [ID:002] GoalPos:580  PresPos:586       [ID:000] GoalPos:715  PresPos:727
+  [ID:001] GoalPos:715  PresPos:706       [ID:002] GoalPos:580  PresPos:587       [ID:000] GoalPos:715  PresPos:722
+  [ID:001] GoalPos:715  PresPos:710       [ID:002] GoalPos:580  PresPos:589       [ID:000] GoalPos:715  PresPos:719
+  [ID:001] GoalPos:715  PresPos:716       [ID:002] GoalPos:580  PresPos:587       [ID:000] GoalPos:715  PresPos:717
+
+
+  The three angles of the servos            from their horizontal position are [62.703924798733475, 20.755588900871565, 56.50023324246526]
+  from func 725 582 704
+  target2 582
+  [ID:001] GoalPos:725  PresPos:716       [ID:002] GoalPos:582  PresPos:587       [ID:000] GoalPos:704  PresPos:717
+  [ID:001] GoalPos:725  PresPos:716       [ID:002] GoalPos:582  PresPos:587       [ID:000] GoalPos:704  PresPos:714
+  [ID:001] GoalPos:725  PresPos:721       [ID:002] GoalPos:582  PresPos:587       [ID:000] GoalPos:704  PresPos:710
+  [ID:001] GoalPos:725  PresPos:726       [ID:002] GoalPos:582  PresPos:587       [ID:000] GoalPos:704  PresPos:708
+
+
+  The three angles of the servos            from their horizontal position are [65.0407787131727, 22.152763040873864, 52.70669495651461]
+  from func 733 587 691
+  target2 587
+  [ID:001] GoalPos:733  PresPos:726       [ID:002] GoalPos:587  PresPos:587       [ID:000] GoalPos:691  PresPos:707
+
+
+  The three angles of the servos            from their horizontal position are [66.85213009358499, 24.416273246649194, 48.549784857049296]
+  from func 739 594 677
+  target2 594
+  [ID:001] GoalPos:739  PresPos:734       [ID:002] GoalPos:594  PresPos:590       [ID:000] GoalPos:677  PresPos:693
+  [ID:001] GoalPos:739  PresPos:733       [ID:002] GoalPos:594  PresPos:592       [ID:000] GoalPos:677  PresPos:692
+
+
+  The three angles of the servos            from their horizontal position are [68.13984422744022, 27.448122927790546, 44.14729011608025]
+  from func 743 605 662
+  target2 605
+  [ID:001] GoalPos:743  PresPos:738       [ID:002] GoalPos:605  PresPos:597       [ID:000] GoalPos:662  PresPos:680
+  [ID:001] GoalPos:743  PresPos:738       [ID:002] GoalPos:605  PresPos:599       [ID:000] GoalPos:662  PresPos:677
+  [ID:001] GoalPos:743  PresPos:741       [ID:002] GoalPos:605  PresPos:605       [ID:000] GoalPos:662  PresPos:671
+
+
+  The three angles of the servos            from their horizontal position are [68.90925423648467, 31.11277900156736, 39.65194890442895]
+  from func 746 617 646
+  target2 617
+  [ID:001] GoalPos:746  PresPos:741       [ID:002] GoalPos:617  PresPos:609       [ID:000] GoalPos:646  PresPos:665
+  [ID:001] GoalPos:746  PresPos:742       [ID:002] GoalPos:617  PresPos:611       [ID:000] GoalPos:646  PresPos:663
+  [ID:001] GoalPos:746  PresPos:744       [ID:002] GoalPos:617  PresPos:616       [ID:000] GoalPos:646  PresPos:656
+
+
+  The three angles of the servos            from their horizontal position are [69.16511204232843, 35.24316070059659, 35.24316070059659]
+  from func 747 631 631
+  target2 631
+  [ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:631  PresPos:621       [ID:000] GoalPos:631  PresPos:649
+
+
+  The three angles of the servos            from their horizontal position are [68.90925423648467, 39.65194890442895, 31.11277900156736]
+  from func 746 646 617
+  target2 646
+  [ID:001] GoalPos:746  PresPos:745       [ID:002] GoalPos:646  PresPos:636       [ID:000] GoalPos:617  PresPos:636
+
+
+  The three angles of the servos            from their horizontal position are [68.13984422744022, 44.14729011608025, 27.448122927790546]
+  from func 743 662 605
+  target2 662
+  [ID:001] GoalPos:743  PresPos:745       [ID:002] GoalPos:662  PresPos:649       [ID:000] GoalPos:605  PresPos:621
+
+
+  The three angles of the servos            from their horizontal position are [66.85213009358499, 48.549784857049296, 24.4162732466492]
+  from func 739 677 594
+  target2 677
+  [ID:001] GoalPos:739  PresPos:741       [ID:002] GoalPos:677  PresPos:667       [ID:000] GoalPos:594  PresPos:610
+
+
+  The three angles of the servos            from their horizontal position are [65.0407787131727, 52.70669495651461, 22.152763040873864]
+  from func 733 691 587
+  target2 691
+  [ID:001] GoalPos:733  PresPos:737       [ID:002] GoalPos:691  PresPos:680       [ID:000] GoalPos:587  PresPos:599
+  [ID:001] GoalPos:733  PresPos:737       [ID:002] GoalPos:691  PresPos:681       [ID:000] GoalPos:587  PresPos:599
+  [ID:001] GoalPos:733  PresPos:737       [ID:002] GoalPos:691  PresPos:690       [ID:000] GoalPos:587  PresPos:597
+
+
+  The three angles of the servos            from their horizontal position are [62.70392479873348, 56.50023324246526, 20.75558890087157]
+  from func 725 704 582
+  target2 704
+  [ID:001] GoalPos:725  PresPos:734       [ID:002] GoalPos:704  PresPos:693       [ID:000] GoalPos:582  PresPos:594
+  [ID:001] GoalPos:725  PresPos:733       [ID:002] GoalPos:704  PresPos:696       [ID:000] GoalPos:582  PresPos:593
+  [ID:001] GoalPos:725  PresPos:729       [ID:002] GoalPos:704  PresPos:701       [ID:000] GoalPos:582  PresPos:591
+  [ID:001] GoalPos:725  PresPos:726       [ID:002] GoalPos:704  PresPos:709       [ID:000] GoalPos:582  PresPos:591
+
+
+  The three angles of the servos            from their horizontal position are [59.84901512232398, 59.84901512232398, 20.28338291175417]
+  from func 715 715 580
+  target2 715
+  [ID:001] GoalPos:715  PresPos:726       [ID:002] GoalPos:715  PresPos:708       [ID:000] GoalPos:580  PresPos:590
+  [ID:001] GoalPos:715  PresPos:724       [ID:002] GoalPos:715  PresPos:708       [ID:000] GoalPos:580  PresPos:590
+  [ID:001] GoalPos:715  PresPos:721       [ID:002] GoalPos:715  PresPos:710       [ID:000] GoalPos:580  PresPos:590
+  [ID:001] GoalPos:715  PresPos:717       [ID:002] GoalPos:715  PresPos:719       [ID:000] GoalPos:580  PresPos:590
+
+
+  The three angles of the servos            from their horizontal position are [56.50023324246526, 62.703924798733475, 20.755588900871558]
+  from func 704 725 582
+  target2 725
+  [ID:001] GoalPos:704  PresPos:716       [ID:002] GoalPos:725  PresPos:718       [ID:000] GoalPos:582  PresPos:590
+  [ID:001] GoalPos:704  PresPos:715       [ID:002] GoalPos:725  PresPos:719       [ID:000] GoalPos:582  PresPos:590
+  [ID:001] GoalPos:704  PresPos:710       [ID:002] GoalPos:725  PresPos:723       [ID:000] GoalPos:582  PresPos:590
+
+
+  The three angles of the servos            from their horizontal position are [52.70669495651461, 65.0407787131727, 22.152763040873864]
+  from func 691 733 587
+  target2 733
+  [ID:001] GoalPos:691  PresPos:706       [ID:002] GoalPos:733  PresPos:727       [ID:000] GoalPos:587  PresPos:590
+  [ID:001] GoalPos:691  PresPos:705       [ID:002] GoalPos:733  PresPos:729       [ID:000] GoalPos:587  PresPos:590
+  [ID:001] GoalPos:691  PresPos:699       [ID:002] GoalPos:733  PresPos:733       [ID:000] GoalPos:587  PresPos:590
+
+
+  The three angles of the servos            from their horizontal position are [48.5497848570493, 66.85213009358499, 24.416273246649194]
+  from func 677 739 594
+  target2 739
+  [ID:001] GoalPos:677  PresPos:693       [ID:002] GoalPos:739  PresPos:733       [ID:000] GoalPos:594  PresPos:590
+  [ID:001] GoalPos:677  PresPos:692       [ID:002] GoalPos:739  PresPos:736       [ID:000] GoalPos:594  PresPos:593
+
+
+  The three angles of the servos            from their horizontal position are [44.14729011608025, 68.13984422744025, 27.44812292779055]
+  from func 662 743 605
+  target2 743
+  [ID:001] GoalPos:662  PresPos:681       [ID:002] GoalPos:743  PresPos:739       [ID:000] GoalPos:605  PresPos:598
+  [ID:001] GoalPos:662  PresPos:680       [ID:002] GoalPos:743  PresPos:739       [ID:000] GoalPos:605  PresPos:601
+  [ID:001] GoalPos:662  PresPos:674       [ID:002] GoalPos:743  PresPos:741       [ID:000] GoalPos:605  PresPos:607
+
+
+  The three angles of the servos            from their horizontal position are [39.65194890442896, 68.9092542364847, 31.11277900156735]
+  from func 646 746 617
+  target2 746
+  [ID:001] GoalPos:646  PresPos:667       [ID:002] GoalPos:746  PresPos:740       [ID:000] GoalPos:617  PresPos:610
+  [ID:001] GoalPos:646  PresPos:664       [ID:002] GoalPos:746  PresPos:745       [ID:000] GoalPos:617  PresPos:612
+
+
+  The three angles of the servos            from their horizontal position are [35.24316070059658, 69.16511204232843, 35.2431607005966]
+  from func 631 747 631
+  target2 747
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:631  PresPos:000       [ID:002] GoalPos:747  PresPos:747       [ID:000] GoalPos:631  PresPos:621
+
+
+  The three angles of the servos            from their horizontal position are [31.112779001567365, 68.9092542364847, 39.65194890442895]
+  from func 617 746 646
+  target2 746
+  [ID:001] GoalPos:617  PresPos:649       [ID:002] GoalPos:746  PresPos:743       [ID:000] GoalPos:646  PresPos:636
+  [ID:001] GoalPos:617  PresPos:649       [ID:002] GoalPos:746  PresPos:751       [ID:000] GoalPos:646  PresPos:637
+  [ID:001] GoalPos:617  PresPos:645       [ID:002] GoalPos:746  PresPos:750       [ID:000] GoalPos:646  PresPos:645
+
+
+  The three angles of the servos            from their horizontal position are [27.44812292779055, 68.13984422744025, 44.14729011608025]
+  from func 605 743 662
+  target2 743
+  [ID:001] GoalPos:605  PresPos:621       [ID:002] GoalPos:743  PresPos:751       [ID:000] GoalPos:662  PresPos:649
+  [ID:001] GoalPos:605  PresPos:619       [ID:002] GoalPos:743  PresPos:747       [ID:000] GoalPos:662  PresPos:653
+  [ID:001] GoalPos:605  PresPos:614       [ID:002] GoalPos:743  PresPos:740       [ID:000] GoalPos:662  PresPos:662
+
+
+  The three angles of the servos            from their horizontal position are [24.4162732466492, 66.85213009358499, 48.54978485704929]
+  from func 594 739 677
+  target2 739
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:594  PresPos:610       [ID:002] GoalPos:739  PresPos:000       [ID:000] GoalPos:677  PresPos:666
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:594  PresPos:609       [ID:002] GoalPos:739  PresPos:000       [ID:000] GoalPos:677  PresPos:673
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:594  PresPos:601       [ID:002] GoalPos:739  PresPos:000       [ID:000] GoalPos:677  PresPos:683
+  [ID:001] GoalPos:594  PresPos:597       [ID:002] GoalPos:739  PresPos:746       [ID:000] GoalPos:677  PresPos:684
+  [ID:001] GoalPos:594  PresPos:599       [ID:002] GoalPos:739  PresPos:740       [ID:000] GoalPos:677  PresPos:683
+
+
+  The three angles of the servos            from their horizontal position are [22.152763040873864, 65.04077871317273, 52.706694956514596]
+  from func 587 733 691
+  target2 733
+  [ID:001] GoalPos:587  PresPos:599       [ID:002] GoalPos:733  PresPos:740       [ID:000] GoalPos:691  PresPos:681
+  [ID:001] GoalPos:587  PresPos:599       [ID:002] GoalPos:733  PresPos:743       [ID:000] GoalPos:691  PresPos:683
+  [ID:001] GoalPos:587  PresPos:597       [ID:002] GoalPos:733  PresPos:739       [ID:000] GoalPos:691  PresPos:686
+  [ID:001] GoalPos:587  PresPos:594       [ID:002] GoalPos:733  PresPos:735       [ID:000] GoalPos:691  PresPos:698
+
+
+  The three angles of the servos            from their horizontal position are [20.755588900871558, 62.70392479873348, 56.50023324246526]
+  from func 582 725 704
+  target2 725
+  [ID:001] GoalPos:582  PresPos:594       [ID:002] GoalPos:725  PresPos:739       [ID:000] GoalPos:704  PresPos:692
+  [ID:001] GoalPos:582  PresPos:594       [ID:002] GoalPos:725  PresPos:732       [ID:000] GoalPos:704  PresPos:696
+  [ID:001] GoalPos:582  PresPos:592       [ID:002] GoalPos:725  PresPos:727       [ID:000] GoalPos:704  PresPos:705
+
+
+  The three angles of the servos            from their horizontal position are [20.28338291175417, 59.849015122324, 59.849015122324]
+  from func 580 715 715
+  target2 715
+  [ID:001] GoalPos:580  PresPos:589       [ID:002] GoalPos:715  PresPos:727       [ID:000] GoalPos:715  PresPos:705
+  [ID:001] GoalPos:580  PresPos:590       [ID:002] GoalPos:715  PresPos:726       [ID:000] GoalPos:715  PresPos:709
+  [ID:001] GoalPos:580  PresPos:589       [ID:002] GoalPos:715  PresPos:720       [ID:000] GoalPos:715  PresPos:713
+
+
+  The three angles of the servos            from their horizontal position are [20.755588900871558, 56.50023324246526, 62.703924798733475]
+  from func 582 704 725
+  target2 704
+  [ID:001] GoalPos:582  PresPos:589       [ID:002] GoalPos:704  PresPos:719       [ID:000] GoalPos:725  PresPos:713
+  [ID:001] GoalPos:582  PresPos:589       [ID:002] GoalPos:704  PresPos:717       [ID:000] GoalPos:725  PresPos:718
+  [ID:001] GoalPos:582  PresPos:589       [ID:002] GoalPos:704  PresPos:710       [ID:000] GoalPos:725  PresPos:727
+
+
+  The three angles of the servos            from their horizontal position are [22.152763040873857, 52.70669495651461, 65.0407787131727]
+  from func 587 691 733
+  target2 691
+  [ID:001] GoalPos:587  PresPos:589       [ID:002] GoalPos:691  PresPos:707       [ID:000] GoalPos:733  PresPos:724
+
+
+  The three angles of the servos            from their horizontal position are [24.416273246649194, 48.549784857049296, 66.85213009358499]
+  from func 594 677 739
+  target2 677
+  [ID:001] GoalPos:594  PresPos:590       [ID:002] GoalPos:677  PresPos:694       [ID:000] GoalPos:739  PresPos:729
+  [ID:001] GoalPos:594  PresPos:591       [ID:002] GoalPos:677  PresPos:693       [ID:000] GoalPos:739  PresPos:737
+
+
+  The three angles of the servos            from their horizontal position are [27.448122927790546, 44.147290116080256, 68.13984422744022]
+  from func 605 662 743
+  target2 662
+  [ID:001] GoalPos:605  PresPos:598       [ID:002] GoalPos:662  PresPos:680       [ID:000] GoalPos:743  PresPos:735
+  [ID:001] GoalPos:605  PresPos:598       [ID:002] GoalPos:662  PresPos:680       [ID:000] GoalPos:743  PresPos:739
+  [ID:001] GoalPos:605  PresPos:601       [ID:002] GoalPos:662  PresPos:672       [ID:000] GoalPos:743  PresPos:741
+
+
+  The three angles of the servos            from their horizontal position are [31.112779001567347, 39.65194890442896, 68.9092542364847]
+  from func 617 646 746
+  target2 646
+  [ID:001] GoalPos:617  PresPos:609       [ID:002] GoalPos:646  PresPos:667       [ID:000] GoalPos:746  PresPos:741
+  [ID:001] GoalPos:617  PresPos:609       [ID:002] GoalPos:646  PresPos:663       [ID:000] GoalPos:746  PresPos:744
+
+
+  The three angles of the servos            from their horizontal position are [35.24316070059658, 35.24316070059662, 69.16511204232843]
+  from func 631 631 747
+  target2 631
+  [ID:001] GoalPos:631  PresPos:620       [ID:002] GoalPos:631  PresPos:650       [ID:000] GoalPos:747  PresPos:744
+  [ID:001] GoalPos:631  PresPos:621       [ID:002] GoalPos:631  PresPos:649       [ID:000] GoalPos:747  PresPos:746
+
+
+  The three angles of the servos            from their horizontal position are [39.65194890442896, 31.11277900156735, 68.9092542364847]
+  from func 646 617 746
+  target2 617
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:646  PresPos:000       [ID:002] GoalPos:617  PresPos:636       [ID:000] GoalPos:746  PresPos:746
+
+
+  The three angles of the servos            from their horizontal position are [44.14729011608023, 27.448122927790557, 68.13984422744025]
+  from func 662 605 743
+  target2 605
+  [ID:001] GoalPos:662  PresPos:635       [ID:002] GoalPos:605  PresPos:622       [ID:000] GoalPos:743  PresPos:745
+  ~ via  v10.19.0 via 🐍 v3.8.10 took 14s
+  Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+  Succeeded to open the port
+  Succeeded to change the baudrate
+  Dynamixel#1 has been successfully connected
+  Dynamixel#2 has been successfully connected
+  Dynamixel#0 has been successfully connected
+
+
+  The three angles of the servos            from their horizontal position are [48.549784857049296, 24.416273246649194, 66.85213009358499]
+  from func 677 594 739
+  target2 594
+  [ID:001] GoalPos:677  PresPos:728       [ID:002] GoalPos:594  PresPos:752       [ID:000] GoalPos:739  PresPos:746
+  [ID:001] GoalPos:677  PresPos:728       [ID:002] GoalPos:594  PresPos:752       [ID:000] GoalPos:739  PresPos:745
+  [ID:001] GoalPos:677  PresPos:721       [ID:002] GoalPos:594  PresPos:741       [ID:000] GoalPos:739  PresPos:737
+
+
+  The three angles of the servos            from their horizontal position are [50.66716809428772, 23.181434353328456, 66.0121666930032]
+  from func 684 590 736
+  target2 590
+  [ID:001] GoalPos:684  PresPos:676       [ID:002] GoalPos:590  PresPos:690       [ID:000] GoalPos:736  PresPos:742
+  [ID:001] GoalPos:684  PresPos:680       [ID:002] GoalPos:590  PresPos:681       [ID:000] GoalPos:736  PresPos:738
+
+
+  The three angles of the servos            from their horizontal position are [52.70669495651461, 22.152763040873864, 65.0407787131727]
+  from func 691 587 733
+  target2 587
+  [ID:001] GoalPos:691  PresPos:686       [ID:002] GoalPos:587  PresPos:632       [ID:000] GoalPos:733  PresPos:737
+  [ID:001] GoalPos:691  PresPos:686       [ID:002] GoalPos:587  PresPos:622       [ID:000] GoalPos:733  PresPos:735
+
+
+  The three angles of the servos            from their horizontal position are [54.654798818741064, 21.341294619424616, 63.937872869986414]
+  from func 697 584 729
+  target2 584
+  [ID:001] GoalPos:697  PresPos:693       [ID:002] GoalPos:584  PresPos:593       [ID:000] GoalPos:729  PresPos:734
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:697  PresPos:693       [ID:002] GoalPos:584  PresPos:000       [ID:000] GoalPos:729  PresPos:732
+  [ID:001] GoalPos:697  PresPos:697       [ID:002] GoalPos:584  PresPos:593       [ID:000] GoalPos:729  PresPos:730
+
+
+  The three angles of the servos            from their horizontal position are [56.50023324246526, 20.75558890087157, 62.703924798733475]
+  from func 704 582 725
+  target2 582
+  [ID:001] GoalPos:704  PresPos:698       [ID:002] GoalPos:582  PresPos:593       [ID:000] GoalPos:725  PresPos:730
+  [ID:001] GoalPos:704  PresPos:698       [ID:002] GoalPos:582  PresPos:592       [ID:000] GoalPos:725  PresPos:729
+  [ID:001] GoalPos:704  PresPos:703       [ID:002] GoalPos:582  PresPos:591       [ID:000] GoalPos:725  PresPos:728
+
+
+  The three angles of the servos            from their horizontal position are [58.23396815405763, 20.40173739470915, 61.340203047554795]
+  from func 710 581 720
+  target2 581
+  [ID:001] GoalPos:710  PresPos:706       [ID:002] GoalPos:581  PresPos:591       [ID:000] GoalPos:720  PresPos:726
+  [ID:001] GoalPos:710  PresPos:706       [ID:002] GoalPos:581  PresPos:591       [ID:000] GoalPos:720  PresPos:725
+  [ID:001] GoalPos:710  PresPos:708       [ID:002] GoalPos:581  PresPos:591       [ID:000] GoalPos:720  PresPos:724
+
+
+  The three angles of the servos            from their horizontal position are [59.84901512232398, 20.28338291175417, 59.84901512232398]
+  from func 715 580 715
+  target2 580
+  [ID:001] GoalPos:715  PresPos:711       [ID:002] GoalPos:580  PresPos:591       [ID:000] GoalPos:715  PresPos:722
+  [ID:001] GoalPos:715  PresPos:711       [ID:002] GoalPos:580  PresPos:591       [ID:000] GoalPos:715  PresPos:720
+  [ID:001] GoalPos:715  PresPos:712       [ID:002] GoalPos:580  PresPos:591       [ID:000] GoalPos:715  PresPos:719
+  [ID:001] GoalPos:715  PresPos:713       [ID:002] GoalPos:580  PresPos:590       [ID:000] GoalPos:715  PresPos:718
+
+
+  The three angles of the servos            from their horizontal position are [61.340203047554795, 20.40173739470915, 58.23396815405763]
+  from func 720 581 710
+  target2 581
+  [ID:001] GoalPos:720  PresPos:715       [ID:002] GoalPos:581  PresPos:589       [ID:000] GoalPos:710  PresPos:718
+  [ID:001] GoalPos:720  PresPos:715       [ID:002] GoalPos:581  PresPos:589       [ID:000] GoalPos:710  PresPos:716
+  [ID:001] GoalPos:720  PresPos:718       [ID:002] GoalPos:581  PresPos:589       [ID:000] GoalPos:710  PresPos:714
+
+
+  The three angles of the servos            from their horizontal position are [62.703924798733475, 20.755588900871565, 56.50023324246526]
+  from func 725 582 704
+  target2 582
+  [ID:001] GoalPos:725  PresPos:720       [ID:002] GoalPos:582  PresPos:589       [ID:000] GoalPos:704  PresPos:712
+  [ID:001] GoalPos:725  PresPos:721       [ID:002] GoalPos:582  PresPos:589       [ID:000] GoalPos:704  PresPos:710
+  [ID:001] GoalPos:725  PresPos:723       [ID:002] GoalPos:582  PresPos:589       [ID:000] GoalPos:704  PresPos:709
+
+
+  The three angles of the servos            from their horizontal position are [63.937872869986414, 21.341294619424616, 54.654798818741064]
+  from func 729 584 697
+  target2 584
+  [ID:001] GoalPos:729  PresPos:726       [ID:002] GoalPos:584  PresPos:589       [ID:000] GoalPos:697  PresPos:708
+  [ID:001] GoalPos:729  PresPos:727       [ID:002] GoalPos:584  PresPos:589       [ID:000] GoalPos:697  PresPos:704
+
+
+  The three angles of the servos            from their horizontal position are [65.0407787131727, 22.152763040873864, 52.70669495651461]
+  from func 733 587 691
+  target2 587
+  [ID:001] GoalPos:733  PresPos:727       [ID:002] GoalPos:587  PresPos:589       [ID:000] GoalPos:691  PresPos:700
+
+
+  The three angles of the servos            from their horizontal position are [66.0121666930032, 23.181434353328456, 50.66716809428772]
+  from func 736 590 684
+  target2 590
+  [ID:001] GoalPos:736  PresPos:733       [ID:002] GoalPos:590  PresPos:590       [ID:000] GoalPos:684  PresPos:694
+
+
+  The three angles of the servos            from their horizontal position are [66.85213009358499, 24.416273246649194, 48.549784857049296]
+  from func 739 594 677
+  target2 594
+  [ID:001] GoalPos:739  PresPos:735       [ID:002] GoalPos:594  PresPos:593       [ID:000] GoalPos:677  PresPos:689
+
+
+  The three angles of the servos            from their horizontal position are [67.5611335893972, 25.843791953387864, 46.37044527174513]
+  from func 741 599 669
+  target2 599
+  [ID:001] GoalPos:741  PresPos:737       [ID:002] GoalPos:599  PresPos:597       [ID:000] GoalPos:669  PresPos:681
+
+
+  The three angles of the servos            from their horizontal position are [68.13984422744022, 27.448122927790546, 44.14729011608025]
+  from func 743 605 662
+  target2 605
+  [ID:001] GoalPos:743  PresPos:740       [ID:002] GoalPos:605  PresPos:603       [ID:000] GoalPos:662  PresPos:674
+
+
+  The three angles of the servos            from their horizontal position are [68.58899127701797, 29.21115951873448, 41.90049444129601]
+  from func 745 611 654
+  target2 611
+  [ID:001] GoalPos:745  PresPos:741       [ID:002] GoalPos:611  PresPos:608       [ID:000] GoalPos:654  PresPos:666
+  [ID:001] GoalPos:745  PresPos:741       [ID:002] GoalPos:611  PresPos:609       [ID:000] GoalPos:654  PresPos:663
+
+
+  The three angles of the servos            from their horizontal position are [68.90925423648467, 31.11277900156736, 39.65194890442895]
+  from func 746 617 646
+  target2 617
+  [ID:001] GoalPos:746  PresPos:743       [ID:002] GoalPos:617  PresPos:616       [ID:000] GoalPos:646  PresPos:658
+
+
+  The three angles of the servos            from their horizontal position are [69.10117774710422, 33.1311554484484, 37.42484127144458]
+  from func 747 624 639
+  target2 624
+  [ID:001] GoalPos:747  PresPos:744       [ID:002] GoalPos:624  PresPos:620       [ID:000] GoalPos:639  PresPos:652
+  [ID:001] GoalPos:747  PresPos:744       [ID:002] GoalPos:624  PresPos:621       [ID:000] GoalPos:639  PresPos:650
+  [ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:624  PresPos:627       [ID:000] GoalPos:639  PresPos:646
+
+
+  The three angles of the servos            from their horizontal position are [69.16511204232843, 35.24316070059659, 35.24316070059659]
+  from func 747 631 631
+  target2 631
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:631  PresPos:629       [ID:000] GoalPos:631  PresPos:000
+
+
+  The three angles of the servos            from their horizontal position are [69.10117774710422, 37.42484127144458, 33.1311554484484]
+  from func 747 639 624
+  target2 639
+  [ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:639  PresPos:633       [ID:000] GoalPos:624  PresPos:636
+
+
+  The three angles of the servos            from their horizontal position are [68.90925423648467, 39.65194890442895, 31.11277900156736]
+  from func 746 646 617
+  target2 646
+  [ID:001] GoalPos:746  PresPos:745       [ID:002] GoalPos:646  PresPos:642       [ID:000] GoalPos:617  PresPos:636
+
+
+  The three angles of the servos            from their horizontal position are [68.58899127701797, 41.90049444129601, 29.21115951873448]
+  from func 745 654 611
+  target2 654
+  [ID:001] GoalPos:745  PresPos:746       [ID:002] GoalPos:654  PresPos:648       [ID:000] GoalPos:611  PresPos:621
+
+
+  The three angles of the servos            from their horizontal position are [68.13984422744022, 44.14729011608025, 27.448122927790546]
+  from func 743 662 605
+  target2 662
+  [ID:001] GoalPos:743  PresPos:744       [ID:002] GoalPos:662  PresPos:658       [ID:000] GoalPos:605  PresPos:618
+
+
+  The three angles of the servos            from their horizontal position are [67.5611335893972, 46.37044527174511, 25.84379195338786]
+  from func 741 669 599
+  target2 669
+  [ID:001] GoalPos:741  PresPos:742       [ID:002] GoalPos:669  PresPos:666       [ID:000] GoalPos:599  PresPos:611
+
+
+  The three angles of the servos            from their horizontal position are [66.85213009358499, 48.549784857049296, 24.4162732466492]
+  from func 739 677 594
+  target2 677
+  [ID:001] GoalPos:739  PresPos:741       [ID:002] GoalPos:677  PresPos:671       [ID:000] GoalPos:594  PresPos:606
+
+
+  The three angles of the servos            from their horizontal position are [66.01216669300322, 50.6671680942877, 23.181434353328456]
+  from func 736 684 590
+  target2 684
+  [ID:001] GoalPos:736  PresPos:739       [ID:002] GoalPos:684  PresPos:679       [ID:000] GoalPos:590  PresPos:601
+  [ID:001] GoalPos:736  PresPos:739       [ID:002] GoalPos:684  PresPos:679       [ID:000] GoalPos:590  PresPos:599
+  [ID:001] GoalPos:736  PresPos:738       [ID:002] GoalPos:684  PresPos:686       [ID:000] GoalPos:590  PresPos:598
+
+
+  The three angles of the servos            from their horizontal position are [65.0407787131727, 52.70669495651461, 22.152763040873864]
+  from func 733 691 587
+  target2 691
+  [ID:001] GoalPos:733  PresPos:737       [ID:002] GoalPos:691  PresPos:688       [ID:000] GoalPos:587  PresPos:597
+  [ID:001] GoalPos:733  PresPos:737       [ID:002] GoalPos:691  PresPos:688       [ID:000] GoalPos:587  PresPos:597
+  [ID:001] GoalPos:733  PresPos:734       [ID:002] GoalPos:691  PresPos:690       [ID:000] GoalPos:587  PresPos:595
+
+
+  The three angles of the servos            from their horizontal position are [63.937872869986414, 54.654798818741064, 21.341294619424616]
+  from func 729 697 584
+  target2 697
+  [ID:001] GoalPos:729  PresPos:733       [ID:002] GoalPos:697  PresPos:692       [ID:000] GoalPos:584  PresPos:595
+  [ID:001] GoalPos:729  PresPos:733       [ID:002] GoalPos:697  PresPos:694       [ID:000] GoalPos:584  PresPos:594
+  [ID:001] GoalPos:729  PresPos:732       [ID:002] GoalPos:697  PresPos:698       [ID:000] GoalPos:584  PresPos:593
+
+
+  The three angles of the servos            from their horizontal position are [62.70392479873348, 56.50023324246526, 20.75558890087157]
+  from func 725 704 582
+  target2 704
+  [ID:001] GoalPos:725  PresPos:729       [ID:002] GoalPos:704  PresPos:698       [ID:000] GoalPos:582  PresPos:592
+  [ID:001] GoalPos:725  PresPos:729       [ID:002] GoalPos:704  PresPos:699       [ID:000] GoalPos:582  PresPos:592
+  [ID:001] GoalPos:725  PresPos:728       [ID:002] GoalPos:704  PresPos:704       [ID:000] GoalPos:582  PresPos:591
+
+
+  The three angles of the servos            from their horizontal position are [61.34020304755483, 58.233968154057614, 20.40173739470915]
+  from func 720 710 581
+  target2 710
+  [ID:001] GoalPos:720  PresPos:727       [ID:002] GoalPos:710  PresPos:707       [ID:000] GoalPos:581  PresPos:590
+  Traceback (most recent call last):
+    File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 394, in <module>
+      dxl3_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL3_ID, ADDR_AX_PRESENT_POSITION)
+    File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 376, in read2ByteTxRx
+  IndexError: list index out of range
+  ~ via  v10.19.0 via 🐍 v3.8.10 took 12s
+    ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+  Succeeded to open the port
+  Succeeded to change the baudrate
+  Dynamixel#1 has been successfully connected
+  Dynamixel#2 has been successfully connected
+  Dynamixel#0 has been successfully connected
+
+
+  The three angles of the servos            from their horizontal position are [48.549784857049296, 24.416273246649194, 66.85213009358499]
+  from func 677 594 739
+  target2 594
+  [ID:001] GoalPos:677  PresPos:738       [ID:002] GoalPos:594  PresPos:776       [ID:000] GoalPos:739  PresPos:803
+  [ID:001] GoalPos:677  PresPos:738       [ID:002] GoalPos:594  PresPos:777       [ID:000] GoalPos:739  PresPos:799
+  [ID:001] GoalPos:677  PresPos:730       [ID:002] GoalPos:594  PresPos:763       [ID:000] GoalPos:739  PresPos:783
+  [ID:001] GoalPos:677  PresPos:718       [ID:002] GoalPos:594  PresPos:749       [ID:000] GoalPos:739  PresPos:770
+  [ID:001] GoalPos:677  PresPos:708       [ID:002] GoalPos:594  PresPos:740       [ID:000] GoalPos:739  PresPos:767
+  [ID:001] GoalPos:677  PresPos:699       [ID:002] GoalPos:594  PresPos:732       [ID:000] GoalPos:739  PresPos:755
+  [ID:001] GoalPos:677  PresPos:688       [ID:002] GoalPos:594  PresPos:723       [ID:000] GoalPos:739  PresPos:743
+  [ID:001] GoalPos:677  PresPos:680       [ID:002] GoalPos:594  PresPos:713       [ID:000] GoalPos:739  PresPos:735
+  [ID:001] GoalPos:677  PresPos:678       [ID:002] GoalPos:594  PresPos:704       [ID:000] GoalPos:739  PresPos:736
+
+
+  The three angles of the servos            from their horizontal position are [52.70669495651461, 22.152763040873864, 65.0407787131727]
+  from func 691 587 733
+  target2 587
+  [ID:001] GoalPos:691  PresPos:680       [ID:002] GoalPos:587  PresPos:656       [ID:000] GoalPos:733  PresPos:739
+  [ID:001] GoalPos:691  PresPos:680       [ID:002] GoalPos:587  PresPos:647       [ID:000] GoalPos:733  PresPos:737
+  [ID:001] GoalPos:691  PresPos:685       [ID:002] GoalPos:587  PresPos:637       [ID:000] GoalPos:733  PresPos:735
+
+
+  The three angles of the servos            from their horizontal position are [56.50023324246526, 20.75558890087157, 62.703924798733475]
+  from func 704 582 725
+  target2 582
+  [ID:001] GoalPos:704  PresPos:694       [ID:002] GoalPos:582  PresPos:594       [ID:000] GoalPos:725  PresPos:736
+  [ID:001] GoalPos:704  PresPos:694       [ID:002] GoalPos:582  PresPos:592       [ID:000] GoalPos:725  PresPos:732
+  [ID:001] GoalPos:704  PresPos:698       [ID:002] GoalPos:582  PresPos:591       [ID:000] GoalPos:725  PresPos:727
+
+
+  The three angles of the servos            from their horizontal position are [59.84901512232398, 20.28338291175417, 59.84901512232398]
+  from func 715 580 715
+  target2 580
+  [ID:001] GoalPos:715  PresPos:704       [ID:002] GoalPos:580  PresPos:590       [ID:000] GoalPos:715  PresPos:727
+  [ID:001] GoalPos:715  PresPos:706       [ID:002] GoalPos:580  PresPos:589       [ID:000] GoalPos:715  PresPos:722
+  [ID:001] GoalPos:715  PresPos:710       [ID:002] GoalPos:580  PresPos:589       [ID:000] GoalPos:715  PresPos:718
+  [ID:001] GoalPos:715  PresPos:716       [ID:002] GoalPos:580  PresPos:589       [ID:000] GoalPos:715  PresPos:717
+
+
+  The three angles of the servos            from their horizontal position are [62.703924798733475, 20.755588900871565, 56.50023324246526]
+  from func 725 582 704
+  target2 582
+  [ID:001] GoalPos:725  PresPos:716       [ID:002] GoalPos:582  PresPos:589       [ID:000] GoalPos:704  PresPos:717
+  [ID:001] GoalPos:725  PresPos:717       [ID:002] GoalPos:582  PresPos:589       [ID:000] GoalPos:704  PresPos:714
+  [ID:001] GoalPos:725  PresPos:720       [ID:002] GoalPos:582  PresPos:589       [ID:000] GoalPos:704  PresPos:710
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:725  PresPos:726       [ID:002] GoalPos:582  PresPos:000       [ID:000] GoalPos:704  PresPos:708
+
+
+  The three angles of the servos            from their horizontal position are [65.0407787131727, 22.152763040873864, 52.70669495651461]
+  from func 733 587 691
+  target2 587
+  [ID:001] GoalPos:733  PresPos:726       [ID:002] GoalPos:587  PresPos:589       [ID:000] GoalPos:691  PresPos:707
+
+
+  The three angles of the servos            from their horizontal position are [66.85213009358499, 24.416273246649194, 48.549784857049296]
+  from func 739 594 677
+  target2 594
+  [ID:001] GoalPos:739  PresPos:734       [ID:002] GoalPos:594  PresPos:590       [ID:000] GoalPos:677  PresPos:693
+  [ID:001] GoalPos:739  PresPos:733       [ID:002] GoalPos:594  PresPos:592       [ID:000] GoalPos:677  PresPos:692
+
+
+  The three angles of the servos            from their horizontal position are [68.13984422744022, 27.448122927790546, 44.14729011608025]
+  from func 743 605 662
+  target2 605
+  [ID:001] GoalPos:743  PresPos:739       [ID:002] GoalPos:605  PresPos:597       [ID:000] GoalPos:662  PresPos:680
+  [ID:001] GoalPos:743  PresPos:739       [ID:002] GoalPos:605  PresPos:600       [ID:000] GoalPos:662  PresPos:675
+  [ID:001] GoalPos:743  PresPos:741       [ID:002] GoalPos:605  PresPos:608       [ID:000] GoalPos:662  PresPos:670
+
+
+  The three angles of the servos            from their horizontal position are [68.90925423648467, 31.11277900156736, 39.65194890442895]
+  from func 746 617 646
+  target2 617
+  [ID:001] GoalPos:746  PresPos:741       [ID:002] GoalPos:617  PresPos:609       [ID:000] GoalPos:646  PresPos:665
+  Traceback (most recent call last):
+    File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 387, in <module>
+      dxl2_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL2_ID, ADDR_AX_PRESENT_POSITION)
+    File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 376, in read2ByteTxRx
+  IndexError: list index out of range
+  ~ via  v10.19.0 via 🐍 v3.8.10 took 6s
+    ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+  Succeeded to open the port
+  Succeeded to change the baudrate
+  Dynamixel#1 has been successfully connected
+  Dynamixel#2 has been successfully connected
+  Dynamixel#0 has been successfully connected
+
+
+  The three angles of the servos            from their horizontal position are [48.549784857049296, 24.416273246649194, 66.85213009358499]
+  from func 677 594 739
+  target2 594
+  [ID:001] GoalPos:677  PresPos:749       [ID:002] GoalPos:594  PresPos:816       [ID:000] GoalPos:739  PresPos:780
+  [ID:001] GoalPos:677  PresPos:749       [ID:002] GoalPos:594  PresPos:811       [ID:000] GoalPos:739  PresPos:778
+  [ID:001] GoalPos:677  PresPos:741       [ID:002] GoalPos:594  PresPos:799       [ID:000] GoalPos:739  PresPos:762
+  [ID:001] GoalPos:677  PresPos:728       [ID:002] GoalPos:594  PresPos:789       [ID:000] GoalPos:739  PresPos:747
+  [ID:001] GoalPos:677  PresPos:717       [ID:002] GoalPos:594  PresPos:786       [ID:000] GoalPos:739  PresPos:739
+
+
+  The three angles of the servos            from their horizontal position are [52.70669495651461, 22.152763040873864, 65.0407787131727]
+  from func 691 587 733
+  target2 587
+  [ID:001] GoalPos:691  PresPos:676       [ID:002] GoalPos:587  PresPos:732       [ID:000] GoalPos:733  PresPos:743
+  [ID:001] GoalPos:691  PresPos:679       [ID:002] GoalPos:587  PresPos:723       [ID:000] GoalPos:733  PresPos:738
+  [ID:001] GoalPos:691  PresPos:686       [ID:002] GoalPos:587  PresPos:713       [ID:000] GoalPos:733  PresPos:733
+
+
+  The three angles of the servos            from their horizontal position are [56.50023324246526, 20.75558890087157, 62.703924798733475]
+  from func 704 582 725
+  target2 582
+  [ID:001] GoalPos:704  PresPos:693       [ID:002] GoalPos:582  PresPos:664       [ID:000] GoalPos:725  PresPos:735
+  [ID:001] GoalPos:704  PresPos:694       [ID:002] GoalPos:582  PresPos:654       [ID:000] GoalPos:725  PresPos:730
+  [ID:001] GoalPos:704  PresPos:698       [ID:002] GoalPos:582  PresPos:644       [ID:000] GoalPos:725  PresPos:727
+
+
+  The three angles of the servos            from their horizontal position are [59.84901512232398, 20.28338291175417, 59.84901512232398]
+  from func 715 580 715
+  target2 580
+  [ID:001] GoalPos:715  PresPos:706       [ID:002] GoalPos:580  PresPos:597       [ID:000] GoalPos:715  PresPos:727
+  [ID:001] GoalPos:715  PresPos:706       [ID:002] GoalPos:580  PresPos:589       [ID:000] GoalPos:715  PresPos:724
+  [ID:001] GoalPos:715  PresPos:710       [ID:002] GoalPos:580  PresPos:584       [ID:000] GoalPos:715  PresPos:719
+  [ID:001] GoalPos:715  PresPos:716       [ID:002] GoalPos:580  PresPos:584       [ID:000] GoalPos:715  PresPos:717
+
+
+  The three angles of the servos            from their horizontal position are [62.703924798733475, 20.755588900871565, 56.50023324246526]
+  from func 725 582 704
+  target2 582
+  [ID:001] GoalPos:725  PresPos:716       [ID:002] GoalPos:582  PresPos:585       [ID:000] GoalPos:704  PresPos:717
+  [ID:001] GoalPos:725  PresPos:717       [ID:002] GoalPos:582  PresPos:585       [ID:000] GoalPos:704  PresPos:714
+  [ID:001] GoalPos:725  PresPos:721       [ID:002] GoalPos:582  PresPos:585       [ID:000] GoalPos:704  PresPos:710
+  [ID:001] GoalPos:725  PresPos:726       [ID:002] GoalPos:582  PresPos:585       [ID:000] GoalPos:704  PresPos:708
+
+
+  The three angles of the servos            from their horizontal position are [65.0407787131727, 22.152763040873864, 52.70669495651461]
+  from func 733 587 691
+  target2 587
+  [ID:001] GoalPos:733  PresPos:726       [ID:002] GoalPos:587  PresPos:585       [ID:000] GoalPos:691  PresPos:707
+
+
+  The three angles of the servos            from their horizontal position are [66.85213009358499, 24.416273246649194, 48.549784857049296]
+  from func 739 594 677
+  target2 594
+  [ID:001] GoalPos:739  PresPos:734       [ID:002] GoalPos:594  PresPos:591       [ID:000] GoalPos:677  PresPos:693
+  [ID:001] GoalPos:739  PresPos:733       [ID:002] GoalPos:594  PresPos:592       [ID:000] GoalPos:677  PresPos:692
+
+
+  The three angles of the servos            from their horizontal position are [68.13984422744022, 27.448122927790546, 44.14729011608025]
+  from func 743 605 662
+  target2 605
+  [ID:001] GoalPos:743  PresPos:739       [ID:002] GoalPos:605  PresPos:597       [ID:000] GoalPos:662  PresPos:680
+  [ID:001] GoalPos:743  PresPos:738       [ID:002] GoalPos:605  PresPos:599       [ID:000] GoalPos:662  PresPos:677
+  [ID:001] GoalPos:743  PresPos:741       [ID:002] GoalPos:605  PresPos:605       [ID:000] GoalPos:662  PresPos:672
+
+
+  The three angles of the servos            from their horizontal position are [68.90925423648467, 31.11277900156736, 39.65194890442895]
+  from func 746 617 646
+  target2 617
+  [ID:001] GoalPos:746  PresPos:741       [ID:002] GoalPos:617  PresPos:609       [ID:000] GoalPos:646  PresPos:665
+  [ID:001] GoalPos:746  PresPos:741       [ID:002] GoalPos:617  PresPos:611       [ID:000] GoalPos:646  PresPos:663
+  [ID:001] GoalPos:746  PresPos:744       [ID:002] GoalPos:617  PresPos:616       [ID:000] GoalPos:646  PresPos:656
+
+
+  The three angles of the servos            from their horizontal position are [69.16511204232843, 35.24316070059659, 35.24316070059659]
+  from func 747 631 631
+  target2 631
+  [ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:631  PresPos:621       [ID:000] GoalPos:631  PresPos:649
+
+
+  The three angles of the servos            from their horizontal position are [68.90925423648467, 39.65194890442895, 31.11277900156736]
+  from func 746 646 617
+  target2 646
+  [ID:001] GoalPos:746  PresPos:746       [ID:002] GoalPos:646  PresPos:636       [ID:000] GoalPos:617  PresPos:636
+
+
+  The three angles of the servos            from their horizontal position are [68.13984422744022, 44.14729011608025, 27.448122927790546]
+  from func 743 662 605
+  target2 662
+  [ID:001] GoalPos:743  PresPos:745       [ID:002] GoalPos:662  PresPos:649       [ID:000] GoalPos:605  PresPos:621
+
+
+  The three angles of the servos            from their horizontal position are [66.85213009358499, 48.549784857049296, 24.4162732466492]
+  from func 739 677 594
+  target2 677
+  [ID:001] GoalPos:739  PresPos:741       [ID:002] GoalPos:677  PresPos:667       [ID:000] GoalPos:594  PresPos:610
+
+
+  The three angles of the servos            from their horizontal position are [65.0407787131727, 52.70669495651461, 22.152763040873864]
+  from func 733 691 587
+  target2 691
+  [ID:001] GoalPos:733  PresPos:737       [ID:002] GoalPos:691  PresPos:680       [ID:000] GoalPos:587  PresPos:599
+  [ID:001] GoalPos:733  PresPos:738       [ID:002] GoalPos:691  PresPos:680       [ID:000] GoalPos:587  PresPos:599
+  [ID:001] GoalPos:733  PresPos:738       [ID:002] GoalPos:691  PresPos:688       [ID:000] GoalPos:587  PresPos:598
+  [ID:001] GoalPos:733  PresPos:737       [ID:002] GoalPos:691  PresPos:696       [ID:000] GoalPos:587  PresPos:595
+  [ID:001] GoalPos:733  PresPos:732       [ID:002] GoalPos:691  PresPos:698       [ID:000] GoalPos:587  PresPos:594
+
+
+  The three angles of the servos            from their horizontal position are [62.70392479873348, 56.50023324246526, 20.75558890087157]
+  from func 725 704 582
+  target2 704
+  [ID:001] GoalPos:725  PresPos:733       [ID:002] GoalPos:704  PresPos:694       [ID:000] GoalPos:582  PresPos:594
+  [ID:001] GoalPos:725  PresPos:732       [ID:002] GoalPos:704  PresPos:696       [ID:000] GoalPos:582  PresPos:593
+  [ID:001] GoalPos:725  PresPos:729       [ID:002] GoalPos:704  PresPos:700       [ID:000] GoalPos:582  PresPos:591
+  [ID:001] GoalPos:725  PresPos:727       [ID:002] GoalPos:704  PresPos:708       [ID:000] GoalPos:582  PresPos:590
+
+
+  The three angles of the servos            from their horizontal position are [59.84901512232398, 59.84901512232398, 20.28338291175417]
+  from func 715 715 580
+  target2 715
+  [ID:001] GoalPos:715  PresPos:726       [ID:002] GoalPos:715  PresPos:708       [ID:000] GoalPos:580  PresPos:590
+  [ID:001] GoalPos:715  PresPos:724       [ID:002] GoalPos:715  PresPos:708       [ID:000] GoalPos:580  PresPos:589
+  [ID:001] GoalPos:715  PresPos:721       [ID:002] GoalPos:715  PresPos:712       [ID:000] GoalPos:580  PresPos:590
+  [ID:001] GoalPos:715  PresPos:717       [ID:002] GoalPos:715  PresPos:719       [ID:000] GoalPos:580  PresPos:589
+
+
+  The three angles of the servos            from their horizontal position are [56.50023324246526, 62.703924798733475, 20.755588900871558]
+  from func 704 725 582
+  target2 725
+  [ID:001] GoalPos:704  PresPos:716       [ID:002] GoalPos:725  PresPos:718       [ID:000] GoalPos:582  PresPos:589
+  [ID:001] GoalPos:704  PresPos:715       [ID:002] GoalPos:725  PresPos:719       [ID:000] GoalPos:582  PresPos:589
+  [ID:001] GoalPos:704  PresPos:711       [ID:002] GoalPos:725  PresPos:721       [ID:000] GoalPos:582  PresPos:589
+  [ID:001] GoalPos:704  PresPos:706       [ID:002] GoalPos:725  PresPos:727       [ID:000] GoalPos:582  PresPos:589
+
+
+  The three angles of the servos            from their horizontal position are [52.70669495651461, 65.0407787131727, 22.152763040873864]
+  from func 691 733 587
+  target2 733
+  [ID:001] GoalPos:691  PresPos:706       [ID:002] GoalPos:733  PresPos:728       [ID:000] GoalPos:587  PresPos:589
+
+
+  The three angles of the servos            from their horizontal position are [48.5497848570493, 66.85213009358499, 24.416273246649194]
+  from func 677 739 594
+  target2 739
+  [ID:001] GoalPos:677  PresPos:692       [ID:002] GoalPos:739  PresPos:736       [ID:000] GoalPos:594  PresPos:590
+  [ID:001] GoalPos:677  PresPos:692       [ID:002] GoalPos:739  PresPos:733       [ID:000] GoalPos:594  PresPos:593
+
+
+  The three angles of the servos            from their horizontal position are [44.14729011608025, 68.13984422744025, 27.44812292779055]
+  from func 662 743 605
+  target2 743
+  [ID:001] GoalPos:662  PresPos:680       [ID:002] GoalPos:743  PresPos:738       [ID:000] GoalPos:605  PresPos:598
+  [ID:001] GoalPos:662  PresPos:680       [ID:002] GoalPos:743  PresPos:736       [ID:000] GoalPos:605  PresPos:601
+  [ID:001] GoalPos:662  PresPos:676       [ID:002] GoalPos:743  PresPos:741       [ID:000] GoalPos:605  PresPos:608
+
+
+  The three angles of the servos            from their horizontal position are [39.65194890442896, 68.9092542364847, 31.11277900156735]
+  from func 646 746 617
+  target2 746
+  [ID:001] GoalPos:646  PresPos:667       [ID:002] GoalPos:746  PresPos:739       [ID:000] GoalPos:617  PresPos:610
+  [ID:001] GoalPos:646  PresPos:664       [ID:002] GoalPos:746  PresPos:743       [ID:000] GoalPos:617  PresPos:612
+  [ID:001] GoalPos:646  PresPos:660       [ID:002] GoalPos:746  PresPos:752       [ID:000] GoalPos:617  PresPos:618
+
+
+  The three angles of the servos            from their horizontal position are [35.24316070059658, 69.16511204232843, 35.2431607005966]
+  from func 631 747 631
+  target2 747
+  [ID:001] GoalPos:631  PresPos:650       [ID:002] GoalPos:747  PresPos:748       [ID:000] GoalPos:631  PresPos:621
+
+
+  The three angles of the servos            from their horizontal position are [31.112779001567365, 68.9092542364847, 39.65194890442895]
+  from func 617 746 646
+  target2 746
+  [ID:001] GoalPos:617  PresPos:635       [ID:002] GoalPos:746  PresPos:747       [ID:000] GoalPos:646  PresPos:636
+
+
+  The three angles of the servos            from their horizontal position are [27.44812292779055, 68.13984422744025, 44.14729011608025]
+  from func 605 743 662
+  target2 743
+  [ID:001] GoalPos:605  PresPos:620       [ID:002] GoalPos:743  PresPos:742       [ID:000] GoalPos:662  PresPos:653
+
+
+  The three angles of the servos            from their horizontal position are [24.4162732466492, 66.85213009358499, 48.54978485704929]
+  from func 594 739 677
+  target2 739
+  [ID:001] GoalPos:594  PresPos:609       [ID:002] GoalPos:739  PresPos:738       [ID:000] GoalPos:677  PresPos:668
+
+
+  The three angles of the servos            from their horizontal position are [22.152763040873864, 65.04077871317273, 52.706694956514596]
+  from func 587 733 691
+  target2 733
+  [ID:001] GoalPos:587  PresPos:600       [ID:002] GoalPos:733  PresPos:733       [ID:000] GoalPos:691  PresPos:684
+
+
+  The three angles of the servos            from their horizontal position are [20.755588900871558, 62.70392479873348, 56.50023324246526]
+  from func 582 725 704
+  target2 725
+  [ID:001] GoalPos:582  PresPos:594       [ID:002] GoalPos:725  PresPos:727       [ID:000] GoalPos:704  PresPos:699
+
+
+  The three angles of the servos            from their horizontal position are [20.28338291175417, 59.849015122324, 59.849015122324]
+  from func 580 715 715
+  target2 715
+  [ID:001] GoalPos:580  PresPos:589       [ID:002] GoalPos:715  PresPos:723       [ID:000] GoalPos:715  PresPos:710
+  [ID:001] GoalPos:580  PresPos:589       [ID:002] GoalPos:715  PresPos:720       [ID:000] GoalPos:715  PresPos:710
+  [ID:001] GoalPos:580  PresPos:589       [ID:002] GoalPos:715  PresPos:722       [ID:000] GoalPos:715  PresPos:712
+  [ID:001] GoalPos:580  PresPos:589       [ID:002] GoalPos:715  PresPos:720       [ID:000] GoalPos:715  PresPos:714
+
+
+  The three angles of the servos            from their horizontal position are [20.755588900871558, 56.50023324246526, 62.703924798733475]
+  from func 582 704 725
+  target2 704
+  [ID:001] GoalPos:582  PresPos:589       [ID:002] GoalPos:704  PresPos:719       [ID:000] GoalPos:725  PresPos:713
+  [ID:001] GoalPos:582  PresPos:589       [ID:002] GoalPos:704  PresPos:717       [ID:000] GoalPos:725  PresPos:718
+  [ID:001] GoalPos:582  PresPos:589       [ID:002] GoalPos:704  PresPos:710       [ID:000] GoalPos:725  PresPos:727
+
+
+  The three angles of the servos            from their horizontal position are [22.152763040873857, 52.70669495651461, 65.0407787131727]
+  from func 587 691 733
+  target2 691
+  [ID:001] GoalPos:587  PresPos:589       [ID:002] GoalPos:691  PresPos:707       [ID:000] GoalPos:733  PresPos:724
+
+
+  The three angles of the servos            from their horizontal position are [24.416273246649194, 48.549784857049296, 66.85213009358499]
+  from func 594 677 739
+  target2 677
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:594  PresPos:590       [ID:002] GoalPos:677  PresPos:693       [ID:000] GoalPos:739  PresPos:000
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:594  PresPos:591       [ID:002] GoalPos:677  PresPos:693       [ID:000] GoalPos:739  PresPos:000
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:594  PresPos:597       [ID:002] GoalPos:677  PresPos:683       [ID:000] GoalPos:739  PresPos:000
+  [ID:001] GoalPos:594  PresPos:599       [ID:002] GoalPos:677  PresPos:678       [ID:000] GoalPos:739  PresPos:736
+
+
+  The three angles of the servos            from their horizontal position are [27.448122927790546, 44.147290116080256, 68.13984422744022]
+  from func 605 662 743
+  target2 662
+  [TxRxResult] There is no status packet!
+  [ID:001] GoalPos:605  PresPos:597       [ID:002] GoalPos:662  PresPos:000       [ID:000] GoalPos:743  PresPos:737
+  [ID:001] GoalPos:605  PresPos:599       [ID:002] GoalPos:662  PresPos:677       [ID:000] GoalPos:743  PresPos:733
+  [ID:001] GoalPos:605  PresPos:605       [ID:002] GoalPos:662  PresPos:670       [ID:000] GoalPos:743  PresPos:741
+
+
+  The three angles of the servos            from their horizontal position are [31.112779001567347, 39.65194890442896, 68.9092542364847]
+  from func 617 646 746
+  target2 646
+  [ID:001] GoalPos:617  PresPos:609       [ID:002] GoalPos:646  PresPos:667       [ID:000] GoalPos:746  PresPos:738
+  [ID:001] GoalPos:617  PresPos:609       [ID:002] GoalPos:646  PresPos:667       [ID:000] GoalPos:746  PresPos:744
+
+
+  The three angles of the servos            from their horizontal position are [35.24316070059658, 35.24316070059662, 69.16511204232843]
+  from func 631 631 747
+  target2 631
+  [ID:001] GoalPos:631  PresPos:620       [ID:002] GoalPos:631  PresPos:650       [ID:000] GoalPos:747  PresPos:743
+  [ID:001] GoalPos:631  PresPos:621       [ID:002] GoalPos:631  PresPos:650       [ID:000] GoalPos:747  PresPos:744
+  [ID:001] GoalPos:631  PresPos:626       [ID:002] GoalPos:631  PresPos:642       [ID:000] GoalPos:747  PresPos:746
+
+
+  The three angles of the servos            from their horizontal position are [39.65194890442896, 31.11277900156735, 68.9092542364847]
+  from func 646 617 746
+  target2 617
+  [ID:001] GoalPos:646  PresPos:634       [ID:002] GoalPos:617  PresPos:636       [ID:000] GoalPos:746  PresPos:745
+
+
+  The three angles of the servos            from their horizontal position are [44.14729011608023, 27.448122927790557, 68.13984422744025]
+  from func 662 605 743
+  target2 605
+  [ID:001] GoalPos:662  PresPos:651       [ID:002] GoalPos:605  PresPos:622       [ID:000] GoalPos:743  PresPos:742
+  ~ via  v10.19.0 via 🐍 v3.8.10 took 14s
+  Korag-> 
