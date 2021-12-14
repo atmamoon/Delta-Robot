@@ -56,6 +56,15 @@ ADDR_AX_GOAL_POSITION      = 30
 ADDR_AX_PRESENT_POSITION   = 36
 
 ADDR_Moving_speed = 32
+
+ADDR_Compliance_slope_CW=28
+ADDR_Compliance_slope_CCW=29
+
+ADDR_Compliance_margin_CW=26
+ADDR_Compliance_margin_CCW=27
+
+ADDR_Torque_LImit=34
+
 # Data Byte Length
 LEN_AX_GOAL_POSITION       = 2
 LEN_AX_PRESENT_POSITION    = 2
@@ -66,7 +75,7 @@ PROTOCOL_VERSION            = 1.0               # See which protocol version is 
 # Default setting
 DXL1_ID                     = 1                 # Dynamixel#1 ID : 1
 DXL2_ID                     = 2                 # Dynamixel#1 ID : 2
-DXL3_ID  =0
+DXL3_ID                     = 0                  # Dynamixel#1 ID : 3
 
 
 BAUDRATE                    = 2000000             # Dynamixel default baudrate : 57600
@@ -93,7 +102,9 @@ DXL_MOVING_STATUS_THRESHOLD = 2                # Dynamixel moving status thresho
 
 speed=100
 
-
+compliance_slope= 8                #7 values (2,4,8,16,32,64,128)
+compliance_margin= 1                # 0-255
+torque_limit=512                       #0-1023
 
 # Initialize PortHandler instance
 # Set the port path
@@ -165,12 +176,17 @@ def InvKin(coordinates=[0,0,0.2]):
     else:
         #rospy.loginfo(f"\n\nThe three angles of the servos\
         #from their horizontal position are {theta}")
+        
         if __name__=="__main__":
+            '''
             print(f"\n\nThe three angles of the servos\
             from their horizontal position are {theta}")
             global DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3
             DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3 = list(np.array((150+np.array(theta))*1023/300).astype(int))
             print("from func",DXL_MAXIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_3)
+            '''
+            return list(np.array((150+np.array(theta))*1023/300).astype(int))
+
 
 # Open port
 if portHandler.openPort():
@@ -220,6 +236,27 @@ elif dxl_error != 0:
 else:
     print("Dynamixel#%d has been successfully connected" % DXL3_ID)
 
+
+
+
+#set torque limit
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL1_ID, ADDR_Torque_LImit, torque_limit)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL2_ID, ADDR_Torque_LImit, torque_limit)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL3_ID, ADDR_Torque_LImit, torque_limit)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
 
 #set speed
 dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL1_ID, ADDR_Moving_speed, speed)
@@ -327,18 +364,138 @@ while 1:
     else:
         index = 0
         '''
+
+
+
+
+
+
+
+
+#set compliance margin CW for DXL1_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL1_ID, ADDR_Compliance_margin_CW, compliance_margin)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+#set compliance margin CCW for DXL1_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL1_ID, ADDR_Compliance_margin_CCW, compliance_margin)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+
+#set compliance margin CW for DXL2_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL2_ID, ADDR_Compliance_margin_CW, compliance_margin)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+#set compliance margin CCW for DXL2_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL2_ID, ADDR_Compliance_margin_CCW, compliance_margin)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+
+#set compliance margin CW for DXL3_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL3_ID, ADDR_Compliance_margin_CW, compliance_margin)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+#set compliance margin CCW for DXL3_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL3_ID, ADDR_Compliance_margin_CCW, compliance_margin)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+
+
+
+#set compliance slope CW for DXL1_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL1_ID, ADDR_Compliance_slope_CW, compliance_slope)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+#set compliance slope CCW for DXL1_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL1_ID, ADDR_Compliance_slope_CCW, compliance_slope)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+
+#set compliance slope CW for DXL2_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL2_ID, ADDR_Compliance_slope_CW, compliance_slope)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+#set compliance slope CCW for DXL2_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL2_ID, ADDR_Compliance_slope_CCW, compliance_slope)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+
+#set compliance slope CW for DXL3_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL3_ID, ADDR_Compliance_slope_CW, compliance_slope)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+#set compliance slope CCW for DXL3_ID
+dxl_com_result, dxl__error = packetHandler.write2ByteTxRx(portHandler, DXL3_ID, ADDR_Compliance_slope_CCW, compliance_slope)
+if dxl_com_result != COMM_SUCCESS:
+    print("%s" % packetHandler.getTxRxResult(dxl_com_result))
+elif dxl__error != 0:
+    print("%s" % packetHandler.getRxPacketError(dxl__error))
+
+
+
+
+
+
+
+
+
 r=0.07
 #points=[[0,0,0.15],[0.020,0,0.15],[0.0,0.03,0.15],[0.04,-0.03,0.15]]
-points=[[r*np.cos(theta*np.pi/180),r*np.sin(theta*np.pi/180),0.2] for theta in range(0,360,10)]
-sleep(3)
-for coordi in points:
+points=[[r*np.cos(theta*np.pi/180),r*np.sin(theta*np.pi/180),0.2] for theta in range(0,360,5)]
+coordinates=[]
+for i in points:
+    ikin_result=InvKin(i)
+    coordinates.append(ikin_result)
+
+sleep(1)
+
+for coordi in coordinates:
     
     #coordinates=list(np.array(list(map(float,input("enter coordinates in mm: ").split())))/1000)
-    InvKin(coordi)
+    #InvKin(coordi)
     index = 1
+    '''
     dxl_goal_position_1 = [DXL_MINIMUM_POSITION_VALUE_1, DXL_MAXIMUM_POSITION_VALUE_1]         # Goal position_1
     dxl_goal_position_2 = [DXL_MINIMUM_POSITION_VALUE_2, DXL_MAXIMUM_POSITION_VALUE_2]         # Goal position_2
     dxl_goal_position_3 = [DXL_MINIMUM_POSITION_VALUE_3, DXL_MAXIMUM_POSITION_VALUE_3]         # Goal position_3
+    '''
+
+    dxl_goal_position_1 = [DXL_MINIMUM_POSITION_VALUE_1, coordi[0]]         # Goal position_1
+    dxl_goal_position_2 = [DXL_MINIMUM_POSITION_VALUE_2, coordi[1]]         # Goal position_2
+    dxl_goal_position_3 = [DXL_MINIMUM_POSITION_VALUE_3, coordi[2]]         # Goal position_3
+    
 
     print("target2", DXL_MAXIMUM_POSITION_VALUE_2)
     # Allocate goal position value into byte array
@@ -401,7 +558,7 @@ for coordi in points:
 
         if not ((abs(dxl_goal_position_1[index] - dxl1_present_position) > DXL_MOVING_STATUS_THRESHOLD) and (abs(dxl_goal_position_2[index] - dxl2_present_position) > DXL_MOVING_STATUS_THRESHOLD)and (abs(dxl_goal_position_3[index] - dxl3_present_position) > DXL_MOVING_STATUS_THRESHOLD)):
             break
-    sleep(0.2)
+    #sleep(0.01)
 
 # Disable Dynamixel#1 Torque
 dxl_comm_result, dxl_error = packetHandler.write1ByteTxRx(portHandler, DXL1_ID, ADDR_AX_TORQUE_ENABLE, TORQUE_DISABLE)
