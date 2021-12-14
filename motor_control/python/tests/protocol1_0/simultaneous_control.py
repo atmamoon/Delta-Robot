@@ -97,13 +97,13 @@ DXL_MINIMUM_POSITION_VALUE_3  = 600
 DXL_MAXIMUM_POSITION_VALUE_3  = 700
 
 DXL_MINIMUM_SPEED_VALUE  = 50           # Dynamixel will rotate between this value
-DXL_MAXIMUM_SPEED_VALUE  = 100            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
-DXL_MOVING_STATUS_THRESHOLD = 2                # Dynamixel moving status threshold
+#DXL_MAXIMUM_SPEED_VALUE  = 100            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
+DXL_MOVING_STATUS_THRESHOLD = 100                # Dynamixel moving status threshold
 
-speed=100
+speed=600
 
-compliance_slope= 8                #7 values (2,4,8,16,32,64,128)
-compliance_margin= 1                # 0-255
+compliance_slope= 4                #7 values (2,4,8,16,32,64,128)
+compliance_margin=100                # 0-255
 torque_limit=512                       #0-1023
 
 # Initialize PortHandler instance
@@ -473,7 +473,7 @@ elif dxl__error != 0:
 
 r=0.07
 #points=[[0,0,0.15],[0.020,0,0.15],[0.0,0.03,0.15],[0.04,-0.03,0.15]]
-points=[[r*np.cos(theta*np.pi/180),r*np.sin(theta*np.pi/180),0.2] for theta in range(0,360,5)]
+points=[[r*np.cos(theta*np.pi/180),r*np.sin(theta*np.pi/180),0.2] for theta in range(0,360,1)]
 coordinates=[]
 for i in points:
     ikin_result=InvKin(i)
@@ -531,7 +531,7 @@ for coordi in coordinates:
 
     # Clear syncwrite parameter storage
     groupSyncWrite.clearParam()
-
+    
     while 1:
         # Read Dynamixel#1 present position
         dxl1_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL1_ID, ADDR_AX_PRESENT_POSITION)
@@ -558,7 +558,7 @@ for coordi in coordinates:
 
         if not ((abs(dxl_goal_position_1[index] - dxl1_present_position) > DXL_MOVING_STATUS_THRESHOLD) and (abs(dxl_goal_position_2[index] - dxl2_present_position) > DXL_MOVING_STATUS_THRESHOLD)and (abs(dxl_goal_position_3[index] - dxl3_present_position) > DXL_MOVING_STATUS_THRESHOLD)):
             break
-    #sleep(0.01)
+    #sleep(0.01)'''
 
 # Disable Dynamixel#1 Torque
 dxl_comm_result, dxl_error = packetHandler.write1ByteTxRx(portHandler, DXL1_ID, ADDR_AX_TORQUE_ENABLE, TORQUE_DISABLE)

@@ -3085,4 +3085,1059 @@ KeyboardInterrupt
   target2 605
   [ID:001] GoalPos:662  PresPos:651       [ID:002] GoalPos:605  PresPos:622       [ID:000] GoalPos:743  PresPos:742
   ~ via  v10.19.0 via 🐍 v3.8.10 took 14s
-  Korag-> 
+  Korag->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14/12/2021
+
+
+
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[TxRxResult] Incorrect status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:000       [ID:000] GoalPos:739  PresPos:000
+^CTraceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 537, in <module>
+    dxl1_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL1_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 375, in read2ByteTxRx
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 345, in readTxRx
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 231, in txRxPacket
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 139, in rxPacket
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/port_handler.py", line 78, in readPort
+  File "/usr/local/lib/python3.8/dist-packages/pyserial-3.5-py3.8.egg/serial/serialposix.py", line 565, in read
+    ready, _, _ = select.select([self.fd, self.pipe_abort_read_r], [], [], timeout.time_left())
+  File "/usr/local/lib/python3.8/dist-packages/pyserial-3.5-py3.8.egg/serial/serialutil.py", line 141, in time_left
+    def time_left(self):
+KeyboardInterrupt
+
+~ via  v10.19.0 via 🐍 v3.8.10 took 4s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:677  PresPos:000       [ID:002] GoalPos:594  PresPos:819       [ID:000] GoalPos:739  PresPos:753
+[ID:001] GoalPos:677  PresPos:751       [ID:002] GoalPos:594  PresPos:812       [ID:000] GoalPos:739  PresPos:746
+[ID:001] GoalPos:677  PresPos:751       [ID:002] GoalPos:594  PresPos:798       [ID:000] GoalPos:739  PresPos:736
+[ID:001] GoalPos:677  PresPos:751       [ID:002] GoalPos:594  PresPos:789       [ID:000] GoalPos:739  PresPos:733
+[ID:001] GoalPos:677  PresPos:754       [ID:002] GoalPos:594  PresPos:783       [ID:000] GoalPos:739  PresPos:737
+target2 700
+[ID:001] GoalPos:684  PresPos:751       [ID:002] GoalPos:590  PresPos:770       [ID:000] GoalPos:736  PresPos:744
+[ID:001] GoalPos:684  PresPos:749       [ID:002] GoalPos:590  PresPos:758       [ID:000] GoalPos:736  PresPos:741
+[ID:001] GoalPos:684  PresPos:742       [ID:002] GoalPos:590  PresPos:745       [ID:000] GoalPos:736  PresPos:735
+target2 700
+[ID:001] GoalPos:691  PresPos:729       [ID:002] GoalPos:587  PresPos:741       [ID:000] GoalPos:733  PresPos:729
+[ID:001] GoalPos:691  PresPos:720       [ID:002] GoalPos:587  PresPos:737       [ID:000] GoalPos:733  PresPos:733
+target2 700
+[ID:001] GoalPos:697  PresPos:704       [ID:002] GoalPos:584  PresPos:724       [ID:000] GoalPos:729  PresPos:737
+[ID:001] GoalPos:697  PresPos:698       [ID:002] GoalPos:584  PresPos:709       [ID:000] GoalPos:729  PresPos:733
+target2 700
+[ID:001] GoalPos:704  PresPos:695       [ID:002] GoalPos:582  PresPos:698       [ID:000] GoalPos:725  PresPos:730
+[ID:001] GoalPos:704  PresPos:697       [ID:002] GoalPos:582  PresPos:692       [ID:000] GoalPos:725  PresPos:727
+target2 700
+[ID:001] GoalPos:710  PresPos:706       [ID:002] GoalPos:581  PresPos:686       [ID:000] GoalPos:720  PresPos:722
+target2 700
+[ID:001] GoalPos:715  PresPos:707       [ID:002] GoalPos:580  PresPos:674       [ID:000] GoalPos:715  PresPos:719
+[ID:001] GoalPos:715  PresPos:710       [ID:002] GoalPos:580  PresPos:662       [ID:000] GoalPos:715  PresPos:718
+[ID:001] GoalPos:715  PresPos:715       [ID:002] GoalPos:580  PresPos:653       [ID:000] GoalPos:715  PresPos:717
+target2 700
+[ID:001] GoalPos:720  PresPos:718       [ID:002] GoalPos:581  PresPos:643       [ID:000] GoalPos:710  PresPos:714
+target2 700
+[ID:001] GoalPos:725  PresPos:717       [ID:002] GoalPos:582  PresPos:634       [ID:000] GoalPos:704  PresPos:712
+[ID:001] GoalPos:725  PresPos:720       [ID:002] GoalPos:582  PresPos:624       [ID:000] GoalPos:704  PresPos:709
+[ID:001] GoalPos:725  PresPos:726       [ID:002] GoalPos:582  PresPos:616       [ID:000] GoalPos:704  PresPos:707
+target2 700
+[ID:001] GoalPos:729  PresPos:728       [ID:002] GoalPos:584  PresPos:605       [ID:000] GoalPos:697  PresPos:704
+target2 700
+[ID:001] GoalPos:733  PresPos:728       [ID:002] GoalPos:587  PresPos:597       [ID:000] GoalPos:691  PresPos:701
+[ID:001] GoalPos:733  PresPos:728       [ID:002] GoalPos:587  PresPos:592       [ID:000] GoalPos:691  PresPos:696
+[ID:001] GoalPos:733  PresPos:732       [ID:002] GoalPos:587  PresPos:592       [ID:000] GoalPos:691  PresPos:693
+target2 700
+[ID:001] GoalPos:736  PresPos:733       [ID:002] GoalPos:590  PresPos:592       [ID:000] GoalPos:684  PresPos:692
+target2 700
+[ID:001] GoalPos:739  PresPos:735       [ID:002] GoalPos:594  PresPos:592       [ID:000] GoalPos:677  PresPos:689
+target2 700
+[ID:001] GoalPos:741  PresPos:735       [ID:002] GoalPos:599  PresPos:594       [ID:000] GoalPos:669  PresPos:683
+[ID:001] GoalPos:741  PresPos:737       [ID:002] GoalPos:599  PresPos:599       [ID:000] GoalPos:669  PresPos:675
+target2 700
+[ID:001] GoalPos:743  PresPos:739       [ID:002] GoalPos:605  PresPos:604       [ID:000] GoalPos:662  PresPos:671
+target2 700
+[ID:001] GoalPos:745  PresPos:741       [ID:002] GoalPos:611  PresPos:606       [ID:000] GoalPos:654  PresPos:666
+[ID:001] GoalPos:745  PresPos:742       [ID:002] GoalPos:611  PresPos:610       [ID:000] GoalPos:654  PresPos:661
+target2 700
+[ID:001] GoalPos:746  PresPos:743       [ID:002] GoalPos:617  PresPos:616       [ID:000] GoalPos:646  PresPos:657
+target2 700
+[ID:001] GoalPos:747  PresPos:744       [ID:002] GoalPos:624  PresPos:619       [ID:000] GoalPos:639  PresPos:652
+[ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:624  PresPos:622       [ID:000] GoalPos:639  PresPos:646
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:631  PresPos:629       [ID:000] GoalPos:631  PresPos:644
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:639  PresPos:631       [ID:000] GoalPos:624  PresPos:636
+target2 700
+[ID:001] GoalPos:746  PresPos:746       [ID:002] GoalPos:646  PresPos:637       [ID:000] GoalPos:617  PresPos:631
+target2 700
+[ID:001] GoalPos:745  PresPos:746       [ID:002] GoalPos:654  PresPos:646       [ID:000] GoalPos:611  PresPos:623
+target2 700
+[ID:001] GoalPos:743  PresPos:744       [ID:002] GoalPos:662  PresPos:656       [ID:000] GoalPos:605  PresPos:616
+target2 700
+[ID:001] GoalPos:741  PresPos:743       [ID:002] GoalPos:669  PresPos:661       [ID:000] GoalPos:599  PresPos:608
+target2 700
+[ID:001] GoalPos:739  PresPos:740       [ID:002] GoalPos:677  PresPos:668       [ID:000] GoalPos:594  PresPos:605
+target2 700
+[ID:001] GoalPos:736  PresPos:739       [ID:002] GoalPos:684  PresPos:677       [ID:000] GoalPos:590  PresPos:600
+[ID:001] GoalPos:736  PresPos:738       [ID:002] GoalPos:684  PresPos:684       [ID:000] GoalPos:590  PresPos:596
+target2 700
+[ID:001] GoalPos:733  PresPos:734       [ID:002] GoalPos:691  PresPos:688       [ID:000] GoalPos:587  PresPos:594
+target2 700
+[ID:001] GoalPos:729  PresPos:732       [ID:002] GoalPos:697  PresPos:688       [ID:000] GoalPos:584  PresPos:594
+[ID:001] GoalPos:729  PresPos:732       [ID:002] GoalPos:697  PresPos:692       [ID:000] GoalPos:584  PresPos:593
+[ID:001] GoalPos:729  PresPos:730       [ID:002] GoalPos:697  PresPos:701       [ID:000] GoalPos:584  PresPos:591
+target2 700
+[ID:001] GoalPos:725  PresPos:728       [ID:002] GoalPos:704  PresPos:703       [ID:000] GoalPos:582  PresPos:590
+target2 700
+[ID:001] GoalPos:720  PresPos:724       [ID:002] GoalPos:710  PresPos:703       [ID:000] GoalPos:581  PresPos:590
+[ID:001] GoalPos:720  PresPos:722       [ID:002] GoalPos:710  PresPos:706       [ID:000] GoalPos:581  PresPos:589
+target2 700
+[ID:001] GoalPos:715  PresPos:723       [ID:002] GoalPos:715  PresPos:713       [ID:000] GoalPos:580  PresPos:589
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:710  PresPos:000       [ID:002] GoalPos:720  PresPos:718       [ID:000] GoalPos:581  PresPos:587
+target2 700
+[ID:001] GoalPos:704  PresPos:712       [ID:002] GoalPos:725  PresPos:719       [ID:000] GoalPos:582  PresPos:587
+[ID:001] GoalPos:704  PresPos:711       [ID:002] GoalPos:725  PresPos:723       [ID:000] GoalPos:582  PresPos:587
+target2 700
+[ID:001] GoalPos:697  PresPos:708       [ID:002] GoalPos:729  PresPos:727       [ID:000] GoalPos:584  PresPos:586
+target2 700
+[ID:001] GoalPos:691  PresPos:703       [ID:002] GoalPos:733  PresPos:727       [ID:000] GoalPos:587  PresPos:587
+target2 700
+[ID:001] GoalPos:684  PresPos:694       [ID:002] GoalPos:736  PresPos:731       [ID:000] GoalPos:590  PresPos:590
+target2 700
+[ID:001] GoalPos:677  PresPos:688       [ID:002] GoalPos:739  PresPos:737       [ID:000] GoalPos:594  PresPos:592
+target2 700
+[ID:001] GoalPos:669  PresPos:683       [ID:002] GoalPos:741  PresPos:739       [ID:000] GoalPos:599  PresPos:596
+target2 700
+[ID:001] GoalPos:662  PresPos:674       [ID:002] GoalPos:743  PresPos:739       [ID:000] GoalPos:605  PresPos:603
+target2 700
+[ID:001] GoalPos:654  PresPos:669       [ID:002] GoalPos:745  PresPos:740       [ID:000] GoalPos:611  PresPos:608
+[ID:001] GoalPos:654  PresPos:663       [ID:002] GoalPos:745  PresPos:743       [ID:000] GoalPos:611  PresPos:614
+target2 700
+[ID:001] GoalPos:646  PresPos:657       [ID:002] GoalPos:746  PresPos:748       [ID:000] GoalPos:617  PresPos:614
+target2 700
+[ID:001] GoalPos:639  PresPos:651       [ID:002] GoalPos:747  PresPos:747       [ID:000] GoalPos:624  PresPos:618
+target2 700
+[ID:001] GoalPos:631  PresPos:647       [ID:002] GoalPos:747  PresPos:745       [ID:000] GoalPos:631  PresPos:625
+target2 700
+[ID:001] GoalPos:624  PresPos:641       [ID:002] GoalPos:747  PresPos:745       [ID:000] GoalPos:639  PresPos:635
+target2 700
+[ID:001] GoalPos:617  PresPos:632       [ID:002] GoalPos:746  PresPos:746       [ID:000] GoalPos:646  PresPos:644
+target2 700
+[ID:001] GoalPos:611  PresPos:623       [ID:002] GoalPos:745  PresPos:746       [ID:000] GoalPos:654  PresPos:649
+target2 700
+[ID:001] GoalPos:605  PresPos:617       [ID:002] GoalPos:743  PresPos:746       [ID:000] GoalPos:662  PresPos:654
+[ID:001] GoalPos:605  PresPos:613       [ID:002] GoalPos:743  PresPos:745       [ID:000] GoalPos:662  PresPos:663
+target2 700
+[ID:001] GoalPos:599  PresPos:609       [ID:002] GoalPos:741  PresPos:743       [ID:000] GoalPos:669  PresPos:667
+target2 700
+[ID:001] GoalPos:594  PresPos:607       [ID:002] GoalPos:739  PresPos:741       [ID:000] GoalPos:677  PresPos:670
+target2 700
+[ID:001] GoalPos:590  PresPos:604       [ID:002] GoalPos:736  PresPos:739       [ID:000] GoalPos:684  PresPos:673
+[ID:001] GoalPos:590  PresPos:599       [ID:002] GoalPos:736  PresPos:739       [ID:000] GoalPos:684  PresPos:685
+target2 700
+[ID:001] GoalPos:587  PresPos:594       [ID:002] GoalPos:733  PresPos:738       [ID:000] GoalPos:691  PresPos:694
+[ID:001] GoalPos:587  PresPos:592       [ID:002] GoalPos:733  PresPos:732       [ID:000] GoalPos:691  PresPos:694
+target2 700
+[ID:001] GoalPos:584  PresPos:594       [ID:002] GoalPos:729  PresPos:727       [ID:000] GoalPos:697  PresPos:692
+target2 700
+[ID:001] GoalPos:582  PresPos:593       [ID:002] GoalPos:725  PresPos:732       [ID:000] GoalPos:704  PresPos:691
+[ID:001] GoalPos:582  PresPos:591       [ID:002] GoalPos:725  PresPos:733       [ID:000] GoalPos:704  PresPos:702
+target2 700
+[ID:001] GoalPos:581  PresPos:586       [ID:002] GoalPos:720  PresPos:731       [ID:000] GoalPos:710  PresPos:712
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:580  PresPos:586       [ID:002] GoalPos:715  PresPos:000       [ID:000] GoalPos:715  PresPos:713
+target2 700
+[ID:001] GoalPos:581  PresPos:586       [ID:002] GoalPos:710  PresPos:709       [ID:000] GoalPos:720  PresPos:714
+target2 700
+[ID:001] GoalPos:582  PresPos:586       [ID:002] GoalPos:704  PresPos:714       [ID:000] GoalPos:725  PresPos:717
+[ID:001] GoalPos:582  PresPos:586       [ID:002] GoalPos:704  PresPos:712       [ID:000] GoalPos:725  PresPos:725
+target2 700
+[ID:001] GoalPos:584  PresPos:586       [ID:002] GoalPos:697  PresPos:710       [ID:000] GoalPos:729  PresPos:730
+target2 700
+[ID:001] GoalPos:587  PresPos:586       [ID:002] GoalPos:691  PresPos:701       [ID:000] GoalPos:733  PresPos:730
+target2 700
+[ID:001] GoalPos:590  PresPos:587       [ID:002] GoalPos:684  PresPos:692       [ID:000] GoalPos:736  PresPos:730
+[ID:001] GoalPos:590  PresPos:591       [ID:002] GoalPos:684  PresPos:689       [ID:000] GoalPos:736  PresPos:732
+target2 700
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 537, in <module>
+    dxl1_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL1_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 376, in read2ByteTxRx
+IndexError: list index out of range
+~ via  v10.19.0 via 🐍 v3.8.10 took 6s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+target2 700
+[ID:001] GoalPos:677  PresPos:784       [ID:002] GoalPos:594  PresPos:815       [ID:000] GoalPos:739  PresPos:751
+[ID:001] GoalPos:677  PresPos:784       [ID:002] GoalPos:594  PresPos:810       [ID:000] GoalPos:739  PresPos:747
+[ID:001] GoalPos:677  PresPos:774       [ID:002] GoalPos:594  PresPos:798       [ID:000] GoalPos:739  PresPos:737
+target2 700
+[ID:001] GoalPos:684  PresPos:757       [ID:002] GoalPos:590  PresPos:787       [ID:000] GoalPos:736  PresPos:733
+[ID:001] GoalPos:684  PresPos:752       [ID:002] GoalPos:590  PresPos:782       [ID:000] GoalPos:736  PresPos:737
+target2 700
+[ID:001] GoalPos:691  PresPos:741       [ID:002] GoalPos:587  PresPos:769       [ID:000] GoalPos:733  PresPos:739
+[ID:001] GoalPos:691  PresPos:732       [ID:002] GoalPos:587  PresPos:752       [ID:000] GoalPos:733  PresPos:736
+[ID:001] GoalPos:691  PresPos:721       [ID:002] GoalPos:587  PresPos:746       [ID:000] GoalPos:733  PresPos:733
+target2 700
+[ID:001] GoalPos:697  PresPos:712       [ID:002] GoalPos:584  PresPos:746       [ID:000] GoalPos:729  PresPos:729
+target2 700
+[ID:001] GoalPos:704  PresPos:703       [ID:002] GoalPos:582  PresPos:733       [ID:000] GoalPos:725  PresPos:727
+target2 700
+[ID:001] GoalPos:710  PresPos:698       [ID:002] GoalPos:581  PresPos:720       [ID:000] GoalPos:720  PresPos:729
+[ID:001] GoalPos:710  PresPos:704       [ID:002] GoalPos:581  PresPos:709       [ID:000] GoalPos:720  PresPos:726
+[ID:001] GoalPos:710  PresPos:711       [ID:002] GoalPos:581  PresPos:700       [ID:000] GoalPos:720  PresPos:721
+target2 700
+[ID:001] GoalPos:715  PresPos:715       [ID:002] GoalPos:580  PresPos:691       [ID:000] GoalPos:715  PresPos:714
+target2 700
+[ID:001] GoalPos:720  PresPos:713       [ID:002] GoalPos:581  PresPos:682       [ID:000] GoalPos:710  PresPos:714
+[ID:001] GoalPos:720  PresPos:713       [ID:002] GoalPos:581  PresPos:673       [ID:000] GoalPos:710  PresPos:717
+[ID:001] GoalPos:720  PresPos:719       [ID:002] GoalPos:581  PresPos:663       [ID:000] GoalPos:710  PresPos:714
+target2 700
+[ID:001] GoalPos:725  PresPos:721       [ID:002] GoalPos:582  PresPos:652       [ID:000] GoalPos:704  PresPos:710
+[ID:001] GoalPos:725  PresPos:724       [ID:002] GoalPos:582  PresPos:642       [ID:000] GoalPos:704  PresPos:704
+target2 700
+[ID:001] GoalPos:729  PresPos:726       [ID:002] GoalPos:584  PresPos:634       [ID:000] GoalPos:697  PresPos:703
+[ID:001] GoalPos:729  PresPos:726       [ID:002] GoalPos:584  PresPos:624       [ID:000] GoalPos:697  PresPos:702
+[ID:001] GoalPos:729  PresPos:727       [ID:002] GoalPos:584  PresPos:616       [ID:000] GoalPos:697  PresPos:701
+target2 700
+[ID:001] GoalPos:733  PresPos:728       [ID:002] GoalPos:587  PresPos:606       [ID:000] GoalPos:691  PresPos:700
+[ID:001] GoalPos:733  PresPos:730       [ID:002] GoalPos:587  PresPos:597       [ID:000] GoalPos:691  PresPos:695
+[ID:001] GoalPos:733  PresPos:732       [ID:002] GoalPos:587  PresPos:593       [ID:000] GoalPos:691  PresPos:694
+target2 700
+[ID:001] GoalPos:736  PresPos:732       [ID:002] GoalPos:590  PresPos:593       [ID:000] GoalPos:684  PresPos:693
+[ID:001] GoalPos:736  PresPos:733       [ID:002] GoalPos:590  PresPos:593       [ID:000] GoalPos:684  PresPos:690
+[ID:001] GoalPos:736  PresPos:734       [ID:002] GoalPos:590  PresPos:593       [ID:000] GoalPos:684  PresPos:689
+target2 700
+[ID:001] GoalPos:739  PresPos:735       [ID:002] GoalPos:594  PresPos:593       [ID:000] GoalPos:677  PresPos:686
+target2 700
+[ID:001] GoalPos:741  PresPos:737       [ID:002] GoalPos:599  PresPos:594       [ID:000] GoalPos:669  PresPos:683
+[ID:001] GoalPos:741  PresPos:737       [ID:002] GoalPos:599  PresPos:599       [ID:000] GoalPos:669  PresPos:676
+target2 700
+[ID:001] GoalPos:743  PresPos:739       [ID:002] GoalPos:605  PresPos:603       [ID:000] GoalPos:662  PresPos:672
+target2 700
+[ID:001] GoalPos:745  PresPos:741       [ID:002] GoalPos:611  PresPos:606       [ID:000] GoalPos:654  PresPos:666
+[ID:001] GoalPos:745  PresPos:743       [ID:002] GoalPos:611  PresPos:611       [ID:000] GoalPos:654  PresPos:661
+target2 700
+[ID:001] GoalPos:746  PresPos:743       [ID:002] GoalPos:617  PresPos:616       [ID:000] GoalPos:646  PresPos:657
+target2 700
+[ID:001] GoalPos:747  PresPos:744       [ID:002] GoalPos:624  PresPos:619       [ID:000] GoalPos:639  PresPos:652
+[ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:624  PresPos:622       [ID:000] GoalPos:639  PresPos:646
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:631  PresPos:629       [ID:000] GoalPos:631  PresPos:644
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:639  PresPos:632       [ID:000] GoalPos:624  PresPos:638
+target2 700
+[ID:001] GoalPos:746  PresPos:746       [ID:002] GoalPos:646  PresPos:637       [ID:000] GoalPos:617  PresPos:631
+target2 700
+[ID:001] GoalPos:745  PresPos:745       [ID:002] GoalPos:654  PresPos:646       [ID:000] GoalPos:611  PresPos:623
+target2 700
+[ID:001] GoalPos:743  PresPos:745       [ID:002] GoalPos:662  PresPos:656       [ID:000] GoalPos:605  PresPos:616
+target2 700
+[ID:001] GoalPos:741  PresPos:743       [ID:002] GoalPos:669  PresPos:661       [ID:000] GoalPos:599  PresPos:609
+target2 700
+[ID:001] GoalPos:739  PresPos:740       [ID:002] GoalPos:677  PresPos:668       [ID:000] GoalPos:594  PresPos:605
+target2 700
+[ID:001] GoalPos:736  PresPos:739       [ID:002] GoalPos:684  PresPos:677       [ID:000] GoalPos:590  PresPos:600
+[ID:001] GoalPos:736  PresPos:738       [ID:002] GoalPos:684  PresPos:684       [ID:000] GoalPos:590  PresPos:596
+target2 700
+[ID:001] GoalPos:733  PresPos:734       [ID:002] GoalPos:691  PresPos:688       [ID:000] GoalPos:587  PresPos:594
+target2 700
+[ID:001] GoalPos:729  PresPos:733       [ID:002] GoalPos:697  PresPos:688       [ID:000] GoalPos:584  PresPos:594
+[ID:001] GoalPos:729  PresPos:732       [ID:002] GoalPos:697  PresPos:691       [ID:000] GoalPos:584  PresPos:593
+[ID:001] GoalPos:729  PresPos:730       [ID:002] GoalPos:697  PresPos:701       [ID:000] GoalPos:584  PresPos:591
+target2 700
+[ID:001] GoalPos:725  PresPos:728       [ID:002] GoalPos:704  PresPos:703       [ID:000] GoalPos:582  PresPos:590
+target2 700
+[ID:001] GoalPos:720  PresPos:724       [ID:002] GoalPos:710  PresPos:703       [ID:000] GoalPos:581  PresPos:590
+[ID:001] GoalPos:720  PresPos:722       [ID:002] GoalPos:710  PresPos:704       [ID:000] GoalPos:581  PresPos:590
+target2 700
+[ID:001] GoalPos:715  PresPos:723       [ID:002] GoalPos:715  PresPos:713       [ID:000] GoalPos:580  PresPos:589
+target2 700
+[ID:001] GoalPos:710  PresPos:719       [ID:002] GoalPos:720  PresPos:717       [ID:000] GoalPos:581  PresPos:589
+[ID:001] GoalPos:710  PresPos:712       [ID:002] GoalPos:720  PresPos:719       [ID:000] GoalPos:581  PresPos:589
+target2 700
+[ID:001] GoalPos:704  PresPos:707       [ID:002] GoalPos:725  PresPos:720       [ID:000] GoalPos:582  PresPos:589
+[ID:001] GoalPos:704  PresPos:708       [ID:002] GoalPos:725  PresPos:723       [ID:000] GoalPos:582  PresPos:589
+target2 700
+[ID:001] GoalPos:697  PresPos:707       [ID:002] GoalPos:729  PresPos:726       [ID:000] GoalPos:584  PresPos:589
+[ID:001] GoalPos:697  PresPos:703       [ID:002] GoalPos:729  PresPos:727       [ID:000] GoalPos:584  PresPos:589
+target2 700
+[ID:001] GoalPos:691  PresPos:697       [ID:002] GoalPos:733  PresPos:729       [ID:000] GoalPos:587  PresPos:589
+target2 700
+[ID:001] GoalPos:684  PresPos:695       [ID:002] GoalPos:736  PresPos:732       [ID:000] GoalPos:590  PresPos:589
+target2 700
+[ID:001] GoalPos:677  PresPos:691       [ID:002] GoalPos:739  PresPos:733       [ID:000] GoalPos:594  PresPos:592
+target2 700
+[ID:001] GoalPos:669  PresPos:683       [ID:002] GoalPos:741  PresPos:737       [ID:000] GoalPos:599  PresPos:596
+[ID:001] GoalPos:669  PresPos:678       [ID:002] GoalPos:741  PresPos:742       [ID:000] GoalPos:599  PresPos:603
+target2 700
+[ID:001] GoalPos:662  PresPos:669       [ID:002] GoalPos:743  PresPos:745       [ID:000] GoalPos:605  PresPos:605
+target2 700
+[ID:001] GoalPos:654  PresPos:667       [ID:002] GoalPos:745  PresPos:742       [ID:000] GoalPos:611  PresPos:605
+[ID:001] GoalPos:654  PresPos:664       [ID:002] GoalPos:745  PresPos:741       [ID:000] GoalPos:611  PresPos:606
+[ID:001] GoalPos:654  PresPos:659       [ID:002] GoalPos:745  PresPos:740       [ID:000] GoalPos:611  PresPos:607
+[ID:001] GoalPos:654  PresPos:656       [ID:002] GoalPos:745  PresPos:747       [ID:000] GoalPos:611  PresPos:607
+target2 700
+[ID:001] GoalPos:646  PresPos:656       [ID:002] GoalPos:746  PresPos:750       [ID:000] GoalPos:617  PresPos:607
+[ID:001] GoalPos:646  PresPos:655       [ID:002] GoalPos:746  PresPos:747       [ID:000] GoalPos:617  PresPos:612
+target2 700
+[ID:001] GoalPos:639  PresPos:650       [ID:002] GoalPos:747  PresPos:740       [ID:000] GoalPos:624  PresPos:621
+[ID:001] GoalPos:639  PresPos:647       [ID:002] GoalPos:747  PresPos:743       [ID:000] GoalPos:624  PresPos:628
+[ID:001] GoalPos:639  PresPos:645       [ID:002] GoalPos:747  PresPos:749       [ID:000] GoalPos:624  PresPos:629
+target2 700
+[ID:001] GoalPos:631  PresPos:643       [ID:002] GoalPos:747  PresPos:750       [ID:000] GoalPos:631  PresPos:627
+[ID:001] GoalPos:631  PresPos:641       [ID:002] GoalPos:747  PresPos:748       [ID:000] GoalPos:631  PresPos:627
+target2 700
+[ID:001] GoalPos:624  PresPos:635       [ID:002] GoalPos:747  PresPos:745       [ID:000] GoalPos:639  PresPos:635
+target2 700
+[ID:001] GoalPos:617  PresPos:632       [ID:002] GoalPos:746  PresPos:742       [ID:000] GoalPos:646  PresPos:643
+[ID:001] GoalPos:617  PresPos:627       [ID:002] GoalPos:746  PresPos:746       [ID:000] GoalPos:646  PresPos:647
+target2 700
+[ID:001] GoalPos:611  PresPos:621       [ID:002] GoalPos:745  PresPos:749       [ID:000] GoalPos:654  PresPos:649
+[ID:001] GoalPos:611  PresPos:618       [ID:002] GoalPos:745  PresPos:747       [ID:000] GoalPos:654  PresPos:653
+target2 700
+[ID:001] GoalPos:605  PresPos:614       [ID:002] GoalPos:743  PresPos:745       [ID:000] GoalPos:662  PresPos:656
+target2 700
+[ID:001] GoalPos:599  PresPos:614       [ID:002] GoalPos:741  PresPos:742       [ID:000] GoalPos:669  PresPos:662
+target2 700
+[ID:001] GoalPos:594  PresPos:610       [ID:002] GoalPos:739  PresPos:742       [ID:000] GoalPos:677  PresPos:671
+[ID:001] GoalPos:594  PresPos:604       [ID:002] GoalPos:739  PresPos:741       [ID:000] GoalPos:677  PresPos:679
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:590  PresPos:000       [ID:002] GoalPos:736  PresPos:738       [ID:000] GoalPos:684  PresPos:682
+target2 700
+[ID:001] GoalPos:587  PresPos:597       [ID:002] GoalPos:733  PresPos:733       [ID:000] GoalPos:691  PresPos:684
+target2 700
+[ID:001] GoalPos:584  PresPos:597       [ID:002] GoalPos:729  PresPos:733       [ID:000] GoalPos:697  PresPos:687
+[ID:001] GoalPos:584  PresPos:595       [ID:002] GoalPos:729  PresPos:733       [ID:000] GoalPos:697  PresPos:699
+target2 700
+[ID:001] GoalPos:582  PresPos:590       [ID:002] GoalPos:725  PresPos:732       [ID:000] GoalPos:704  PresPos:705
+target2 700
+[ID:001] GoalPos:581  PresPos:587       [ID:002] GoalPos:720  PresPos:727       [ID:000] GoalPos:710  PresPos:707
+[ID:001] GoalPos:581  PresPos:586       [ID:002] GoalPos:720  PresPos:719       [ID:000] GoalPos:710  PresPos:707
+target2 700
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:721       [ID:000] GoalPos:715  PresPos:709
+[ID:001] GoalPos:580  PresPos:586       [ID:002] GoalPos:715  PresPos:721       [ID:000] GoalPos:715  PresPos:717
+target2 700
+[ID:001] GoalPos:581  PresPos:586       [ID:002] GoalPos:710  PresPos:719       [ID:000] GoalPos:720  PresPos:721
+target2 700
+[ID:001] GoalPos:582  PresPos:586       [ID:002] GoalPos:704  PresPos:712       [ID:000] GoalPos:725  PresPos:721
+[ID:001] GoalPos:582  PresPos:586       [ID:002] GoalPos:704  PresPos:707       [ID:000] GoalPos:725  PresPos:719
+[ID:001] GoalPos:582  PresPos:586       [ID:002] GoalPos:704  PresPos:706       [ID:000] GoalPos:725  PresPos:722
+target2 700
+[ID:001] GoalPos:584  PresPos:586       [ID:002] GoalPos:697  PresPos:706       [ID:000] GoalPos:729  PresPos:730
+target2 700
+[ID:001] GoalPos:587  PresPos:586       [ID:002] GoalPos:691  PresPos:703       [ID:000] GoalPos:733  PresPos:730
+target2 700
+[ID:001] GoalPos:590  PresPos:587       [ID:002] GoalPos:684  PresPos:697       [ID:000] GoalPos:736  PresPos:728
+[ID:001] GoalPos:590  PresPos:591       [ID:002] GoalPos:684  PresPos:690       [ID:000] GoalPos:736  PresPos:733
+target2 700
+[ID:001] GoalPos:594  PresPos:593       [ID:002] GoalPos:677  PresPos:687       [ID:000] GoalPos:739  PresPos:737
+target2 700
+[ID:001] GoalPos:599  PresPos:594       [ID:002] GoalPos:669  PresPos:683       [ID:000] GoalPos:741  PresPos:743
+target2 700
+[ID:001] GoalPos:605  PresPos:595       [ID:002] GoalPos:662  PresPos:677       [ID:000] GoalPos:743  PresPos:741
+target2 700
+[ID:001] GoalPos:611  PresPos:605       [ID:002] GoalPos:654  PresPos:669       [ID:000] GoalPos:745  PresPos:737
+[ID:001] GoalPos:611  PresPos:612       [ID:002] GoalPos:654  PresPos:661       [ID:000] GoalPos:745  PresPos:743
+target2 700
+[ID:001] GoalPos:617  PresPos:614       [ID:002] GoalPos:646  PresPos:658       [ID:000] GoalPos:746  PresPos:744
+target2 700
+[ID:001] GoalPos:624  PresPos:613       [ID:002] GoalPos:639  PresPos:654       [ID:000] GoalPos:747  PresPos:750
+[ID:001] GoalPos:624  PresPos:618       [ID:002] GoalPos:639  PresPos:648       [ID:000] GoalPos:747  PresPos:750
+[ID:001] GoalPos:624  PresPos:627       [ID:002] GoalPos:639  PresPos:642       [ID:000] GoalPos:747  PresPos:746
+target2 700
+[ID:001] GoalPos:631  PresPos:631       [ID:002] GoalPos:631  PresPos:640       [ID:000] GoalPos:747  PresPos:742
+target2 700
+[ID:001] GoalPos:639  PresPos:630       [ID:002] GoalPos:624  PresPos:640       [ID:000] GoalPos:747  PresPos:745
+target2 700
+[ID:001] GoalPos:646  PresPos:633       [ID:002] GoalPos:617  PresPos:638       [ID:000] GoalPos:746  PresPos:746
+target2 700
+[ID:001] GoalPos:654  PresPos:644       [ID:002] GoalPos:611  PresPos:629       [ID:000] GoalPos:745  PresPos:751
+[ID:001] GoalPos:654  PresPos:654       [ID:002] GoalPos:611  PresPos:616       [ID:000] GoalPos:745  PresPos:746
+target2 700
+[ID:001] GoalPos:662  PresPos:658       [ID:002] GoalPos:605  PresPos:611       [ID:000] GoalPos:743  PresPos:738
+[ID:001] GoalPos:662  PresPos:657       [ID:002] GoalPos:605  PresPos:611       [ID:000] GoalPos:743  PresPos:739
+[ID:001] GoalPos:662  PresPos:660       [ID:002] GoalPos:605  PresPos:611       [ID:000] GoalPos:743  PresPos:741
+target2 700
+[ID:001] GoalPos:669  PresPos:667       [ID:002] GoalPos:599  PresPos:611       [ID:000] GoalPos:741  PresPos:746
+~ via  v10.19.0 via 🐍 v3.8.10 took 7s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+target2 700
+[ID:001] GoalPos:677  PresPos:728       [ID:002] GoalPos:594  PresPos:751       [ID:000] GoalPos:739  PresPos:741
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:684  PresPos:000       [ID:002] GoalPos:590  PresPos:745       [ID:000] GoalPos:736  PresPos:738
+target2 700
+[ID:001] GoalPos:691  PresPos:713       [ID:002] GoalPos:587  PresPos:733       [ID:000] GoalPos:733  PresPos:734
+target2 700
+[ID:001] GoalPos:697  PresPos:704       [ID:002] GoalPos:584  PresPos:723       [ID:000] GoalPos:729  PresPos:733
+[ID:001] GoalPos:697  PresPos:697       [ID:002] GoalPos:584  PresPos:714       [ID:000] GoalPos:729  PresPos:732
+target2 700
+[ID:001] GoalPos:704  PresPos:696       [ID:002] GoalPos:582  PresPos:707       [ID:000] GoalPos:725  PresPos:730
+[ID:001] GoalPos:704  PresPos:699       [ID:002] GoalPos:582  PresPos:698       [ID:000] GoalPos:725  PresPos:727
+target2 700
+[ID:001] GoalPos:710  PresPos:707       [ID:002] GoalPos:581  PresPos:687       [ID:000] GoalPos:720  PresPos:724
+[ID:001] GoalPos:710  PresPos:709       [ID:002] GoalPos:581  PresPos:674       [ID:000] GoalPos:720  PresPos:720
+target2 700
+[ID:001] GoalPos:715  PresPos:709       [ID:002] GoalPos:580  PresPos:667       [ID:000] GoalPos:715  PresPos:720
+[ID:001] GoalPos:715  PresPos:712       [ID:002] GoalPos:580  PresPos:658       [ID:000] GoalPos:715  PresPos:719
+[ID:001] GoalPos:715  PresPos:715       [ID:002] GoalPos:580  PresPos:648       [ID:000] GoalPos:715  PresPos:718
+target2 700
+[ID:001] GoalPos:720  PresPos:717       [ID:002] GoalPos:581  PresPos:638       [ID:000] GoalPos:710  PresPos:716
+[ID:001] GoalPos:720  PresPos:717       [ID:002] GoalPos:581  PresPos:627       [ID:000] GoalPos:710  PresPos:713
+[ID:001] GoalPos:720  PresPos:720       [ID:002] GoalPos:581  PresPos:617       [ID:000] GoalPos:710  PresPos:712
+target2 700
+[ID:001] GoalPos:725  PresPos:721       [ID:002] GoalPos:582  PresPos:608       [ID:000] GoalPos:704  PresPos:711
+[ID:001] GoalPos:725  PresPos:722       [ID:002] GoalPos:582  PresPos:599       [ID:000] GoalPos:704  PresPos:708
+[ID:001] GoalPos:725  PresPos:726       [ID:002] GoalPos:582  PresPos:591       [ID:000] GoalPos:704  PresPos:708
+target2 700
+[ID:001] GoalPos:729  PresPos:726       [ID:002] GoalPos:584  PresPos:587       [ID:000] GoalPos:697  PresPos:707
+[ID:001] GoalPos:729  PresPos:727       [ID:002] GoalPos:584  PresPos:587       [ID:000] GoalPos:697  PresPos:703
+target2 700
+[ID:001] GoalPos:733  PresPos:728       [ID:002] GoalPos:587  PresPos:589       [ID:000] GoalPos:691  PresPos:700
+target2 700
+[ID:001] GoalPos:736  PresPos:730       [ID:002] GoalPos:590  PresPos:589       [ID:000] GoalPos:684  PresPos:694
+target2 700
+[ID:001] GoalPos:739  PresPos:735       [ID:002] GoalPos:594  PresPos:591       [ID:000] GoalPos:677  PresPos:689
+[ID:001] GoalPos:739  PresPos:738       [ID:002] GoalPos:594  PresPos:595       [ID:000] GoalPos:677  PresPos:682
+target2 700
+[ID:001] GoalPos:741  PresPos:739       [ID:002] GoalPos:599  PresPos:597       [ID:000] GoalPos:669  PresPos:679
+target2 700
+[ID:001] GoalPos:743  PresPos:739       [ID:002] GoalPos:605  PresPos:599       [ID:000] GoalPos:662  PresPos:674
+[ID:001] GoalPos:743  PresPos:741       [ID:002] GoalPos:605  PresPos:606       [ID:000] GoalPos:662  PresPos:670
+target2 700
+[ID:001] GoalPos:745  PresPos:742       [ID:002] GoalPos:611  PresPos:611       [ID:000] GoalPos:654  PresPos:665
+target2 700
+[ID:001] GoalPos:746  PresPos:743       [ID:002] GoalPos:617  PresPos:613       [ID:000] GoalPos:646  PresPos:658
+[ID:001] GoalPos:746  PresPos:745       [ID:002] GoalPos:617  PresPos:616       [ID:000] GoalPos:646  PresPos:652
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:624  PresPos:620       [ID:000] GoalPos:639  PresPos:648
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:631  PresPos:624       [ID:000] GoalPos:631  PresPos:644
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:639  PresPos:632       [ID:000] GoalPos:624  PresPos:639
+target2 700
+[ID:001] GoalPos:746  PresPos:746       [ID:002] GoalPos:646  PresPos:640       [ID:000] GoalPos:617  PresPos:631
+target2 700
+[ID:001] GoalPos:745  PresPos:746       [ID:002] GoalPos:654  PresPos:648       [ID:000] GoalPos:611  PresPos:622
+target2 700
+[ID:001] GoalPos:743  PresPos:744       [ID:002] GoalPos:662  PresPos:650       [ID:000] GoalPos:605  PresPos:614
+target2 700
+[ID:001] GoalPos:741  PresPos:742       [ID:002] GoalPos:669  PresPos:650       [ID:000] GoalPos:599  PresPos:610
+target2 700
+[ID:001] GoalPos:739  PresPos:741       [ID:002] GoalPos:677  PresPos:658       [ID:000] GoalPos:594  PresPos:605
+target2 700
+[ID:001] GoalPos:736  PresPos:742       [ID:002] GoalPos:684  PresPos:680       [ID:000] GoalPos:590  PresPos:599
+[ID:001] GoalPos:736  PresPos:739       [ID:002] GoalPos:684  PresPos:687       [ID:000] GoalPos:590  PresPos:596
+[ID:001] GoalPos:736  PresPos:733       [ID:002] GoalPos:684  PresPos:686       [ID:000] GoalPos:590  PresPos:595
+target2 700
+[ID:001] GoalPos:733  PresPos:734       [ID:002] GoalPos:691  PresPos:680       [ID:000] GoalPos:587  PresPos:595
+target2 700
+[ID:001] GoalPos:729  PresPos:733       [ID:002] GoalPos:697  PresPos:681       [ID:000] GoalPos:584  PresPos:595
+[ID:001] GoalPos:729  PresPos:734       [ID:002] GoalPos:697  PresPos:692       [ID:000] GoalPos:584  PresPos:592
+[ID:001] GoalPos:729  PresPos:733       [ID:002] GoalPos:697  PresPos:701       [ID:000] GoalPos:584  PresPos:590
+[ID:001] GoalPos:729  PresPos:727       [ID:002] GoalPos:697  PresPos:703       [ID:000] GoalPos:584  PresPos:590
+target2 700
+[ID:001] GoalPos:725  PresPos:727       [ID:002] GoalPos:704  PresPos:701       [ID:000] GoalPos:582  PresPos:590
+target2 700
+[ID:001] GoalPos:720  PresPos:726       [ID:002] GoalPos:710  PresPos:701       [ID:000] GoalPos:581  PresPos:590
+[ID:001] GoalPos:720  PresPos:723       [ID:002] GoalPos:710  PresPos:706       [ID:000] GoalPos:581  PresPos:589
+[ID:001] GoalPos:720  PresPos:724       [ID:002] GoalPos:710  PresPos:718       [ID:000] GoalPos:581  PresPos:587
+[ID:001] GoalPos:720  PresPos:719       [ID:002] GoalPos:710  PresPos:716       [ID:000] GoalPos:581  PresPos:587
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:715  PresPos:000       [ID:002] GoalPos:715  PresPos:713       [ID:000] GoalPos:580  PresPos:587
+target2 700
+[ID:001] GoalPos:710  PresPos:720       [ID:002] GoalPos:720  PresPos:716       [ID:000] GoalPos:581  PresPos:587
+[ID:001] GoalPos:710  PresPos:722       [ID:002] GoalPos:720  PresPos:721       [ID:000] GoalPos:581  PresPos:587
+target2 700
+Traceback (most recent call last):
+  File "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py", line 544, in <module>
+    dxl2_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL2_ID, ADDR_AX_PRESENT_POSITION)
+  File "/usr/local/lib/python3.8/dist-packages/dynamixel_sdk-3.7.51-py3.8.egg/dynamixel_sdk/protocol1_packet_handler.py", line 376, in read2ByteTxRx
+IndexError: list index out of range
+~ via  v10.19.0 via 🐍 v3.8.10 took 4s
+  ✗! /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+target2 700
+[ID:001] GoalPos:677  PresPos:742       [ID:002] GoalPos:594  PresPos:775       [ID:000] GoalPos:739  PresPos:804
+[ID:001] GoalPos:677  PresPos:742       [ID:002] GoalPos:594  PresPos:773       [ID:000] GoalPos:739  PresPos:800
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:677  PresPos:733       [ID:002] GoalPos:594  PresPos:761       [ID:000] GoalPos:739  PresPos:000
+[ID:001] GoalPos:677  PresPos:716       [ID:002] GoalPos:594  PresPos:746       [ID:000] GoalPos:739  PresPos:769
+[ID:001] GoalPos:677  PresPos:708       [ID:002] GoalPos:594  PresPos:738       [ID:000] GoalPos:739  PresPos:764
+[ID:001] GoalPos:677  PresPos:699       [ID:002] GoalPos:594  PresPos:727       [ID:000] GoalPos:739  PresPos:752
+[ID:001] GoalPos:677  PresPos:688       [ID:002] GoalPos:594  PresPos:718       [ID:000] GoalPos:739  PresPos:741
+target2 700
+[ID:001] GoalPos:684  PresPos:679       [ID:002] GoalPos:590  PresPos:709       [ID:000] GoalPos:736  PresPos:732
+[ID:001] GoalPos:684  PresPos:679       [ID:002] GoalPos:590  PresPos:699       [ID:000] GoalPos:736  PresPos:735
+target2 700
+[ID:001] GoalPos:691  PresPos:685       [ID:002] GoalPos:587  PresPos:690       [ID:000] GoalPos:733  PresPos:739
+[ID:001] GoalPos:691  PresPos:688       [ID:002] GoalPos:587  PresPos:678       [ID:000] GoalPos:733  PresPos:736
+[ID:001] GoalPos:691  PresPos:688       [ID:002] GoalPos:587  PresPos:666       [ID:000] GoalPos:733  PresPos:732
+target2 700
+[ID:001] GoalPos:697  PresPos:692       [ID:002] GoalPos:584  PresPos:658       [ID:000] GoalPos:729  PresPos:730
+target2 700
+[ID:001] GoalPos:704  PresPos:695       [ID:002] GoalPos:582  PresPos:650       [ID:000] GoalPos:725  PresPos:730
+[ID:001] GoalPos:704  PresPos:698       [ID:002] GoalPos:582  PresPos:640       [ID:000] GoalPos:725  PresPos:727
+target2 700
+[ID:001] GoalPos:710  PresPos:704       [ID:002] GoalPos:581  PresPos:630       [ID:000] GoalPos:720  PresPos:726
+[ID:001] GoalPos:710  PresPos:708       [ID:002] GoalPos:581  PresPos:619       [ID:000] GoalPos:720  PresPos:721
+target2 700
+[ID:001] GoalPos:715  PresPos:710       [ID:002] GoalPos:580  PresPos:609       [ID:000] GoalPos:715  PresPos:719
+[ID:001] GoalPos:715  PresPos:711       [ID:002] GoalPos:580  PresPos:600       [ID:000] GoalPos:715  PresPos:718
+[ID:001] GoalPos:715  PresPos:715       [ID:002] GoalPos:580  PresPos:592       [ID:000] GoalPos:715  PresPos:718
+target2 700
+[ID:001] GoalPos:720  PresPos:715       [ID:002] GoalPos:581  PresPos:584       [ID:000] GoalPos:710  PresPos:717
+[ID:001] GoalPos:720  PresPos:716       [ID:002] GoalPos:581  PresPos:583       [ID:000] GoalPos:710  PresPos:713
+target2 700
+[ID:001] GoalPos:725  PresPos:719       [ID:002] GoalPos:582  PresPos:584       [ID:000] GoalPos:704  PresPos:712
+target2 700
+[ID:001] GoalPos:729  PresPos:722       [ID:002] GoalPos:584  PresPos:584       [ID:000] GoalPos:697  PresPos:708
+target2 700
+[ID:001] GoalPos:733  PresPos:728       [ID:002] GoalPos:587  PresPos:585       [ID:000] GoalPos:691  PresPos:702
+target2 700
+[ID:001] GoalPos:736  PresPos:731       [ID:002] GoalPos:590  PresPos:589       [ID:000] GoalPos:684  PresPos:693
+target2 700
+[ID:001] GoalPos:739  PresPos:734       [ID:002] GoalPos:594  PresPos:592       [ID:000] GoalPos:677  PresPos:686
+target2 700
+[ID:001] GoalPos:741  PresPos:737       [ID:002] GoalPos:599  PresPos:595       [ID:000] GoalPos:669  PresPos:681
+[ID:001] GoalPos:741  PresPos:739       [ID:002] GoalPos:599  PresPos:599       [ID:000] GoalPos:669  PresPos:674
+target2 700
+[ID:001] GoalPos:743  PresPos:739       [ID:002] GoalPos:605  PresPos:603       [ID:000] GoalPos:662  PresPos:672
+target2 700
+[ID:001] GoalPos:745  PresPos:741       [ID:002] GoalPos:611  PresPos:606       [ID:000] GoalPos:654  PresPos:667
+[ID:001] GoalPos:745  PresPos:741       [ID:002] GoalPos:611  PresPos:610       [ID:000] GoalPos:654  PresPos:662
+target2 700
+[ID:001] GoalPos:746  PresPos:743       [ID:002] GoalPos:617  PresPos:616       [ID:000] GoalPos:646  PresPos:657
+target2 700
+[ID:001] GoalPos:747  PresPos:744       [ID:002] GoalPos:624  PresPos:619       [ID:000] GoalPos:639  PresPos:650
+[ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:624  PresPos:622       [ID:000] GoalPos:639  PresPos:645
+target2 700
+[ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:631  PresPos:629       [ID:000] GoalPos:631  PresPos:644
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:639  PresPos:632       [ID:000] GoalPos:624  PresPos:638
+target2 700
+[ID:001] GoalPos:746  PresPos:746       [ID:002] GoalPos:646  PresPos:637       [ID:000] GoalPos:617  PresPos:631
+target2 700
+[ID:001] GoalPos:745  PresPos:745       [ID:002] GoalPos:654  PresPos:646       [ID:000] GoalPos:611  PresPos:623
+target2 700
+[ID:001] GoalPos:743  PresPos:746       [ID:002] GoalPos:662  PresPos:656       [ID:000] GoalPos:605  PresPos:616
+[ID:001] GoalPos:743  PresPos:744       [ID:002] GoalPos:662  PresPos:661       [ID:000] GoalPos:605  PresPos:609
+target2 700
+[ID:001] GoalPos:741  PresPos:741       [ID:002] GoalPos:669  PresPos:664       [ID:000] GoalPos:599  PresPos:607
+target2 700
+[ID:001] GoalPos:739  PresPos:740       [ID:002] GoalPos:677  PresPos:667       [ID:000] GoalPos:594  PresPos:607
+target2 700
+[ID:001] GoalPos:736  PresPos:740       [ID:002] GoalPos:684  PresPos:673       [ID:000] GoalPos:590  PresPos:604
+[ID:001] GoalPos:736  PresPos:739       [ID:002] GoalPos:684  PresPos:684       [ID:000] GoalPos:590  PresPos:597
+target2 700
+[ID:001] GoalPos:733  PresPos:735       [ID:002] GoalPos:691  PresPos:690       [ID:000] GoalPos:587  PresPos:593
+target2 700
+[ID:001] GoalPos:729  PresPos:732       [ID:002] GoalPos:697  PresPos:692       [ID:000] GoalPos:584  PresPos:592
+[ID:001] GoalPos:729  PresPos:730       [ID:002] GoalPos:697  PresPos:694       [ID:000] GoalPos:584  PresPos:592
+target2 700
+[ID:001] GoalPos:725  PresPos:729       [ID:002] GoalPos:704  PresPos:698       [ID:000] GoalPos:582  PresPos:591
+[ID:001] GoalPos:725  PresPos:729       [ID:002] GoalPos:704  PresPos:701       [ID:000] GoalPos:582  PresPos:589
+[ID:001] GoalPos:725  PresPos:726       [ID:002] GoalPos:704  PresPos:706       [ID:000] GoalPos:582  PresPos:589
+target2 700
+[ID:001] GoalPos:720  PresPos:724       [ID:002] GoalPos:710  PresPos:707       [ID:000] GoalPos:581  PresPos:589
+[ID:001] GoalPos:720  PresPos:723       [ID:002] GoalPos:710  PresPos:708       [ID:000] GoalPos:581  PresPos:589
+target2 700
+[ID:001] GoalPos:715  PresPos:721       [ID:002] GoalPos:715  PresPos:710       [ID:000] GoalPos:580  PresPos:589
+[ID:001] GoalPos:715  PresPos:720       [ID:002] GoalPos:715  PresPos:714       [ID:000] GoalPos:580  PresPos:587
+target2 700
+[ID:001] GoalPos:710  PresPos:715       [ID:002] GoalPos:720  PresPos:717       [ID:000] GoalPos:581  PresPos:587
+[ID:001] GoalPos:710  PresPos:711       [ID:002] GoalPos:720  PresPos:719       [ID:000] GoalPos:581  PresPos:587
+target2 700
+[ID:001] GoalPos:704  PresPos:710       [ID:002] GoalPos:725  PresPos:720       [ID:000] GoalPos:582  PresPos:587
+[ID:001] GoalPos:704  PresPos:710       [ID:002] GoalPos:725  PresPos:722       [ID:000] GoalPos:582  PresPos:587
+[ID:001] GoalPos:704  PresPos:707       [ID:002] GoalPos:725  PresPos:726       [ID:000] GoalPos:582  PresPos:587
+target2 700
+[ID:001] GoalPos:697  PresPos:704       [ID:002] GoalPos:729  PresPos:727       [ID:000] GoalPos:584  PresPos:587
+target2 700
+[ID:001] GoalPos:691  PresPos:701       [ID:002] GoalPos:733  PresPos:728       [ID:000] GoalPos:587  PresPos:586
+target2 700
+[ID:001] GoalPos:684  PresPos:698       [ID:002] GoalPos:736  PresPos:728       [ID:000] GoalPos:590  PresPos:587
+[ID:001] GoalPos:684  PresPos:692       [ID:002] GoalPos:736  PresPos:733       [ID:000] GoalPos:590  PresPos:591
+target2 700
+[ID:001] GoalPos:677  PresPos:684       [ID:002] GoalPos:739  PresPos:741       [ID:000] GoalPos:594  PresPos:593
+target2 700
+[ID:001] GoalPos:669  PresPos:681       [ID:002] GoalPos:741  PresPos:742       [ID:000] GoalPos:599  PresPos:596
+target2 700
+[ID:001] GoalPos:662  PresPos:676       [ID:002] GoalPos:743  PresPos:740       [ID:000] GoalPos:605  PresPos:601
+[ID:001] GoalPos:662  PresPos:671       [ID:002] GoalPos:743  PresPos:737       [ID:000] GoalPos:605  PresPos:608
+[ID:001] GoalPos:662  PresPos:664       [ID:002] GoalPos:743  PresPos:741       [ID:000] GoalPos:605  PresPos:610
+target2 700
+[ID:001] GoalPos:654  PresPos:663       [ID:002] GoalPos:745  PresPos:748       [ID:000] GoalPos:611  PresPos:610
+target2 700
+[ID:001] GoalPos:646  PresPos:663       [ID:002] GoalPos:746  PresPos:748       [ID:000] GoalPos:617  PresPos:610
+target2 700
+[ID:001] GoalPos:639  PresPos:656       [ID:002] GoalPos:747  PresPos:746       [ID:000] GoalPos:624  PresPos:619
+target2 700
+[ID:001] GoalPos:631  PresPos:645       [ID:002] GoalPos:747  PresPos:740       [ID:000] GoalPos:631  PresPos:629
+target2 700
+[ID:001] GoalPos:624  PresPos:639       [ID:002] GoalPos:747  PresPos:746       [ID:000] GoalPos:639  PresPos:636
+target2 700
+[ID:001] GoalPos:617  PresPos:633       [ID:002] GoalPos:746  PresPos:752       [ID:000] GoalPos:646  PresPos:640
+[ID:001] GoalPos:617  PresPos:626       [ID:002] GoalPos:746  PresPos:749       [ID:000] GoalPos:646  PresPos:644
+target2 700
+[ID:001] GoalPos:611  PresPos:618       [ID:002] GoalPos:745  PresPos:747       [ID:000] GoalPos:654  PresPos:652
+target2 700
+[ID:001] GoalPos:605  PresPos:615       [ID:002] GoalPos:743  PresPos:742       [ID:000] GoalPos:662  PresPos:656
+target2 700
+[ID:001] GoalPos:599  PresPos:615       [ID:002] GoalPos:741  PresPos:739       [ID:000] GoalPos:669  PresPos:662
+target2 700
+[ID:001] GoalPos:594  PresPos:609       [ID:002] GoalPos:739  PresPos:742       [ID:000] GoalPos:677  PresPos:670
+[ID:001] GoalPos:594  PresPos:604       [ID:002] GoalPos:739  PresPos:745       [ID:000] GoalPos:677  PresPos:681
+[ID:001] GoalPos:594  PresPos:596       [ID:002] GoalPos:739  PresPos:741       [ID:000] GoalPos:677  PresPos:683
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:590  PresPos:000       [ID:002] GoalPos:736  PresPos:732       [ID:000] GoalPos:684  PresPos:683
+target2 700
+[ID:001] GoalPos:587  PresPos:599       [ID:002] GoalPos:733  PresPos:733       [ID:000] GoalPos:691  PresPos:683
+target2 700
+[ID:001] GoalPos:584  PresPos:597       [ID:002] GoalPos:729  PresPos:740       [ID:000] GoalPos:697  PresPos:690
+[ID:001] GoalPos:584  PresPos:594       [ID:002] GoalPos:729  PresPos:736       [ID:000] GoalPos:697  PresPos:696
+target2 700
+[ID:001] GoalPos:582  PresPos:587       [ID:002] GoalPos:725  PresPos:729       [ID:000] GoalPos:704  PresPos:704
+target2 700
+[ID:001] GoalPos:581  PresPos:587       [ID:002] GoalPos:720  PresPos:721       [ID:000] GoalPos:710  PresPos:707
+target2 700
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:719       [ID:000] GoalPos:715  PresPos:709
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:723       [ID:000] GoalPos:715  PresPos:712
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:721       [ID:000] GoalPos:715  PresPos:718
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:719       [ID:000] GoalPos:715  PresPos:720
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:712       [ID:000] GoalPos:715  PresPos:719
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:712       [ID:000] GoalPos:715  PresPos:717
+target2 700
+[ID:001] GoalPos:581  PresPos:587       [ID:002] GoalPos:710  PresPos:720       [ID:000] GoalPos:720  PresPos:716
+[ID:001] GoalPos:581  PresPos:587       [ID:002] GoalPos:710  PresPos:719       [ID:000] GoalPos:720  PresPos:714
+[ID:001] GoalPos:581  PresPos:587       [ID:002] GoalPos:710  PresPos:714       [ID:000] GoalPos:720  PresPos:719
+target2 700
+[ID:001] GoalPos:582  PresPos:589       [ID:002] GoalPos:704  PresPos:710       [ID:000] GoalPos:725  PresPos:727
+target2 700
+[ID:001] GoalPos:584  PresPos:589       [ID:002] GoalPos:697  PresPos:707       [ID:000] GoalPos:729  PresPos:727
+target2 700
+[ID:001] GoalPos:587  PresPos:587       [ID:002] GoalPos:691  PresPos:701       [ID:000] GoalPos:733  PresPos:725
+target2 700
+[ID:001] GoalPos:590  PresPos:589       [ID:002] GoalPos:684  PresPos:697       [ID:000] GoalPos:736  PresPos:729
+target2 700
+[ID:001] GoalPos:594  PresPos:590       [ID:002] GoalPos:677  PresPos:691       [ID:000] GoalPos:739  PresPos:737
+target2 700
+[ID:001] GoalPos:599  PresPos:593       [ID:002] GoalPos:669  PresPos:688       [ID:000] GoalPos:741  PresPos:742
+target2 700
+[ID:001] GoalPos:605  PresPos:599       [ID:002] GoalPos:662  PresPos:682       [ID:000] GoalPos:743  PresPos:745
+target2 700
+[ID:001] GoalPos:611  PresPos:606       [ID:002] GoalPos:654  PresPos:672       [ID:000] GoalPos:745  PresPos:741
+[ID:001] GoalPos:611  PresPos:610       [ID:002] GoalPos:654  PresPos:662       [ID:000] GoalPos:745  PresPos:739
+target2 700
+[ID:001] GoalPos:617  PresPos:614       [ID:002] GoalPos:646  PresPos:657       [ID:000] GoalPos:746  PresPos:744
+target2 700
+[ID:001] GoalPos:624  PresPos:614       [ID:002] GoalPos:639  PresPos:653       [ID:000] GoalPos:747  PresPos:745
+target2 700
+[ID:001] GoalPos:631  PresPos:618       [ID:002] GoalPos:631  PresPos:648       [ID:000] GoalPos:747  PresPos:752
+[ID:001] GoalPos:631  PresPos:627       [ID:002] GoalPos:631  PresPos:639       [ID:000] GoalPos:747  PresPos:750
+[ID:001] GoalPos:631  PresPos:636       [ID:002] GoalPos:631  PresPos:633       [ID:000] GoalPos:747  PresPos:742
+target2 700
+[ID:001] GoalPos:639  PresPos:637       [ID:002] GoalPos:624  PresPos:632       [ID:000] GoalPos:747  PresPos:744
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:646  PresPos:000       [ID:002] GoalPos:617  PresPos:632       [ID:000] GoalPos:746  PresPos:745
+target2 700
+[ID:001] GoalPos:654  PresPos:641       [ID:002] GoalPos:611  PresPos:628       [ID:000] GoalPos:745  PresPos:750
+[ID:001] GoalPos:654  PresPos:645       [ID:002] GoalPos:611  PresPos:619       [ID:000] GoalPos:745  PresPos:749
+[ID:001] GoalPos:654  PresPos:651       [ID:002] GoalPos:611  PresPos:612       [ID:000] GoalPos:745  PresPos:743
+target2 700
+[ID:001] GoalPos:662  PresPos:657       [ID:002] GoalPos:605  PresPos:613       [ID:000] GoalPos:743  PresPos:741
+target2 700
+[ID:001] GoalPos:669  PresPos:660       [ID:002] GoalPos:599  PresPos:614       [ID:000] GoalPos:741  PresPos:739
+~ via  v10.19.0 via 🐍 v3.8.10 took 7s
+Korag-> /usr/bin/env python "/home/mamoon/Desktop/engineering/robotics/3dof_delta_robot_proj/code/motor_control/python/tests/protocol1_0/simultaneous_control.py"
+Succeeded to open the port
+Succeeded to change the baudrate
+Dynamixel#1 has been successfully connected
+Dynamixel#2 has been successfully connected
+Dynamixel#0 has been successfully connected
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+[RxPacketError] Out of range error!
+target2 700
+[ID:001] GoalPos:677  PresPos:748       [ID:002] GoalPos:594  PresPos:786       [ID:000] GoalPos:739  PresPos:776
+[ID:001] GoalPos:677  PresPos:748       [ID:002] GoalPos:594  PresPos:785       [ID:000] GoalPos:739  PresPos:774
+[ID:001] GoalPos:677  PresPos:740       [ID:002] GoalPos:594  PresPos:773       [ID:000] GoalPos:739  PresPos:758
+[ID:001] GoalPos:677  PresPos:726       [ID:002] GoalPos:594  PresPos:758       [ID:000] GoalPos:739  PresPos:744
+[ID:001] GoalPos:677  PresPos:717       [ID:002] GoalPos:594  PresPos:751       [ID:000] GoalPos:739  PresPos:737
+target2 700
+[ID:001] GoalPos:684  PresPos:707       [ID:002] GoalPos:590  PresPos:742       [ID:000] GoalPos:736  PresPos:733
+[ID:001] GoalPos:684  PresPos:698       [ID:002] GoalPos:590  PresPos:732       [ID:000] GoalPos:736  PresPos:737
+target2 700
+[ID:001] GoalPos:691  PresPos:686       [ID:002] GoalPos:587  PresPos:722       [ID:000] GoalPos:733  PresPos:738
+[ID:001] GoalPos:691  PresPos:684       [ID:002] GoalPos:587  PresPos:711       [ID:000] GoalPos:733  PresPos:737
+[ID:001] GoalPos:691  PresPos:688       [ID:002] GoalPos:587  PresPos:700       [ID:000] GoalPos:733  PresPos:734
+target2 700
+[ID:001] GoalPos:697  PresPos:695       [ID:002] GoalPos:584  PresPos:692       [ID:000] GoalPos:729  PresPos:729
+target2 700
+[ID:001] GoalPos:704  PresPos:697       [ID:002] GoalPos:582  PresPos:682       [ID:000] GoalPos:725  PresPos:726
+target2 700
+[ID:001] GoalPos:710  PresPos:698       [ID:002] GoalPos:581  PresPos:673       [ID:000] GoalPos:720  PresPos:727
+[ID:001] GoalPos:710  PresPos:705       [ID:002] GoalPos:581  PresPos:664       [ID:000] GoalPos:720  PresPos:725
+[ID:001] GoalPos:710  PresPos:712       [ID:002] GoalPos:581  PresPos:653       [ID:000] GoalPos:720  PresPos:722
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:715  PresPos:000       [ID:002] GoalPos:580  PresPos:638       [ID:000] GoalPos:715  PresPos:714
+target2 700
+[ID:001] GoalPos:720  PresPos:712       [ID:002] GoalPos:581  PresPos:631       [ID:000] GoalPos:710  PresPos:721
+[ID:001] GoalPos:720  PresPos:712       [ID:002] GoalPos:581  PresPos:623       [ID:000] GoalPos:710  PresPos:720
+[ID:001] GoalPos:720  PresPos:718       [ID:002] GoalPos:581  PresPos:613       [ID:000] GoalPos:710  PresPos:716
+target2 700
+[ID:001] GoalPos:725  PresPos:719       [ID:002] GoalPos:582  PresPos:601       [ID:000] GoalPos:704  PresPos:710
+[ID:001] GoalPos:725  PresPos:723       [ID:002] GoalPos:582  PresPos:594       [ID:000] GoalPos:704  PresPos:704
+target2 700
+[ID:001] GoalPos:729  PresPos:728       [ID:002] GoalPos:584  PresPos:587       [ID:000] GoalPos:697  PresPos:703
+target2 700
+[ID:001] GoalPos:733  PresPos:724       [ID:002] GoalPos:587  PresPos:586       [ID:000] GoalPos:691  PresPos:702
+target2 700
+[ID:001] GoalPos:736  PresPos:729       [ID:002] GoalPos:590  PresPos:589       [ID:000] GoalPos:684  PresPos:696
+target2 700
+[ID:001] GoalPos:739  PresPos:734       [ID:002] GoalPos:594  PresPos:592       [ID:000] GoalPos:677  PresPos:689
+target2 700
+[ID:001] GoalPos:741  PresPos:737       [ID:002] GoalPos:599  PresPos:594       [ID:000] GoalPos:669  PresPos:681
+[ID:001] GoalPos:741  PresPos:740       [ID:002] GoalPos:599  PresPos:599       [ID:000] GoalPos:669  PresPos:672
+target2 700
+[ID:001] GoalPos:743  PresPos:740       [ID:002] GoalPos:605  PresPos:603       [ID:000] GoalPos:662  PresPos:671
+target2 700
+[ID:001] GoalPos:745  PresPos:740       [ID:002] GoalPos:611  PresPos:605       [ID:000] GoalPos:654  PresPos:667
+[ID:001] GoalPos:745  PresPos:742       [ID:002] GoalPos:611  PresPos:609       [ID:000] GoalPos:654  PresPos:662
+target2 700
+[ID:001] GoalPos:746  PresPos:743       [ID:002] GoalPos:617  PresPos:616       [ID:000] GoalPos:646  PresPos:657
+target2 700
+[ID:001] GoalPos:747  PresPos:744       [ID:002] GoalPos:624  PresPos:619       [ID:000] GoalPos:639  PresPos:650
+[ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:624  PresPos:622       [ID:000] GoalPos:639  PresPos:645
+target2 700
+[ID:001] GoalPos:747  PresPos:745       [ID:002] GoalPos:631  PresPos:628       [ID:000] GoalPos:631  PresPos:644
+target2 700
+[ID:001] GoalPos:747  PresPos:746       [ID:002] GoalPos:639  PresPos:632       [ID:000] GoalPos:624  PresPos:637
+target2 700
+[ID:001] GoalPos:746  PresPos:745       [ID:002] GoalPos:646  PresPos:637       [ID:000] GoalPos:617  PresPos:631
+target2 700
+[ID:001] GoalPos:745  PresPos:745       [ID:002] GoalPos:654  PresPos:646       [ID:000] GoalPos:611  PresPos:623
+target2 700
+[ID:001] GoalPos:743  PresPos:745       [ID:002] GoalPos:662  PresPos:656       [ID:000] GoalPos:605  PresPos:616
+target2 700
+[ID:001] GoalPos:741  PresPos:744       [ID:002] GoalPos:669  PresPos:662       [ID:000] GoalPos:599  PresPos:609
+[ID:001] GoalPos:741  PresPos:741       [ID:002] GoalPos:669  PresPos:668       [ID:000] GoalPos:599  PresPos:605
+target2 700
+[ID:001] GoalPos:739  PresPos:739       [ID:002] GoalPos:677  PresPos:672       [ID:000] GoalPos:594  PresPos:605
+target2 700
+[ID:001] GoalPos:736  PresPos:739       [ID:002] GoalPos:684  PresPos:674       [ID:000] GoalPos:590  PresPos:603
+[ID:001] GoalPos:736  PresPos:737       [ID:002] GoalPos:684  PresPos:678       [ID:000] GoalPos:590  PresPos:598
+target2 700
+[ID:001] GoalPos:733  PresPos:737       [ID:002] GoalPos:691  PresPos:689       [ID:000] GoalPos:587  PresPos:595
+target2 700
+[ID:001] GoalPos:729  PresPos:735       [ID:002] GoalPos:697  PresPos:693       [ID:000] GoalPos:584  PresPos:593
+[ID:001] GoalPos:729  PresPos:730       [ID:002] GoalPos:697  PresPos:696       [ID:000] GoalPos:584  PresPos:592
+target2 700
+[ID:001] GoalPos:725  PresPos:728       [ID:002] GoalPos:704  PresPos:697       [ID:000] GoalPos:582  PresPos:591
+[ID:001] GoalPos:725  PresPos:728       [ID:002] GoalPos:704  PresPos:701       [ID:000] GoalPos:582  PresPos:590
+[ID:001] GoalPos:725  PresPos:727       [ID:002] GoalPos:704  PresPos:706       [ID:000] GoalPos:582  PresPos:589
+target2 700
+[ID:001] GoalPos:720  PresPos:724       [ID:002] GoalPos:710  PresPos:708       [ID:000] GoalPos:581  PresPos:589
+target2 700
+[ID:001] GoalPos:715  PresPos:722       [ID:002] GoalPos:715  PresPos:708       [ID:000] GoalPos:580  PresPos:589
+[ID:001] GoalPos:715  PresPos:721       [ID:002] GoalPos:715  PresPos:709       [ID:000] GoalPos:580  PresPos:589
+[ID:001] GoalPos:715  PresPos:717       [ID:002] GoalPos:715  PresPos:717       [ID:000] GoalPos:580  PresPos:589
+target2 700
+[ID:001] GoalPos:710  PresPos:713       [ID:002] GoalPos:720  PresPos:723       [ID:000] GoalPos:581  PresPos:589
+[ID:001] GoalPos:710  PresPos:711       [ID:002] GoalPos:720  PresPos:721       [ID:000] GoalPos:581  PresPos:589
+target2 700
+[ID:001] GoalPos:704  PresPos:710       [ID:002] GoalPos:725  PresPos:718       [ID:000] GoalPos:582  PresPos:589
+[ID:001] GoalPos:704  PresPos:710       [ID:002] GoalPos:725  PresPos:719       [ID:000] GoalPos:582  PresPos:589
+[ID:001] GoalPos:704  PresPos:707       [ID:002] GoalPos:725  PresPos:727       [ID:000] GoalPos:582  PresPos:589
+target2 700
+[ID:001] GoalPos:697  PresPos:704       [ID:002] GoalPos:729  PresPos:733       [ID:000] GoalPos:584  PresPos:589
+[ID:001] GoalPos:697  PresPos:700       [ID:002] GoalPos:729  PresPos:732       [ID:000] GoalPos:584  PresPos:589
+[ID:001] GoalPos:697  PresPos:697       [ID:002] GoalPos:729  PresPos:726       [ID:000] GoalPos:584  PresPos:589
+target2 700
+[ID:001] GoalPos:691  PresPos:698       [ID:002] GoalPos:733  PresPos:726       [ID:000] GoalPos:587  PresPos:589
+target2 700
+[ID:001] GoalPos:684  PresPos:697       [ID:002] GoalPos:736  PresPos:732       [ID:000] GoalPos:590  PresPos:589
+target2 700
+[ID:001] GoalPos:677  PresPos:689       [ID:002] GoalPos:739  PresPos:741       [ID:000] GoalPos:594  PresPos:592
+target2 700
+[ID:001] GoalPos:669  PresPos:681       [ID:002] GoalPos:741  PresPos:741       [ID:000] GoalPos:599  PresPos:596
+target2 700
+[ID:001] GoalPos:662  PresPos:672       [ID:002] GoalPos:743  PresPos:740       [ID:000] GoalPos:605  PresPos:603
+target2 700
+[ID:001] GoalPos:654  PresPos:669       [ID:002] GoalPos:745  PresPos:738       [ID:000] GoalPos:611  PresPos:608
+[ID:001] GoalPos:654  PresPos:664       [ID:002] GoalPos:745  PresPos:741       [ID:000] GoalPos:611  PresPos:613
+target2 700
+[ID:001] GoalPos:646  PresPos:657       [ID:002] GoalPos:746  PresPos:750       [ID:000] GoalPos:617  PresPos:614
+[ID:001] GoalPos:646  PresPos:651       [ID:002] GoalPos:746  PresPos:750       [ID:000] GoalPos:617  PresPos:617
+target2 700
+[ID:001] GoalPos:639  PresPos:648       [ID:002] GoalPos:747  PresPos:747       [ID:000] GoalPos:624  PresPos:618
+target2 700
+[ID:001] GoalPos:631  PresPos:647       [ID:002] GoalPos:747  PresPos:740       [ID:000] GoalPos:631  PresPos:626
+[ID:001] GoalPos:631  PresPos:645       [ID:002] GoalPos:747  PresPos:745       [ID:000] GoalPos:631  PresPos:634
+target2 700
+[ID:001] GoalPos:624  PresPos:637       [ID:002] GoalPos:747  PresPos:751       [ID:000] GoalPos:639  PresPos:636
+[ID:001] GoalPos:624  PresPos:631       [ID:002] GoalPos:747  PresPos:750       [ID:000] GoalPos:639  PresPos:639
+target2 700
+[ID:001] GoalPos:617  PresPos:626       [ID:002] GoalPos:746  PresPos:747       [ID:000] GoalPos:646  PresPos:639
+target2 700
+[ID:001] GoalPos:611  PresPos:626       [ID:002] GoalPos:745  PresPos:743       [ID:000] GoalPos:654  PresPos:647
+target2 700
+[ID:001] GoalPos:605  PresPos:621       [ID:002] GoalPos:743  PresPos:743       [ID:000] GoalPos:662  PresPos:657
+target2 700
+[ID:001] GoalPos:599  PresPos:613       [ID:002] GoalPos:741  PresPos:746       [ID:000] GoalPos:669  PresPos:665
+[ID:001] GoalPos:599  PresPos:606       [ID:002] GoalPos:741  PresPos:742       [ID:000] GoalPos:669  PresPos:671
+target2 700
+[ID:001] GoalPos:594  PresPos:601       [ID:002] GoalPos:739  PresPos:740       [ID:000] GoalPos:677  PresPos:672
+target2 700
+[ID:001] GoalPos:590  PresPos:601       [ID:002] GoalPos:736  PresPos:739       [ID:000] GoalPos:684  PresPos:676
+[ID:001] GoalPos:590  PresPos:600       [ID:002] GoalPos:736  PresPos:738       [ID:000] GoalPos:684  PresPos:682
+target2 700
+[ID:001] GoalPos:587  PresPos:595       [ID:002] GoalPos:733  PresPos:736       [ID:000] GoalPos:691  PresPos:690
+target2 700
+[ID:001] GoalPos:584  PresPos:594       [ID:002] GoalPos:729  PresPos:733       [ID:000] GoalPos:697  PresPos:693
+[ID:001] GoalPos:584  PresPos:592       [ID:002] GoalPos:729  PresPos:730       [ID:000] GoalPos:697  PresPos:695
+target2 700
+[ID:001] GoalPos:582  PresPos:591       [ID:002] GoalPos:725  PresPos:729       [ID:000] GoalPos:704  PresPos:698
+[ID:001] GoalPos:582  PresPos:591       [ID:002] GoalPos:725  PresPos:729       [ID:000] GoalPos:704  PresPos:704
+target2 700
+[ID:001] GoalPos:581  PresPos:589       [ID:002] GoalPos:720  PresPos:728       [ID:000] GoalPos:710  PresPos:708
+target2 700
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:723       [ID:000] GoalPos:715  PresPos:709
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:719       [ID:000] GoalPos:715  PresPos:711
+[ID:001] GoalPos:580  PresPos:587       [ID:002] GoalPos:715  PresPos:717       [ID:000] GoalPos:715  PresPos:719
+target2 700
+[ID:001] GoalPos:581  PresPos:586       [ID:002] GoalPos:710  PresPos:717       [ID:000] GoalPos:720  PresPos:721
+target2 700
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:582  PresPos:586       [ID:002] GoalPos:704  PresPos:716       [ID:000] GoalPos:725  PresPos:000
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:582  PresPos:586       [ID:002] GoalPos:704  PresPos:712       [ID:000] GoalPos:725  PresPos:000
+[TxRxResult] There is no status packet!
+[ID:001] GoalPos:582  PresPos:586       [ID:002] GoalPos:704  PresPos:708       [ID:000] GoalPos:725  PresPos:000
+[ID:001] GoalPos:582  PresPos:587       [ID:002] GoalPos:704  PresPos:706       [ID:000] GoalPos:725  PresPos:725
+target2 700
+[ID:001] GoalPos:584  PresPos:586       [ID:002] GoalPos:697  PresPos:704       [ID:000] GoalPos:729  PresPos:722
+target2 700
+[ID:001] GoalPos:587  PresPos:586       [ID:002] GoalPos:691  PresPos:703       [ID:000] GoalPos:733  PresPos:721
+target2 700
+[ID:001] GoalPos:590  PresPos:587       [ID:002] GoalPos:684  PresPos:698       [ID:000] GoalPos:736  PresPos:732
+[ID:001] GoalPos:590  PresPos:590       [ID:002] GoalPos:684  PresPos:692       [ID:000] GoalPos:736  PresPos:737
+target2 700
+[ID:001] GoalPos:594  PresPos:592       [ID:002] GoalPos:677  PresPos:686       [ID:000] GoalPos:739  PresPos:742
+target2 700
+[ID:001] GoalPos:599  PresPos:593       [ID:002] GoalPos:669  PresPos:680       [ID:000] GoalPos:741  PresPos:741
+target2 700
+[ID:001] GoalPos:605  PresPos:597       [ID:002] GoalPos:662  PresPos:674       [ID:000] GoalPos:743  PresPos:734
+[ID:001] GoalPos:605  PresPos:606       [ID:002] GoalPos:662  PresPos:670       [ID:000] GoalPos:743  PresPos:739
+target2 700
+[ID:001] GoalPos:611  PresPos:610       [ID:002] GoalPos:654  PresPos:667       [ID:000] GoalPos:745  PresPos:741
+target2 700
+[ID:001] GoalPos:617  PresPos:610       [ID:002] GoalPos:646  PresPos:661       [ID:000] GoalPos:746  PresPos:744
+target2 700
+[ID:001] GoalPos:624  PresPos:614       [ID:002] GoalPos:639  PresPos:656       [ID:000] GoalPos:747  PresPos:751
+[ID:001] GoalPos:624  PresPos:622       [ID:002] GoalPos:639  PresPos:646       [ID:000] GoalPos:747  PresPos:749
+target2 700
+[ID:001] GoalPos:631  PresPos:629       [ID:002] GoalPos:631  PresPos:639       [ID:000] GoalPos:747  PresPos:741
+target2 700
+[ID:001] GoalPos:639  PresPos:629       [ID:002] GoalPos:624  PresPos:639       [ID:000] GoalPos:747  PresPos:745
+target2 700
+[ID:001] GoalPos:646  PresPos:633       [ID:002] GoalPos:617  PresPos:636       [ID:000] GoalPos:746  PresPos:746
+target2 700
+[ID:001] GoalPos:654  PresPos:645       [ID:002] GoalPos:611  PresPos:628       [ID:000] GoalPos:745  PresPos:751
+[ID:001] GoalPos:654  PresPos:654       [ID:002] GoalPos:611  PresPos:617       [ID:000] GoalPos:745  PresPos:746
+target2 700
+[ID:001] GoalPos:662  PresPos:657       [ID:002] GoalPos:605  PresPos:611       [ID:000] GoalPos:743  PresPos:738
+[ID:001] GoalPos:662  PresPos:656       [ID:002] GoalPos:605  PresPos:611       [ID:000] GoalPos:743  PresPos:739
+[ID:001] GoalPos:662  PresPos:661       [ID:002] GoalPos:605  PresPos:611       [ID:000] GoalPos:743  PresPos:742
+target2 700
+[ID:001] GoalPos:669  PresPos:667       [ID:002] GoalPos:599  PresPos:611       [ID:000] GoalPos:741  PresPos:746
+~ via  v10.19.0 via 🐍 v3.8.10 took 7s
+Korag-> 
