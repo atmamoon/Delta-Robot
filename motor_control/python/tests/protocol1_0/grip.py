@@ -31,7 +31,7 @@
 import os
 from time import sleep
 import numpy as np
-
+import RPi.GPIO as GPIO
 if os.name == 'nt':
     import msvcrt
     def getch():
@@ -100,7 +100,7 @@ DXL_MINIMUM_SPEED_VALUE  = 50           # Dynamixel will rotate between this val
 #DXL_MAXIMUM_SPEED_VALUE  = 100            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
 DXL_MOVING_STATUS_THRESHOLD = 100                # Dynamixel moving status threshold
 
-speed=900
+speed=600
 
 compliance_slope= 4                #7 values (2,4,8,16,32,64,128)
 compliance_margin=100                # 0-255
@@ -158,7 +158,16 @@ GPIO.output(suction,GPIO.LOW)
 
 
 
-
+def change_gripper_state(state=False):
+    try:
+        #for i in range(2):
+        GPIO.output(suction,state)
+        print("gripper state changed")
+        #time.sleep(3)
+        #GPIO.output(suction,False)
+        #time.sleep(3)
+    except:
+        raise
 
 def InvKin(coordinates=[0,0,0.2]):
     #x,y,z=map(float,input("enter end-effector coordinates x y z\
@@ -474,14 +483,12 @@ while 1:
         if not ((abs(dxl_goal_position_1[index] - dxl1_present_position) > DXL_MOVING_STATUS_THRESHOLD) or (abs(dxl_goal_position_2[index] - dxl2_present_position) > DXL_MOVING_STATUS_THRESHOLD)or (abs(dxl_goal_position_3[index] - dxl3_present_position) > DXL_MOVING_STATUS_THRESHOLD)):
             break
 
-    try:
-        #for i in range(2):
-        GPIO.output(suction,True)
-        time.sleep(3)
-        GPIO.output(suction,False)
-        #time.sleep(3)
-    except:
-        raise
+    g_state=input("enter 'y' or 'n' to switch on/off the gripper: ")
+    if g_state=="y":
+        change_gripper_state(True)
+    else:
+        change_gripper_state()
+    
 
 
 
