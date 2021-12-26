@@ -101,11 +101,11 @@ DXL_MINIMUM_SPEED_VALUE  = 50           # Dynamixel will rotate between this val
 #DXL_MAXIMUM_SPEED_VALUE  = 100            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
 DXL_MOVING_STATUS_THRESHOLD = 100                # Dynamixel moving status threshold
 
-speed=600
+speed=300
 
-compliance_slope= 4                #7 values (2,4,8,16,32,64,128)
-compliance_margin=100                # 0-255
-torque_limit=512                       #0-1023
+compliance_slope= 8                #7 values (2,4,8,16,32,64,128)
+compliance_margin=25                # 0-255
+torque_limit=400                       #0-1023
 
 # Initialize PortHandler instance
 # Set the port path
@@ -486,7 +486,8 @@ elif dxl__error != 0:
 
 
 #r=0.06
-points=[[0.020,0,0.15],[0.0,0.03,0.15],[0.04,-0.03,0.15]]
+points=[[0.050,0,0.14],[0.05,0.02,0.245],[0.05,0,0.200],[-0.05,-0.06,0.16],[0.050,0,0.14],[0.05,0.02,0.245],[0.05,0,0.22],[0,-0.05,0.22]]
+#points=[[0.050,0,0.16]]
 #points=[[r*np.cos(theta*np.pi/180),r*np.sin(theta*np.pi/180),0.2] for theta in range(0,360,1)]
 coordinates=[]
 for i in points:
@@ -496,12 +497,13 @@ for i in points:
 sleep(1)
 
 move_to_location()
-grip_status=True
-for targets in coordinates:
-    move_to_location(targets)
-    sleep(1)
-    change_gripper_state(grip_status)
-    grip_status=not grip_status
+sleep(2)
+grip_status=[True,True,True,True,True,False,False,False]
+for targets in range(len(coordinates)):
+    move_to_location(coordinates[targets])
+    sleep(2)
+    change_gripper_state(grip_status[targets])
+    #grip_status=not grip_status
     sleep(2)
 
 move_to_location()
