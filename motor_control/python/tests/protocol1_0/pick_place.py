@@ -206,13 +206,13 @@ def InvKin(coordinates=[0,0,0.2]):
         #rospy.loginfo(f"\n\nThe three angles of the servos\
         #from their horizontal position are {theta}")
         
-        if __name__=="__main__":
+        #if __name__=="__main__":
             
-            return list(np.array((150+np.array(theta))*1023/300).astype(int))
+        return list(np.array((150+np.array(theta))*1023/300).astype(int))
 
 
 
-def move_to_location(coordi=InvKin(0,0,0.180)):
+def move_to_location(coordi=InvKin([0,0,0.180])):
     
     #coordinates=list(np.array(list(map(float,input("enter coordinates in mm: ").split())))/1000)
     #InvKin(coordi)
@@ -497,12 +497,12 @@ sleep(1)
 
 move_to_location()
 grip_status=True
-for targets in points:
+for targets in coordinates:
     move_to_location(targets)
-    sleep(0.1)
+    sleep(1)
     change_gripper_state(grip_status)
     grip_status=not grip_status
-    sleep(0.2)
+    sleep(2)
 
 move_to_location()
 change_gripper_state()
