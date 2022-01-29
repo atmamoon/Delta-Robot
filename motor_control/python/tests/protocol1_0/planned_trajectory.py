@@ -82,7 +82,7 @@ speed=300
 
 compliance_slope= 8                #7 values (2,4,8,16,32,64,128)
 compliance_margin=25                # 0-255
-torque_limit=400                       #0-1023
+torque_limit=600                       #0-1023
 
 # Initialize PortHandler instance
 # Set the port path
@@ -193,9 +193,9 @@ def modified_sine_trajectory(p1=[0,0,0.2],p2=[0.05,0.09,0.15]):
     p1=np.array(p1)
     p2=np.array(p2)
     S=np.linalg.norm(p1-p2)
-    max_vel=40
-    Cv=69.47
-    T=np.cbrt(Cv*S/max_vel)
+    accel_max=10
+    Cv=5.528
+    T=np.sqrt(Cv*S/accel_max)
 
     time_stamp=np.arange(0,T,T/100)
 
@@ -213,10 +213,12 @@ def modified_sine_trajectory(p1=[0,0,0.2],p2=[0.05,0.09,0.15]):
         Trajectory_points.append(list(p1+St[-1]*(-p1+p2)/S))
         inv_angles.append(InvKin(Trajectory_points[-1]))
 
-    print(Trajectory_points)
+    #print(Trajectory_points)
     plt.plot(time_stamp,Trajectory_points)
     plt.ylabel('trajectory_points')
     plt.show()
+    sleep(3)
+    plt.close("all")
 
     return inv_angles
 
@@ -499,16 +501,16 @@ elif dxl__error != 0:
 #points=[[r*np.cos(theta*np.pi/180),r*np.sin(theta*np.pi/180),0.2] for theta in range(0,360,1)]
 pick_location=np.array(list(map(float,input("enter pick location in mm: ").split())))/1000
 home=[0,0,0.2]
-goal_up=[pick_location[0],pick_location[1],pick_location[2]-0.020]
+goal_up=[pick_location[0],pick_location[1],pick_location[2]-0.008]
 points = [home,goal_up,pick_location,goal_up,home]
 coordinates=[]
 for i in range(len(points)-1):
     trajectory_angles=modified_sine_trajectory(points[i],points[i+1])
     for angles in trajectory_angles:
         move_to_location(angles)
-    if points[i+1]==pick_location:
+    if (np.array((points[i+1])==np.array(pick_location))).all():
         change_gripper_state(True)
-    elif points[i+1]==home:
+    elif (np.array(points[i+1])==np.array(home)).all():
         change_gripper_state()
     #coordinates.append(ikin_result)
 '''
