@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+from turtle import shape
 import urllib.request as ur
 #import rospy
 #from rospy.numpy_msg import numpy_msg
@@ -7,6 +8,7 @@ import urllib.request as ur
 import cv2
 #from cv_bridge import CvBridge
 import numpy as np
+from time import sleep
 #import ssl
 #from imageai import Detection
 '''
@@ -124,17 +126,22 @@ def test():
     cv2.destroyAllWindows()
 
 def detect_center():
-    port=2 #cam port for webcam
+    port=-1 #cam port for webcam
     video=cv2.VideoCapture(port)
     rslt,img=video.read()
-    cv2.imshow("camera_view",cv2.resize(img,(800,400)))
+    #480,640,3
+    #print(img.shape)
+    cv2.imshow("camera_view",cv2.resize(img,(400,200)))
+    cv2.waitKey(0)
+    img=img[160:480,120:360]
+    cv2.imshow("camera_view",img)
     cv2.waitKey(0)
     # Read the original image
     #img = cv2.imread('/home/mamoon/Downloads/test4.jpg')
     #img = cv2.imread('/home/mamoon/Desktop/engineering/test_img.jpg')
     #img = cv2.imread('/home/mamoon/Downloads/img2.jpg') 
     # Display original image
-    cv2.imshow('Original', cv2.resize(img,(800,400)))
+    #cv2.imshow('Original', cv2.resize(img,(800,400)))
     #cv2.waitKey(2000)
 
     # Convert to graycsale
@@ -153,14 +160,86 @@ def detect_center():
             cv2.circle(img, (cx, cy), 7, (0, 0, 255), -1)
             cv2.putText(img, "center", (cx - 20, cy - 20),cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 2)
             print(f"x: {cx} y: {cy}")
-    cv2.imshow('Original', cv2.resize(img,(800,800)))
+    cv2.imshow('Original', img)
+    #cv2.imshow('Original', cv2.resize(img,(400,200)))
     cv2.waitKey(0)
- 
+
+
+def using_hsv():
+    green=[(35, 40, 25), (70, 255, 255)]
+    orange=[(75,180,25),(105,255,255)]
+    red=[(75,180,25),(105,255,255)]
+    yellow=[(75,180,25),(105,255,255)]
+    blue=[(75,180,25),(105,255,255)]
+    #black=[(75,180,25),(105,255,255)]
+
+    port=-1 #cam port for webcam
+    video=cv2.VideoCapture(port)
+    rslt,img=video.read()
+    #480,640,3
+    print(img.shape)
+    cv2.imshow("camera_view",cv2.resize(img,(400,200)))
+    cv2.waitKey(0)
+    hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
+    #Create a mask for the object by selecting a possible range of HSV colors that the object can have:
+    mask = cv2.inRange(hsv, green[0],green[1])
+    #slice the object
+    imask = mask>0
+    #print(imask.shape)
+    img_msk = np.zeros_like(img, np.uint8)
+    img_msk[imask] = img[imask]
+    #orange=np.clip(orange, 0, 255)
+    print(img_msk[imask].shape)
+    new_image=cv2.cvtColor(img_msk,cv2.COLOR_HSV2RGB)
+    #new_image=cv2.cvtColor(new_image,cv2.COLOR_BGR2RGB)
+    cv2.imshow("detection",cv2.resize(img_msk,(400,200)))
+    cv2.waitKey(0)
+    #img_gray = cv2.cvtColor(new_image,cv2.COLOR_RGB2GRAY)
+    # Blur the image for better edge detection
+    #img_blur = cv2.GaussianBlur(img_gray, (3,3), 0) 
+    #ret, thresh = cv2.threshold(img_blur, 100, 255,cv2.THRESH_BINARY_INV)
+    #thresh= cv2.Canny(img_gray,0,200)
+    contours, hierarchies = cv2.findContours(mask, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
+    centers=[]
+    for i in contours:
+        M = cv2.moments(i)
+        if M['m00'] >100:
+            cx = int(M['m10']/M['m00'])
+            cy = int(M['m01']/M['m00'])
+            #cv2.drawContours(new_image, [i], -1, (0, 255, 0), 2)
+            #cv2.circle(new_image, (cx, cy), 7, (0, 0, 255), -1)
+            #cv2.putText(new_image, "center", (cx - 20, cy - 20),cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 2)
+            print(f"x: {cx} y: {cy}")
+            centers.append([cx,cy])
+    centers=np.array(centers)
+    print(centers.shape)
+    avg_center=np.mean(centers,axis=0)
+    print(avg_center)
+    cv2.circle(new_image, (int(avg_center[0]),int(avg_center[1])), 7, (0, 0, 255), -1)
+    cv2.imshow('Original', new_image)
+    #cv2.imshow('Original', cv2.resize(img,(400,200)))
+    cv2.waitKey(0)
+
+def video():
+    while True:
+        port=-1 #cam port for webcam
+        video=cv2.VideoCapture(port)
+        rslt,img=video.read()
+        if rslt==False:
+            continue
+        cv2.imshow("video",img)
+        q = cv2.waitKey(1)
+        if q == ord("q"):
+            break
+
 
 if __name__=="__main__":
     #test()
     #getimage()
-    detect_center()
+    using_hsv()
+    #focus()
+    #video()
+    #detect_center()
     '''try:
         getimage()
     except rospy.ROSInterruptException:
