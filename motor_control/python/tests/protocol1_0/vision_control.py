@@ -91,6 +91,42 @@ def getimage():
 
     cv2.destroyAllWindows()
 
+def rotate_image(img):
+    # Create a zeros image
+    #img = np.zeros((400,400), dtype=np.uint8)
+
+    # Specify the text location and rotation angle
+    text_location = (240,320)
+    angle = 12
+
+    # Draw the text using cv2.putText()
+    font = cv2.FONT_HERSHEY_SIMPLEX
+    #cv2.putText(img, 'TheAILearner', text_location, font, 1, 255, 2)
+
+    # Rotate the image using cv2.warpAffine()
+    M = cv2.getRotationMatrix2D(text_location, angle, 1)
+    out = cv2.warpAffine(img, M, (img.shape[1], img.shape[0]))
+
+    # Display the results
+    #cv2.imshow('img',out)
+    #cv2.waitKey(0)
+    return out
+
+def pixel_to_cartesian(pixels):
+    # image pixels (235,31) to (397,31) separated by cartesian distance of 60mm
+    # scale_x = 60/(397-235) = 60/162
+    # lets take scale_x = scale_y = 60/162
+    pixels=np.array([[pixels[0]-320],[pixels[1]-240]])
+    scale_x=60/162 # linear map factor from pixel to cartesian in mm
+    scale_y=60/162
+    offset_y= 30
+    offset_x= 10
+    rotation_cam2robot=np.array([[0,1],[-1,0]])
+    #x_cartesian= pixels[0] * scale_x  + offset_x
+    #y_cartesian= pixels[1] * scale_y + offset_y
+    offset=np.array([[offset_x],[offset_y]])
+    return np.dot(rotation_cam2robot,pixels) + offset       #cartesian coordinates w.r.t robot frame in mm
+
 
 
 def test():
@@ -121,20 +157,23 @@ def test():
     edges = cv2.Canny(image=img_blur, threshold1=100, threshold2=200) # Canny Edge Detection
     # Display Canny Edge Detection Image
     cv2.imshow('Canny Edge Detection', cv2.resize(edges,(800,400)))
-    cv2.waitKey(0)
-
-    cv2.destroyAllWindows()
+    cv2.waitKey(1)
 
 def detect_center():
     port=-1 #cam port for webcam
     video=cv2.VideoCapture(port)
     rslt,img=video.read()
+    
     #480,640,3
     #print(img.shape)
-    cv2.imshow("camera_view",cv2.resize(img,(400,200)))
+    #cv2.imshow("camera_view",cv2.resize(img,(400,200)))
+    cv2.imshow("rotated_cropped",img)
     cv2.waitKey(0)
-    img=img[160:480,120:360]
-    cv2.imshow("camera_view",img)
+    
+    img=rotate_image(img)
+    img=img[100:400,60:500]
+    #cv2.imshow("camera_view",cv2.resize(img,(400,200)))
+    cv2.imshow("rotated_cropped",img)
     cv2.waitKey(0)
     # Read the original image
     #img = cv2.imread('/home/mamoon/Downloads/test4.jpg')
@@ -180,6 +219,9 @@ def using_hsv():
     print(img.shape)
     cv2.imshow("camera_view",cv2.resize(img,(400,200)))
     cv2.waitKey(0)
+    img=rotate_image(img)
+    cv2.imshow("rotated",cv2.resize(img,(400,200)))
+    cv2.waitKey(0)
     hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
     #Create a mask for the object by selecting a possible range of HSV colors that the object can have:
     mask = cv2.inRange(hsv, green[0],green[1])
@@ -219,6 +261,7 @@ def using_hsv():
     cv2.imshow('Original', new_image)
     #cv2.imshow('Original', cv2.resize(img,(400,200)))
     cv2.waitKey(0)
+    return avg_center
 
 def video():
     while True:
@@ -227,19 +270,24 @@ def video():
         rslt,img=video.read()
         if rslt==False:
             continue
-        cv2.imshow("video",img)
+        rotated=rotate_image(img)
+        cv2.imshow("video",rotated)
         q = cv2.waitKey(1)
         if q == ord("q"):
+            print(rotated.shape)
             break
 
 
 if __name__=="__main__":
     #test()
     #getimage()
-    using_hsv()
+    #using_hsv()
     #focus()
     #video()
     #detect_center()
+    center=using_hsv()
+    cartesian_coordiantes= pixel_to_cartesian(center)
+    print("cartesian",cartesian_coordiantes)
     '''try:
         getimage()
     except rospy.ROSInterruptException:
