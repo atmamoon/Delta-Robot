@@ -162,7 +162,9 @@ GPIO.output(suction,GPIO.LOW)
 def read_location():
    
     
-    for i in range(10):
+    while True:
+        if getch() == "q":
+            break
         # Read Dynamixel#1 present position
         dxl1_present_position, dxl_comm_result, dxl_error = packetHandler.read2ByteTxRx(portHandler, DXL1_ID, ADDR_AX_PRESENT_POSITION)
         if dxl_comm_result != COMM_SUCCESS:
