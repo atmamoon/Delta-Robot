@@ -97,7 +97,7 @@ def rotate_image(img):
 
     # Specify the text location and rotation angle
     text_location = (240,320)
-    angle = 12
+    angle = 35
 
     # Draw the text using cv2.putText()
     font = cv2.FONT_HERSHEY_SIMPLEX
@@ -114,18 +114,21 @@ def rotate_image(img):
 
 def pixel_to_cartesian(pixels):
     # image pixels (235,31) to (397,31) separated by cartesian distance of 60mm
+    # image pixels (317,59) to (320,288) separated by cartesian distance of 85mm
     # scale_x = 60/(397-235) = 60/162
-    # lets take scale_x = scale_y = 60/162
+    # lets take scale_x  = 60/143
+    # similarly: scale_y = 85/206
     pixels=np.array([[pixels[0]-320],[pixels[1]-240]])
-    scale_x=60/162 # linear map factor from pixel to cartesian in mm
-    scale_y=60/162
-    offset_y= 30
-    offset_x= 10
+    scale_x=60/141 # linear map factor from pixel to cartesian in mm in camera frame
+    scale_y=85/200
+    offset_y= 120
+    offset_x= 15
     rotation_cam2robot=np.array([[0,1],[-1,0]])
     #x_cartesian= pixels[0] * scale_x  + offset_x
     #y_cartesian= pixels[1] * scale_y + offset_y
+    scale= np.array([[scale_x,0],[0,scale_y]])
     offset=np.array([[offset_x],[offset_y]])
-    return np.dot(rotation_cam2robot,pixels) + offset       #cartesian coordinates w.r.t robot frame in mm
+    return np.dot(rotation_cam2robot,np.dot(scale,pixels)) + offset       #cartesian coordinates w.r.t robot frame in mm
 
 
 
@@ -171,7 +174,7 @@ def detect_center():
     cv2.waitKey(0)
     
     img=rotate_image(img)
-    img=img[100:400,60:500]
+    img=img[100:400,60:380]
     #cv2.imshow("camera_view",cv2.resize(img,(400,200)))
     cv2.imshow("rotated_cropped",img)
     cv2.waitKey(0)
