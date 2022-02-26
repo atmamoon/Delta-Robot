@@ -53,6 +53,9 @@ else:
 
 from dynamixel_sdk import *                    # Uses Dynamixel SDK library
 
+COLOR = "red" #mention the color of object used
+
+
 # Control table address
 ADDR_AX_TORQUE_ENABLE      = 24               # Control table address is different in Dynamixel model
 ADDR_AX_GOAL_POSITION      = 30
@@ -101,13 +104,13 @@ DXL_MAXIMUM_POSITION_VALUE_3  = 700
 
 DXL_MINIMUM_SPEED_VALUE  = 50           # Dynamixel will rotate between this value
 #DXL_MAXIMUM_SPEED_VALUE  = 100            # and this value (note that the Dynamixel would not move when the position value is out of movable range. Check e-manual about the range of the Dynamixel you use.)
-DXL_MOVING_STATUS_THRESHOLD = 10                # Dynamixel moving status threshold
+DXL_MOVING_STATUS_THRESHOLD = 2                # Dynamixel moving status threshold
 
 speed=1023
 
 compliance_slope= 8                #7 values (2,4,8,16,32,64,128)
 compliance_margin=2                # 0-255
-torque_limit=600                       #0-1023
+torque_limit=1000                       #0-1023
 
 # Initialize PortHandler instance
 # Set the port path
@@ -183,11 +186,12 @@ def pixel_to_cartesian(pixels):
     # scale_x = 60/(397-235) = 60/162
     # lets take scale_x  = 60/143
     # similarly: scale_y = 85/206
+    #offset=np.array([0.033,0.035,0])
     pixels=np.array([[pixels[0]-320],[pixels[1]-240]])
     scale_x=60/141 # linear map factor from pixel to cartesian in mm in camera frame
     scale_y=85/200
-    offset_y= 120
-    offset_x= 15
+    offset_y= 115 - 43
+    offset_x= 15 - 8
     rotation_cam2robot=np.array([[0,1],[-1,0]])
     #x_cartesian= pixels[0] * scale_x  + offset_x
     #y_cartesian= pixels[1] * scale_y + offset_y
@@ -200,9 +204,12 @@ def pixel_to_cartesian(pixels):
 
 
 def segmentation_using_hsv():
+    color_thres={"red": 200, "green": 100, "yellow": 100, "blue":100, "orange": 100}
+    color_data={"red": [(170,130,25),(180,255,255),300], "green": [(35, 40, 25), (70, 255, 255),100], \
+        "yellow": [(75,180,25),(105,255,255),100], "blue":[(75,180,25),(105,255,255),100], "orange": [(75,180,25),(105,255,255),100]}
     green=[(35, 40, 25), (70, 255, 255)]
     orange=[(75,180,25),(105,255,255)]
-    red=[(75,180,25),(105,255,255)]
+    red=[(170,110,25),(180,255,255)]
     yellow=[(75,180,25),(105,255,255)]
     blue=[(75,180,25),(105,255,255)]
     #black=[(75,180,25),(105,255,255)]
@@ -219,7 +226,7 @@ def segmentation_using_hsv():
     cv2.waitKey(2000)
     hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
     #Create a mask for the object by selecting a possible range of HSV colors that the object can have:
-    mask = cv2.inRange(hsv, green[0],green[1])
+    mask = cv2.inRange(hsv, color_data[COLOR][0],color_data[COLOR][1])
     #slice the object
     imask = mask>0
     #print(imask.shape)
@@ -230,7 +237,7 @@ def segmentation_using_hsv():
     new_image=cv2.cvtColor(img_msk,cv2.COLOR_HSV2RGB)
     #new_image=cv2.cvtColor(new_image,cv2.COLOR_BGR2RGB)
     cv2.imshow("detection",cv2.resize(img_msk,(400,200)))
-    cv2.waitKey(2000)
+    cv2.waitKey(1000)
     #img_gray = cv2.cvtColor(new_image,cv2.COLOR_RGB2GRAY)
     # Blur the image for better edge detection
     #img_blur = cv2.GaussianBlur(img_gray, (3,3), 0) 
@@ -240,7 +247,7 @@ def segmentation_using_hsv():
     centers=[]
     for i in contours:
         M = cv2.moments(i)
-        if M['m00'] >100:
+        if M['m00'] >color_data[COLOR][2]:
             cx = int(M['m10']/M['m00'])
             cy = int(M['m01']/M['m00'])
             #cv2.drawContours(new_image, [i], -1, (0, 255, 0), 2)
@@ -279,7 +286,7 @@ def InvKin(coordinates=[0,0,0.135]):
     #coordinates=list(np.array(list(map(float,input("enter coordinates in mm: ").split())))/1000)
     
     if len(coordinates)==3:
-        x,y,z=coordinates
+        x,y,z=np.array(coordinates)
         z=-z
     else:
         x,y=coordinates
@@ -323,8 +330,8 @@ def modified_sine_trajectory(p1=[0,0,0.145],p2=[0.05,0.09,0.145]):
     accel_max=10
     Cv=5.528
     T=np.sqrt(Cv*S/accel_max)
-
-    time_stamp=np.arange(0,T,T/2000)
+    steps=4000
+    time_stamp=np.arange(0,T,T/steps)
 
     St=[]
     Trajectory_points=[]
@@ -341,11 +348,11 @@ def modified_sine_trajectory(p1=[0,0,0.145],p2=[0.05,0.09,0.145]):
         inv_angles.append(InvKin(Trajectory_points[-1]))
 
     #print(Trajectory_points)
-    plt.plot(time_stamp,Trajectory_points)
+    '''plt.plot(time_stamp,Trajectory_points)
     plt.ylabel('trajectory_points')
     plt.show()
-    sleep(3)
-    plt.close()
+    #sleep(1)
+    plt.close()'''
 
     return inv_angles
 
@@ -655,7 +662,7 @@ def setup_dynamixel():
 
 
 if __name__=="__main__":
-    depth=0.135
+    depth=0.138
     try:
         while True:
             print("enter any key to continue or 'q' to quit: ")
@@ -669,16 +676,22 @@ if __name__=="__main__":
             #points=[[r*np.cos(theta*np.pi/180),r*np.sin(theta*np.pi/180),0.2] for theta in range(0,360,1)]
             center=segmentation_using_hsv()
             target= pixel_to_cartesian(center)
-            home=[0,0,0.135]
+            
+            home=[0,0,0.145]
+            drop=[-0.04, -0.03, 0.100]
             print(target.shape)
             target=target.transpose()
+            
             target=np.insert(target, 0,target[0],axis=0)
             target=np.insert(target, 2,target[0],axis=0)
-            target=np.insert(target,2,[depth+0.005,depth+0.010,depth+0.005],axis=1)
-            target=np.insert(target,[0,3],home,axis=0)
+            target=np.insert(target,2,[depth+0.01,depth+0.070,depth+0.01],axis=1)
+            target=np.insert(target, 3,drop,axis=0)
+            target=np.insert(target,[0,4],home,axis=0)
             print(target)
+            pick_location=target[2]
             #points = np.array([list(map(float,input("enter coordinates in mm: ").split()))])/1000
             coordinates=[]
+
             '''for i in target:
                 ikin_result=InvKin(i)
                 if np.all(np.array(ikin_result))>=662 :
@@ -689,8 +702,8 @@ if __name__=="__main__":
 
             sleep(1)
 
-            #move_to_location()
-            sleep(2)
+            move_to_location()
+            #sleep(2)
             grip_status=[True,True,True,True,True,False,False,False]
             for location in range(len(coordinates)):
                 move_to_location(coordinates[location])
@@ -699,21 +712,30 @@ if __name__=="__main__":
                 #grip_status=not grip_status
                 #sleep(2)'''
 
+            #move_to_location()
+            #sleep(2)
             for i in range(len(target)-1):
                 trajectory_angles=modified_sine_trajectory(target[i],target[i+1])
                 for angles in trajectory_angles:
                     move_to_location(angles)
+                if i==0:
+                    sleep(2)
                     
-                '''if (np.array((target[i+1])==np.array(pick_location))).all():
+                if np.all(np.array((target[i+1])==pick_location)):
                     change_gripper_state(True)
-                elif (np.array(target[i+1])==np.array(home)).all():
-                    change_gripper_state()'''
+                    sleep(1)
+                elif np.all((np.array(target[i+1])==np.array(drop))):
+                    change_gripper_state()
+                    sleep(0.5)
             
             #move_to_location()
             #change_gripper_state()
             #sleep(4)
-            GPIO.cleanup()
+            
             disable_torque() #disabling dyanmixel torque'''
+        
+        GPIO.cleanup()
     except:
         disable_torque()
+        GPIO.cleanup()
         raise

@@ -209,8 +209,8 @@ def detect_center():
 
 def using_hsv():
     green=[(35, 40, 25), (70, 255, 255)]
-    orange=[(75,180,25),(105,255,255)]
-    red=[(75,180,25),(105,255,255)]
+    orange=[(75,150,25),(105,255,255)]
+    red=[(170,90,25),(180,255,255)]
     yellow=[(75,180,25),(105,255,255)]
     blue=[(75,180,25),(105,255,255)]
     #black=[(75,180,25),(105,255,255)]
@@ -227,7 +227,7 @@ def using_hsv():
     cv2.waitKey(0)
     hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
     #Create a mask for the object by selecting a possible range of HSV colors that the object can have:
-    mask = cv2.inRange(hsv, green[0],green[1])
+    mask = cv2.inRange(hsv, red[0],red[1])
     #slice the object
     imask = mask>0
     #print(imask.shape)
@@ -248,7 +248,7 @@ def using_hsv():
     centers=[]
     for i in contours:
         M = cv2.moments(i)
-        if M['m00'] >100:
+        if M['m00'] >300:
             cx = int(M['m10']/M['m00'])
             cy = int(M['m01']/M['m00'])
             #cv2.drawContours(new_image, [i], -1, (0, 255, 0), 2)
@@ -289,8 +289,8 @@ if __name__=="__main__":
     #video()
     #detect_center()
     center=using_hsv()
-    cartesian_coordiantes= pixel_to_cartesian(center)
-    print("cartesian",cartesian_coordiantes)
+    #cartesian_coordiantes= pixel_to_cartesian(center)
+    #print("cartesian",cartesian_coordiantes)
     '''try:
         getimage()
     except rospy.ROSInterruptException:
