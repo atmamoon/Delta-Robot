@@ -136,114 +136,9 @@ GPIO.setup(suction,GPIO.OUT)
 GPIO.output(suction,GPIO.LOW)
 
 
-def rotate_image(img):
-    # Create a zeros image
-    #img = np.zeros((400,400), dtype=np.uint8)
-
-    # Specify the text location and rotation angle
-    text_location = (240,320)
-    angle = 35
-
-    # Draw the text using cv2.putText()
-    font = cv2.FONT_HERSHEY_SIMPLEX
-    #cv2.putText(img, 'TheAILearner', text_location, font, 1, 255, 2)
-
-    # Rotate the image using cv2.warpAffine()
-    M = cv2.getRotationMatrix2D(text_location, angle, 1)
-    out = cv2.warpAffine(img, M, (img.shape[1], img.shape[0]))
-
-    # Display the results
-    #cv2.imshow('img',out)
-    #cv2.waitKey(0)
-    return out
 
 
 
-def pixel_to_cartesian(pixels):
-    # image pixels (235,31) to (397,31) separated by cartesian distance of 60mm
-    # image pixels (317,59) to (320,288) separated by cartesian distance of 85mm
-    # scale_x = 60/(397-235) = 60/162
-    # lets take scale_x  = 60/143
-    # similarly: scale_y = 85/206
-    #offset=np.array([0.033,0.035,0])
-    pixels=np.array([[pixels[0]-320],[pixels[1]-240]])
-    scale_x=60/141 # linear map factor from pixel to cartesian in mm in camera frame
-    scale_y=85/200
-    offset_y= 115 - 40
-    offset_x= 15 - 8
-    rotation_cam2robot=np.array([[0,1],[-1,0]])
-    #x_cartesian= pixels[0] * scale_x  + offset_x
-    #y_cartesian= pixels[1] * scale_y + offset_y
-    scale= np.array([[scale_x,0],[0,scale_y]])
-    offset=np.array([[offset_x],[offset_y]])
-    return (np.dot(rotation_cam2robot,np.dot(scale,pixels)) + offset)/1000       #cartesian coordinates w.r.t robot frame in mm
-
-
-
-
-
-def segmentation_using_hsv():
-    color_thres={"red": 200, "green": 100, "yellow": 100, "blue":100, "orange": 100}
-    color_data={"red": [(170,130,25),(180,255,255),300], "green": [(35, 40, 25), (70, 255, 255),100], \
-        "yellow": [(75,180,25),(105,255,255),100], "blue":[(75,180,25),(105,255,255),100], "orange": [(75,180,25),(105,255,255),100]}
-    green=[(35, 40, 25), (70, 255, 255)]
-    orange=[(75,180,25),(105,255,255)]
-    red=[(170,110,25),(180,255,255)]
-    yellow=[(75,180,25),(105,255,255)]
-    blue=[(75,180,25),(105,255,255)]
-    #black=[(75,180,25),(105,255,255)]
-
-    port=-1 #cam port for webcam
-    video=cv2.VideoCapture(port)
-    rslt,img=video.read()
-    #480,640,3
-    print(img.shape)
-    cv2.imshow("camera_view",cv2.resize(img,(400,200)))
-    cv2.waitKey(2000)
-    img=rotate_image(img)
-    cv2.imshow("rotated",cv2.resize(img,(400,200)))
-    cv2.waitKey(2000)
-    hsv = cv2.cvtColor(img, cv2.COLOR_BGR2HSV)
-    #Create a mask for the object by selecting a possible range of HSV colors that the object can have:
-    mask = cv2.inRange(hsv, color_data[COLOR][0],color_data[COLOR][1])
-    #slice the object
-    imask = mask>0
-    #print(imask.shape)
-    img_msk = np.zeros_like(img, np.uint8)
-    img_msk[imask] = img[imask]
-    #orange=np.clip(orange, 0, 255)
-    print(img_msk[imask].shape)
-    new_image=cv2.cvtColor(img_msk,cv2.COLOR_HSV2RGB)
-    #new_image=cv2.cvtColor(new_image,cv2.COLOR_BGR2RGB)
-    cv2.imshow("detection",cv2.resize(img_msk,(400,200)))
-    cv2.waitKey(1000)
-    #img_gray = cv2.cvtColor(new_image,cv2.COLOR_RGB2GRAY)
-    # Blur the image for better edge detection
-    #img_blur = cv2.GaussianBlur(img_gray, (3,3), 0) 
-    #ret, thresh = cv2.threshold(img_blur, 100, 255,cv2.THRESH_BINARY_INV)
-    #thresh= cv2.Canny(img_gray,0,200)
-    contours, hierarchies = cv2.findContours(mask, cv2.RETR_LIST, cv2.CHAIN_APPROX_SIMPLE)
-    centers=[]
-    for i in contours:
-        M = cv2.moments(i)
-        if M['m00'] >color_data[COLOR][2]:
-            cx = int(M['m10']/M['m00'])
-            cy = int(M['m01']/M['m00'])
-            #cv2.drawContours(new_image, [i], -1, (0, 255, 0), 2)
-            #cv2.circle(new_image, (cx, cy), 7, (0, 0, 255), -1)
-            #cv2.putText(new_image, "center", (cx - 20, cy - 20),cv2.FONT_HERSHEY_SIMPLEX, 0.5, (0, 0, 0), 2)
-            print(f"x: {cx} y: {cy}")
-            centers.append([cx,cy])
-    centers=np.array(centers)
-    print(centers.shape)
-    avg_center=np.mean(centers,axis=0)
-    print(avg_center)
-    cv2.circle(new_image, (int(avg_center[0]),int(avg_center[1])), 7, (0, 0, 255), -1)
-    cv2.imshow('Original', new_image)
-    #cv2.imshow('Original', cv2.resize(img,(400,200)))
-    cv2.waitKey(2000)
-    cv2.destroyAllWindows()
-    return avg_center
 
 
 def change_gripper_state(state=False):
@@ -260,7 +155,7 @@ def change_gripper_state(state=False):
 def InvKin(coordinates=[0,0,0.135]):
     #x,y,z=map(float,input("enter end-effector coordinates x y z\
     #    : ").split())
-    z=-0.15
+    z=-0.135
     x,y=[0,0]
     #coordinates=list(np.array(list(map(float,input("enter coordinates in mm: ").split())))/1000)
     
@@ -338,7 +233,7 @@ def modified_sine_trajectory(p1=[0,0,0.145],p2=[0.05,0.09,0.145]):
 
 
 
-def move_to_location(coordi=InvKin([0,0,0.180])):
+def move_to_location(coordi=InvKin([0,0,0.138])):
     if coordi[0]>=665 and coordi[1]>=665 and coordi[2]>=665:
         print("max depth exceeded!")
         sys.exit("max depth exceeded!")
@@ -643,17 +538,48 @@ def setup_dynamixel():
 if __name__=="__main__":
     depth=0.138
     try:
+        r=0.03
+            
+        steps=5000
+        points=[[r*np.cos((theta*360/steps)*np.pi/180),r*np.sin((theta*360/steps)*np.pi/180),depth] for theta in range(0,steps,1)]
+        angles=[]
+        print("performing Inverse Kinematics")
+        
+        for j in points:
+            angles.append(InvKin(j))
+        
+        print("Planning trajectory")
+        home_to_start=modified_sine_trajectory([0,0,0.138],points[0])
+        setup_dynamixel()
+        move_to_location()
+        for k in home_to_start:
+            move_to_location(k)
         while True:
             print("enter any key to continue or 'q' to quit: ")
             if getch()=="q":
                 break
 
             setup_dynamixel() # enable dynamixel torque, setting up limits
-            #r=0.06
-            #points=[[0.050,0,0.14],[0.05,0.02,0.245],[0.05,0,0.200],[-0.05,-0.06,0.16],[0.050,0,0.14],[0.05,0.02,0.245],[0.05,0,0.22],[0,-0.05,0.22]]
-            #points=[[0.050,0,0.16]]
-            #points=[[r*np.cos(theta*np.pi/180),r*np.sin(theta*np.pi/180),0.2] for theta in range(0,360,1)]
-            center=segmentation_using_hsv()
+            r=0.03
+            
+            '''steps=5000
+            points=[[r*np.cos((theta*360/steps)*np.pi/180),r*np.sin((theta*360/steps)*np.pi/180),depth] for theta in range(0,steps,1)]
+            angles=[]
+            for j in points:
+                angles.append(InvKin(j))
+            
+            print("Planning trajectory")
+            home_to_start=modified_sine_trajectory([0,0,0.138],points[0])'''
+            
+            '''move_to_location()
+            for k in home_to_start:
+                move_to_location(k)'''
+            #sleep(2)
+            for i in angles:
+                move_to_location(i)
+                
+            
+            '''center=segmentation_using_hsv()
             target= pixel_to_cartesian(center)
             
             home=[0,0,0.145]
@@ -669,7 +595,7 @@ if __name__=="__main__":
             print(target)
             pick_location=target[2]
             #points = np.array([list(map(float,input("enter coordinates in mm: ").split()))])/1000
-            coordinates=[]
+            coordinates=[]'''
 
             '''for i in target:
                 ikin_result=InvKin(i)
@@ -707,7 +633,7 @@ if __name__=="__main__":
                     change_gripper_state()
                     sleep(0.5)'''
             
-            trajectory_angles=[]
+            '''trajectory_angles=[]
             for i in range(len(target)-1):
                 print(f"generating trajectory b/w point{i} and {i+1}")
                 trajectory_angles.append([])
@@ -729,8 +655,8 @@ if __name__=="__main__":
             #change_gripper_state()
             #sleep(4)
             
-            disable_torque() #disabling dyanmixel torque'''
-        
+            disable_torque()''' #disabling dyanmixel torque'''
+        disable_torque()
         GPIO.cleanup()
     except:
         disable_torque()
